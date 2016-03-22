@@ -1,5 +1,5 @@
 # Francais
-update 7.5 en français
+update 7.7 en français
 
 
 Instructions.
