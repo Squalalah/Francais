@@ -1309,4 +1309,51 @@ Utilisation bande passante maximum: {3}</Item>
 		<Item Name="PathwayBlocked">Quelque chose bloque ce passage.</Item>
 		<Item Name="Sweep selection">Selection du paysage</Item>
 	</Alpha7.5>
+	<Alpha7.6>
+		<Item Name="Minigame">Minijeu</Item>
+		<Item Name="MinigameLifeError">Tu as déjà perdu toute tes vies.</Item>
+		<Item Name="Lives left">Vies restantes</Item>
+		<Item Name="Multiplier">Multiplicateur</Item>
+		<Item Name="MinigameHint">Seulement recommandé pour les petits projets au commencement</Item>
+		<Item Name="UMLGameHint">Cliquez pour commencer
+		
+Connectez toutes les boites avant que toute les boites d'un groupe affiche 0
+
+Vous ne pouvez pas connecter la même boite deux fois.
+
+Vous pouvez faire des boucles
+
+Ne laissez pas une boite aller au centre.</Item>
+		<Item Name="CodeGameHint">Cliquez pour commencer
+
+Ecrivez les mots sur l'écran
+
+Vous devez taper le mot entier une fois que vous commencez à taper, vous ne pouvez supprimer une lettre.
+
+Quand vous completez un mot, votre multiplication de score augmente
+
+Le multiplicateur se reinitialise quand vous vous trompez de lettre ou quand un mot atteint le fond.
+
+Ne laissez pas les mots atteindre le font.</Item>
+		<Item Name="OwnLicense">Utiliser ses propres licenses</Item>
+	</Alpha7.6>
+	<Alpha7.7>
+		<Item Name="Hyping">Popularité</Item>
+		<Item Name="Fulfilling contract">Contrat realisé</Item>
+		<Item Name="Time-limit">Temps limite</Item>
+		<Item Name="Required quality">Qualité requise</Item>
+		<Item Name="Upfront">Important</Item>
+		<Item Name="When done">Terminé</Item>
+		<Item Name="Penalty">Penalités</Item>
+		<Item Name="Cost per bug">Coût par bug</Item>
+		<Item Name="Bug penalty">Penalité des bugs</Item>
+		<Item Name="Late penalty">Pénalité de retard</Item>
+		<Item Name="Quality penalty">Pénalité de qualité</Item>
+		<Item Name="Cancel penalty">Pénalité d'abandon</Item>
+		<Item Name="Net profit">Profit net</Item>
+		<Item Name="Delivered">Distribué</Item>
+		<Item Name="Max bandwidth">Bande passante max</Item>
+		<Item Name="Look again">Vérifier</Item>
+		<Item Name="LookAgainPrompt">Êtes vous sur de vouloir verifier à nouveau? Cela vous coûtera {0}</Item>
+	</Alpha7.7>
 </UI>
