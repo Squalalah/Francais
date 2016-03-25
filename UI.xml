@@ -100,7 +100,7 @@
 		<Item Name="BuildMode">Mode Construction</Item>
 		<Item Name="BuildModeDesc">Cliquez ici pour activer le mode Construction, dans lequel vous pouvez contruire et equiper vos bureaux et construire des routes ainsi qu'un parking</Item>
 		<Item Name="Monthly profits">Profits Mensuels</Item>
-		<Item Name="SkipTime">Passer le temps inutile</Item>
+		<Item Name="SkipTime">Passer le temps</Item>
 		<Item Name="SkipTimeDesc">Si personne est dans les locaux, vous pouvez passer le temps jusqu'à qu'une personne arrive.</Item>
 		<Item Name="Contruct">Construire</Item>
 		<Item Name="ContructHint">Construiez des salles, portes, ascenseurs et des fenêtres</Item>
