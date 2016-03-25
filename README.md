@@ -1,5 +1,5 @@
 # Francais
-update 8.2 en français
+update 8.6 en français
 
 
 Instructions.
