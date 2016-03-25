@@ -1445,7 +1445,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="SoftwareFeatureError">Vous avez besoin d'une fonctionnalité pour lancer le développement.</Item>
 	</Alpha8.4>
 	<Alpha8.5>
-		<Item Name="Bank">Banque</Item>
+		<Item Name="Bank">Capital</Item>
 		<Item Name="HintGridSnapToWall">Vous pouvez utiliser le bouton "grillage ancré", en haut à gauche du bouton "construire", pour changer la grille en mur. Cela rend un peu plus facile l'alignement des meubles avec les murs inclinés.</Item>
 	</Alpha8.5>
 	<Alpha8.6>
