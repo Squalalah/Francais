@@ -722,8 +722,8 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="ContractFinish">Vous avez finit ce contrat pour la somme de {0}</Item>
 		<Item Name="Alpha">Alpha</Item>
 		<Item Name="Beta">Beta</Item>
-		<Item Name="Promote">Promouvoir</Item>
-		<Item Name="Release">Parution</Item>
+		<Item Name="Promote">Beta</Item>
+		<Item Name="Release">Terminé</Item>
 		<Item Name="Delay">Délai</Item>
 		<Item Name="NoBugs">Aucun bug à corriger</Item>
 		<Item Name="StillBugs">{0} bugs corrigés</Item>
