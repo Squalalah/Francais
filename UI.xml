@@ -1460,4 +1460,17 @@ Cliquez pour continuer.</Item>
 		<Item Name="HintWorkItemActions">Vous pouvez faire un clic gauche et glissez les outils de travail afin de les ré-ordonner dans la liste. Vous pouvez faire un clic droit sur un outil de travail pour le réduire.</Item>
 		<Item Name="Uploaded">Uploadé</Item>
 	</Alpha8.6>
+	<Alpha8.7>
+		<Item Name="BlueprintPrompt">Merci de choisir un nom pour votre plan.</Item>
+		<Item Name="BlueprintPromptTitle">Nom du plan.</Item>
+		<Item Name="BlueprintPromptDefault">Mes plans.</Item>
+		<Item Name="BlueprintPromptError">Ce nom est déjà pris.</Item>
+		<Item Name="BlueprintButton">Plans de construction.</Item>
+		<Item Name="BlueprintButtonDesc">Choisissez depuis une liste un batiment pré-construit et meublé.</Item>
+		<Item Name="SaveBlueprint">Sauvegarder les salles selectionnées.</Item>
+		<Item Name="Blueprints">Plans</Item>
+		<Item Name="Build">Construire</Item>
+		<Item Name="BlueprintSaveError">Sauvegarde du plan sttopé, code erreur: {0}</Item>
+		<Item Name="BlueprintSteamDelete">Merci de vous désabonner de cet objet sur le Steam Workshop. Si vous avez l'avez uploadé sur le Workshop, merci de le supprimer manuellement via le dossier "Bluprints".</Item>
+	</Alpha8.7>
 </UI>
