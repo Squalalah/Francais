@@ -1457,7 +1457,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="SteamUploadDenied">Vous n'avez pas la permission d'upload ce mod sur le Steam Workshop</Item>
 		<Item Name="SteamUploadFileType">Fichier trouvé de type {0}. Merci d'upload que des fichiers utiles.</Item>
 		<Item Name="SteamUploadConfirmation">Êtes vous sûr de vouloir upload ce mod sur le Steam Workshop? Merci de ne pas upload un travail qui ne vous appartient pas.</Item>
-		<Item Name="HintWorkItemActions">Vous pouvez faire un clic gauche et glissez les outils de travail afin de les ré-ordonner dans la liste. Vous pouvez faire un clic droit sur un outil de travail pour le réduire.</Item>
+		<Item Name="HintWorkItemActions">Vous pouvez faire un clic gauche et glissez la tâche d'équipe afin de les ré-ordonner. Vous pouvez également faire un clic droit sur la tâche pour la réduire.</Item>
 		<Item Name="Uploaded">Uploadé</Item>
 	</Alpha8.6>
 	<Alpha8.7>
