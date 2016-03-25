@@ -64,8 +64,8 @@
 		<Item Name="MainContractDesc">Prenez un Contrat de travail. Developper un logiciel peut coûter cher, acceptez un contrat afin d'avoir un peu d'argent en compensation.</Item>
 		<Item Name="MainServer">Serveurs</Item>
 		<Item Name="MainServerDesc">Configurez vos serveurs et répartissez la charge.</Item>
-		<Item Name="MainEmployees">Gérer les employés</Item>
-		<Item Name="MainEmployeesDesc">La liste de tout vos employés</Item>
+		<Item Name="MainEmployees">Gérer les salariés</Item>
+		<Item Name="MainEmployeesDesc">La liste de tout vos salariés</Item>
 		<Item Name="MainHire">Embaucher des salariés</Item>
 		<Item Name="MainHireDesc">Consultez les annonces, proposez des rendez vous pour embaucher un salarié</Item>
 		<Item Name="MainTeam">Gérer les équipes</Item>
@@ -107,7 +107,7 @@
 		<Item Name="Furnish">Equipement</Item>
 		<Item Name="FurnishHint">Placez divers equipements dans vos salles afin de les rendre fonctionnel</Item>
 		<Item Name="Roads">Route</Item>
-		<Item Name="RoadsHint">Construisez des routes et un parking afin que vos employés arrivent plus vite au travail</Item>
+		<Item Name="RoadsHint">Construisez des routes et un parking afin que vos salariés arrivent plus vite au travail</Item>
 	</MainPanel>
 	<Columns>
 		<Item Name="Name">Nom</Item>
@@ -379,7 +379,7 @@
 	</Marketing>
 	<OptionsWindow>
 		<Item Name="Auto-skip day">Passer la journée</Item>
-		<Item Name="AutoSkipHint">Va passer le temps jusqu'à qu'un employé arrive si personne n'est présent.</Item>
+		<Item Name="AutoSkipHint">Va passer le temps jusqu'à qu'un salarié arrive si personne n'est présent.</Item>
 		<Item Name="Currency">Devise</Item>
 		<Item Name="Difficulty">Difficulté</Item>
 		<Item Name="Run in background">Fonctionne en arrière plan</Item>
@@ -443,7 +443,7 @@
 		<Item Name="Fastest game speed">Vitesse très rapide</Item>
 		<Item Name="Toggle camera mode">Changer le mode Caméra</Item>
 		<Item Name="Hide HUD">Cacher l'Interface</Item>
-		<Item Name="Go to employee">Voir les employés</Item>
+		<Item Name="Go to employee">Voir les salariés</Item>
 		<Item Name="Destroy selected">Vendre/Virer/Détruire la selection</Item>
 		<Item Name="Toggle Build Mode">Changer le monde Construction</Item>
 	</OptionsWindow>
@@ -505,29 +505,29 @@
 		<Item Name="SalaryCutComplaint">Mon salaire a été réduit</Item>
 	</Thoughts>
 	<Warnings>
-		<Item Name="UnsatisfiedEmployeesWarning">Certains employés ne sont pas heureux avec leur travail</Item>
-		<Item Name="StarvingWarning">Un employé est énervé et a des problèmes pour travailler</Item>
-		<Item Name="HasToPeeWarning">Un employé veut aller aux toilettes et a des problèmes pour travailler</Item>
-		<Item Name="WornOutWarning">Un employé est fatigué et ne veux pas travailler</Item>
-		<Item Name="FreezingWarning">Un employé a très froid</Item>
-		<Item Name="BurningWarning">Un employé a très chaud</Item>
-		<Item Name="NoSeeWarning">Un employé est coincé dans le noir</Item>
-		<Item Name="RoomDirtyWarning">Un employé est choqué par la vue de son bureau</Item>
+		<Item Name="UnsatisfiedEmployeesWarning">Certains salariés ne sont pas heureux avec leur travail</Item>
+		<Item Name="StarvingWarning">Un salarié est énervé et a des problèmes pour travailler</Item>
+		<Item Name="HasToPeeWarning">Un salarié veut aller aux toilettes et a des problèmes pour travailler</Item>
+		<Item Name="WornOutWarning">Un salarié est fatigué et ne veux pas travailler</Item>
+		<Item Name="FreezingWarning">Un salarié a très froid</Item>
+		<Item Name="BurningWarning">Un salarié a très chaud</Item>
+		<Item Name="NoSeeWarning">Un salarié est coincé dans le noir</Item>
+		<Item Name="RoomDirtyWarning">Un salarié est choqué par la vue de son bureau</Item>
 		<Item Name="RoomDirtyWarning2">Une pièce est sale et a besoin d'être nettoyé</Item>
-		<Item Name="ComputerBadWarning">Un employé se plaint d'un PC lent</Item>
-		<Item Name="NoiseWarning">Un employé a un problème de concentration</Item>
+		<Item Name="ComputerBadWarning">Un salarié se plaint d'un PC lent</Item>
+		<Item Name="NoiseWarning">Un salarié a un problème de concentration</Item>
 		<Item Name="OtherTeamWarning">Il y a trop d'équipe dans une seule salle</Item>
 		<Item Name="CannotAfford">Vous ne pouvez faire cela</Item>
 		<Item Name="BusFullWarning">Les bus sont plein, pensez à construire un parking</Item>
 		<Item Name="Click and drag">Cliquer et Glisser</Item>
 		<Item Name="RoomClosedOff">Il n'y a aucun moyen d'aller dans cette salle,
 Créez une porte ou un ascenseur</Item>
-		<Item Name="PublicToiletWarning">Les employés n'utilisent pas les toilettes en public,
+		<Item Name="PublicToiletWarning">Les salariés n'utilisent pas les toilettes en public,
 separez les avec plusieurs pièces.</Item>
 		<Item Name="RoomTempratureWarning">La temperature varie beaucoup dans cette pièce,
 Ajoutez plus de ventilateurs ou de climatisations</Item>
 		<Item Name="RoomOvercrowdWarning">Il y a beaucoup d'ordinateurs dans cette pièce,
-Trop d'employé dans une salle peut les distraire</Item>
+Trop d'salarié dans une salle peut les distraire</Item>
 		<Item Name="RoomLighingWaning">Il n'y a pas assez de lumière ici, ajoutez des fenêtres ou des lampes</Item>
 		<Item Name="FurnitureBrokeWarning">Certains equipements sont cassés et doivent être réparé</Item>
 		<Item Name="UnsupportedStructure">Cette structure n'est pas supporté</Item>
@@ -570,8 +570,8 @@ Si vous voulez séparer une salle, vous devez construire mur par mur</Item>
 		<Item Name="OverwriteConfirmMsg">Etes vous sur de vouloir écraser la sauvegarde ?</Item>
 		<Item Name="OverwriteConfirmTitle">Confirmation</Item>
 		<Item Name="DismissTitle">Congédier</Item>
-		<Item Name="DismissMsg">Etes vous sur de congédier {0} employés?</Item>
-		<Item Name="DismissMsg2">Vous avez congédié {0} employés</Item>
+		<Item Name="DismissMsg">Etes vous sur de congédier {0} salariés?</Item>
+		<Item Name="DismissMsg2">Vous avez congédié {0} salariés</Item>
 		<Item Name="SellTitle">Vendre</Item>
 		<Item Name="SellMsg">Etes vous sûr de vouloir vendre ces {0} équipements</Item>
 		<Item Name="SellMsg2">Vous avez vendu {0} équipements</Item>
@@ -607,7 +607,7 @@ Etes vous sur de vouloir continuer?</Item>
 		<Item Name="DistributionServerError">Merci de choisir un serveur</Item>
 		<Item Name="DistributionNameWarning">Etes vous sur de vouloir ouvrir une chaine de distribution nommé {0}? Vous ne pourrez changer ce nom par la suite.</Item>
 		<Item Name="DistributionOfflineWarning">Etes vous sur de vouloir fermer votre chaine de distribution? Cela va mettre en colère vos clients et les leurs.</Item>
-		<Item Name="EmployeeCourseBookError">Le(s) employé(s) que vous avez selectionné sont déjà en formation</Item>
+		<Item Name="EmployeeCourseBookError">Le(s) salarié(s) que vous avez selectionné sont déjà en formation</Item>
 		<Item Name="TeamNameError">Une équipe avec ce nom existe déjà</Item>
 		<Item Name="TeamEmptyNameError">Merci d'entrer un nom d'equipe</Item>
 		<Item Name="LowMoneyHireWarning">Vous avez un capital limité pour soutenir votre entreprise si vous embauchez {0}. Etes vous sur de ne pas vouloir attendre?</Item>
@@ -669,29 +669,29 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="Decoration">Décoration</Item>
 	</BuildMode>
 	<RightClick>
-		<Item Name="ActionPair">Assigner un objet à un employé</Item>
+		<Item Name="ActionPair">Assigner un objet à un salarié</Item>
 		<Item Name="ActionDefault Style">Définir comme style par défaut</Item>
 		<Item Name="ActionUnify Style">Unifier le style des elements sélectionnés</Item>
 		<Item Name="ActionRoom Color">Couleurs de pièce</Item>
 		<Item Name="ActionMaterial">Motifs de pièce</Item>
-		<Item Name="ActionEducate">Former des employés</Item>
-		<Item Name="ActionDismiss">Congédier des employés</Item>
+		<Item Name="ActionEducate">Former des salariés</Item>
+		<Item Name="ActionDismiss">Congédier des salariés</Item>
 		<Item Name="ActionSell">Vendre les meubles</Item>
 		<Item Name="ActionDestroy">Détruire la pièce</Item>
 		<Item Name="ActionChange Team">Changer d'équipe</Item>
 		<Item Name="ActionLimit Use">Limiter l'utilisation de la pièce</Item>
 		<Item Name="ActionSelect Building">Selectionner la batiment entier</Item>
-		<Item Name="ActionChange Role">Changer le rôle des employés</Item>
-		<Item Name="ActionSend home">Renvoyer les employés chez eux</Item>
+		<Item Name="ActionChange Role">Changer le rôle des salariés</Item>
+		<Item Name="ActionSend home">Renvoyer les salariés chez eux</Item>
 		<Item Name="ActionFurniture color">Couleur des meubles</Item>
 		<Item Name="ActionTypes in Room">Selectionner le type de meuble dans les pièces choisis</Item>
-		<Item Name="ActionDetails">Détail des employés</Item>
-		<Item Name="ActionChange Salary">Changer le salaire des employés</Item>
+		<Item Name="ActionDetails">Détail des salariés</Item>
+		<Item Name="ActionChange Salary">Changer le salaire des salariés</Item>
 		<Item Name="ActionSelect Team">Selectionner l'équipe entière</Item>
-		<Item Name="ActionSelect Owned">Selectionner les meubles assignés à l'employé</Item>
+		<Item Name="ActionSelect Owned">Selectionner les meubles assignés au salarié</Item>
 		<Item Name="ActionSelect Staff">Selectionner les meuble de la pièce</Item>
 		<Item Name="ActionUnpair">Désassigner le(s) meuble(s)</Item>
-		<Item Name="ActionPair Use">Assigner le meuble utilisé à l'employé</Item>
+		<Item Name="ActionPair Use">Assigner le meuble utilisé ausalarié</Item>
 		<Item Name="ActionUpgrade">Améliorer le meuble au niveau supérieur</Item>
 		<Item Name="ActionMove">Déplacer le meuble</Item>
 	</RightClick>
@@ -862,7 +862,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="Inventor">Inventeur</Item>
 		<Item Name="CustomLeaderHint">Augmente l'abilité à souder une équipe, ainsi que leurs capacités et à gérer divers tâches</Item>
 		<Item Name="CustomProgrammerHint">Augmente la vitesse et la qualité que les programmeurs peuvent donner et une réparation des bugs plus rapide</Item>
-		<Item Name="CustomDesignerHint">Augmente la vitesse de travail sur le design et permet à l'employé de mieux arrêter avant que le design devienne trop complexe</Item>
+		<Item Name="CustomDesignerHint">Augmente la vitesse de travail sur le design et permet à l'salarié de mieux arrêter avant que le design devienne trop complexe</Item>
 		<Item Name="CustomArtistHint">Augmente la vitesse et la qualité que les artistes peuvent donner à un produit et une réparation des défauts plus rapide</Item>
 		<Item Name="CustomMarketerHint">Augmente l'efficacité et la vitesse des compagnes de marketing ainsi qu'un gain de reputation supérieur pour l'entreprise</Item>
 		<Item Name="ElectronicHeatWarning">Certains de vos équipements électroniques sont affectés par la chaleur</Item>
@@ -928,7 +928,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="Month">Mois</Item>
 		<Item Name="Year">Année</Item>
 		<Item Name="PresimLoadMsg">Simulation du marché...</Item>
-		<Item Name="VacationNotify">{0} employé(s) sont partis en vacance</Item>
+		<Item Name="VacationNotify">{0} salarié(s) sont partis en vacance</Item>
 		<Item Name="RetireNotify">{0} a pris sa retraite</Item>
 		<Item Name="SickNotify">{0} a appelé, il vous annonce qu'il est malade</Item>
 		<Item Name="DiedNotify">{0} est mort!</Item>
@@ -959,7 +959,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="LowerHealthInsurance">J'ai besoin d'une assurance santé si j'ai un accident</Item>
 		<Item Name="LowerLifeInsurance">Je pourrais mourir n'importe quand, j'ai besoin d'une assurance vie</Item>
 		<Item Name="LowerPension">Les pensions sont diminués alors que je vais bientôt prendre ma retraite</Item>
-		<Item Name="MissingToiletWarning">Un employé a un problème pour trouver les toilettes</Item>
+		<Item Name="MissingToiletWarning">Un salarié a un problème pour trouver les toilettes</Item>
 		<Item Name="ServerLoadWarning">Vos serveurs ne peut pas faire face à la charge de la distribution</Item>
 		<Item Name="ServerItemLoadWarning">Vos serveurs ne peut pas faire face à la charge de {0}</Item>
 		<Item Name="BoughtOutProducts">Vous avez reçu les droits de {0} produits</Item>
@@ -1015,7 +1015,7 @@ Ancienneté: {4}</Item>
 		<Item Name="Current salary">Salaire actuel</Item>
 		<Item Name="Demanded salary">Salaire demandé</Item>
 		<Item Name="Accept demand">Accepter la demande</Item>
-		<Item Name="Fire employee">Virer l'employé</Item>
+		<Item Name="Fire employee">Virer l'salarié</Item>
 		<Item Name="PrematureDelayWarning">Etes vous sur de vouloir arrêter la phase de developpement?
 Arrêter la phase de developpement prématurément augmentera le temps de la phase de Beta à cause d'un surplus de bugs.</Item>
 	</Alpha4.6>
@@ -1024,7 +1024,7 @@ Arrêter la phase de developpement prématurément augmentera le temps de la pha
 Etes vous sûr de vouloir continuer?</Item>
 			<Item Name="CloneComplexityWarning">Vous êtes en train de cloner un important nombre de meuble, Cela peut causer des problèmes aux ordinateurs
 Etes vous sûr de vouloir continuer?</Item>
-			<Item Name="UnreachableFurniture">Les employés ne peuvent pas atteindre ceci => {0}
+			<Item Name="UnreachableFurniture">Les salariés ne peuvent pas atteindre ceci => {0}
 Assurez vous qu'il n'y ait rien sur le chemin</Item>
 			<Item Name="UnreachableParking">Cette emplacement de parking ne peut pas être atteint
 Assurez vous qu'il soit connecté à la route principale</Item>
@@ -1078,7 +1078,7 @@ Etes vous sûr de vouloir continuer?</Item>
 		<Item Name="GuestCompany">{0} au nom de {1}</Item>
 	</Alpha5.1>
 	<Alpha5.2>
-		<Item Name="SupportWorkSlowWarning">Vos employées n'arrivent pas à suivre le support de {0}</Item>
+		<Item Name="SupportWorkSlowWarning">Vos salariées n'arrivent pas à suivre le support de {0}</Item>
 		<Item Name="SupportWorkCancelWarning">Arrêter le support d'un produit empêchera la résolution des bugs et rendra votre clientèle furieuse.
 Etes vous sûr de vouloir continuer?</Item>
 	</Alpha5.2>
@@ -1086,12 +1086,12 @@ Etes vous sûr de vouloir continuer?</Item>
 		<Item Name="AcceptAllWages">Accepter tout et fermer la fenêtre</Item>
 		<Item Name="AcceptAllWagesWarning">Etes vous sur de vouloir accepter tout les demandes?
 Cela fera une augmentation de {0}, ce qui correspond à un coût de {1} par mois</Item>
-		<Item Name="FurnitureQueue">{0} employées patientent pour utiliser ce meuble</Item>
+		<Item Name="FurnitureQueue">{0} salariées patientent pour utiliser ce meuble</Item>
 		<Item Name="Upcoming events">Evènements à venir</Item>
 		<Item Name="UpcomingEvDesc">Cliquez ici pour voir la liste des évènements à venir le mois prochain. L'icone deviendra rouge si des évènements importants se produisent</Item>
 		<Item Name="RetireEventMsg">{0} de l'équipe {1} va demissioner le mois d'après, après avoir travaillé chez {2} pour {3} years.</Item>
-		<Item Name="VacationEventMsg1">{0} a prévu des vacances pour le mois prochain et {1} employés ont prévus d'avoir des vacances.</Item>
-		<Item Name="VacationEventMsg2">Aucune équipe a prévu des vacances le mois prochain mais {0} employés ont prévus d'avoir des vacances.</Item>
+		<Item Name="VacationEventMsg1">{0} a prévu des vacances pour le mois prochain et {1} salariés ont prévus d'avoir des vacances.</Item>
+		<Item Name="VacationEventMsg2">Aucune équipe a prévu des vacances le mois prochain mais {0} salariés ont prévus d'avoir des vacances.</Item>
 		<Item Name="ReleaseEventMsg">{0} ont prévut de sortir un(e) {1} appelé(e) "{2}" le mois prochain.</Item>
 		<Item Name="ExceptionNotificationTip">Une erreur s'est produite!</Item>
 		<Item Name="ExceptionNotificationTip2">Cliquez ici pour voir les détails</Item>
