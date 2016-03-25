@@ -1413,4 +1413,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="ResearchPhase2">Test...</Item>
 		<Item Name="ResearchPhase3">Appliquer pour le brevet</Item>
 	</Alpha8.1>
+	<Alpha8.2>
+		<Item Name="NoResearch">Il n'y a rien à rechercher actuellement.</Item>
+	</Alpha8.2>
 </UI>
