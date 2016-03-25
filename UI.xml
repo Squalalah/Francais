@@ -569,7 +569,7 @@ Si vous voulez séparer une salle, vous devez construire mur par mur</Item>
 		<Item Name="DemoFloorWarning">Vous n'etes autorisé qu'à construire aux deux premiers étages en Demo</Item>
 		<Item Name="OverwriteConfirmMsg">Etes vous sur de vouloir écraser la sauvegarde ?</Item>
 		<Item Name="OverwriteConfirmTitle">Confirmation</Item>
-		<Item Name="DismissTitle">Congédier</Item>
+		<Item Name="DismissTitle">OK</Item>
 		<Item Name="DismissMsg">Etes vous sur de congédier {0} salariés?</Item>
 		<Item Name="DismissMsg2">Vous avez congédié {0} salariés</Item>
 		<Item Name="SellTitle">Vendre</Item>
