@@ -1353,8 +1353,8 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="Net profit">Profit net</Item>
 		<Item Name="Delivered">Distribué</Item>
 		<Item Name="Max bandwidth">Bande passante max</Item>
-		<Item Name="Look again">Vérifier</Item>
-		<Item Name="LookAgainPrompt">Êtes vous sur de vouloir verifier à nouveau? Cela vous coûtera {0}</Item>
+		<Item Name="Look again">Actualiser</Item>
+		<Item Name="LookAgainPrompt">Êtes vous sur de vouloir actualiser? Cela vous coûtera {0}</Item>
 	</Alpha7.7>
 	<Alpha8.1>
 		<Item Name="FeatureUnlockWarning">Cette fonctionnalité sera debloquée dans {0}</Item>
