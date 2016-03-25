@@ -231,7 +231,7 @@
 		<Item Name="Server">Serveur</Item>
 		<Item Name="SCM">SCM</Item>
 		<Item Name="SCMLong">Code source Optimisé</Item>
-		<Item Name="SCMDesc">Ayez tout votre trevail synchronisé au même endroit , cela réduira les bugs et permettra à vos programmeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
+		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos programmeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
 		<Item Name="Information">Information</Item>
 		<Item Name="Dependencies">Reduis</Item>
 		<Item Name="Operating system">Système d'Exploitation</Item>
