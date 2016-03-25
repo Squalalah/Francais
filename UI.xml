@@ -1436,4 +1436,28 @@ Cliquez pour continuer.</Item>
 		<Item Name="HintEmployeeSelection">Vous pouvez enfoncer la touche CTRL et le clic gauche pour selectionner plusieurs salariés ou enfoncez la touche SHIFT pour selectionner les salariés dans un rayon, cela fonctionne également pour d'autres listes dans le jeu.</Item>
 		<Item Name="HintAutoScaleSegment">Pour certains segments de mur, vous pouvez enfonçer la touche CTRL pour régler à l'échelle le segment pour adapter le mur que vous voulez construire dessus.</Item>
 	</Alpha8.3>
+	<Alpha8.4>
+		<Item Name="HintElevatorBeam">Vous pouvez selectionner les ascenseurs en mode construction pour montrer le faisceau de guidage, qui vous aidra afin d'aligner l'ascenseur avec tout les étages.</Item>
+		<Item Name="HRHireBudgetWarning">Le cadre de l'équipe {0} n'a pas le budget suffisant pour embaucher plus de salarié.</Item>
+		<Item Name="PortNonOSError">Ce produit n'est pas dépendant d'un OS.</Item>
+		<Item Name="ResearchOwnedError">Ceci a déjà été recherché.</Item>
+		<Item Name="SoftwareSoftwareDependencyWarning">Ce logiciel dépend de {1} pour être developpé. Merci de choisir un produit de type {1} pour continuer.</Item>
+		<Item Name="SoftwareFeatureError">Vous avez besoin d'une fonctionnalité pour lancer le développement.</Item>
+	</Alpha8.4>
+	<Alpha8.5>
+		<Item Name="Bank">Banque</Item>
+		<Item Name="HintGridSnapToWall">Vous pouvez utiliser le bouton "grillage ancré", en haut à gauche du bouton "construire", pour changer la grille en mur. Cela rend un peu plus facile l'alignement des meubles avec les murs inclinés.</Item>
+	</Alpha8.5>
+	<Alpha8.6>
+		<Item Name="Upload">Upload</Item>
+		<Item Name="Steam Workshop">Steam Workshop</Item>
+		<Item Name="SteamWorkshopHint">Cliquez ici pour commencer à upload tes mods sur le Steam Workshop</Item>
+		<Item Name="FailedSteamUpload">Upload du mod stoppé - code d'erreur: {0}</Item>
+		<Item Name="SuccessSteamUpload">Mod uploadé avec succès! Oubliez pas de changer la visibilité de votre mod dans le workshop.</Item>
+		<Item Name="SteamUploadDenied">Vous n'avez pas la permission d'upload ce mod sur le Steam Workshop</Item>
+		<Item Name="SteamUploadFileType">Fichier trouvé de type {0}. Merci d'upload que des fichiers utiles.</Item>
+		<Item Name="SteamUploadConfirmation">Êtes vous sûr de vouloir upload ce mod sur le Steam Workshop? Merci de ne pas upload un travail qui ne vous appartient pas.</Item>
+		<Item Name="HintWorkItemActions">Vous pouvez faire un clic gauche et glissez les outils de travail afin de les ré-ordonner dans la liste. Vous pouvez faire un clic droit sur un outil de travail pour le réduire.</Item>
+		<Item Name="Uploaded">Uploadé</Item>
+	</Alpha8.6>
 </UI>
