@@ -1416,4 +1416,24 @@ Ne laissez pas les mots atteindre le font.</Item>
 	<Alpha8.2>
 		<Item Name="NoResearch">Il n'y a rien à rechercher actuellement.</Item>
 	</Alpha8.2>
+	<Alpha8.3>
+		<Item Name="Own office">Son bureau</Item>
+		<Item Name="CodeMiniGameEnd">Vous avez perdu!
+
+Cliquez pour continuer.</Item>
+		<Item Name="RoomAngleError2">L'angle des murs doit être supérieur à {0}°</Item>
+		<Item Name="Hint">Astuce</Item>
+		<Item Name="Hints">Astuces</Item>
+		<Item Name="HintEmployeeAssign">Vous pouvez assigner un salarié à un meuble en enfonçant la touche SHIFT et en selectionnant le(s) salarié(s) et le meuble puis en faisant un clic droit.</Item>
+		<Item Name="HintStaffAssign">Vous pouvez assigner des cadres à des pièces en enfonçant la touche SHIFT et en selectionnant le(s) cadre(s) et la pièce puis en faisant un clic droit.</Item>
+		<Item Name="HintMultipleBuild">Vous pouvez continuer de placer un meuble ou une pièce en mode construction en enfonçant la touche SHIFT, cela fonctionne également pour la duplication des objets.</Item>
+		<Item Name="HintQuickSelect">Vous pouvez facilement selectionner plusieurs objets d'un type spécifique en enfonçant la touche CTRL et le clic gauche tout en bougeant la souris.</Item>
+		<Item Name="HintSelectFurnitureType">L'outil de selection du type de mobilier est très polyvalent, vous pouvez l'utiliser pour selectionner tout les meubles d'une pièce ou les types de meubles selectionnés dans la pièce spécifiée.</Item>
+		<Item Name="HintCopyColor">Vous pouvez facilement copier la couleur d'un meuble en selectionnant le style par défaut puis en reinitilisant le style pour les meubles choisis via le menu contextuel.</Item>
+		<Item Name="HintProductRelease"Garde un oeil sur les sorties recentes avant de sortir votre logiciel pour éviter que la concurrence lui fasse de l ombre.</Item>
+		<Item Name="HintFurnitureCopyMultiple">Vous pouvez copier plusieurs objets dans un arrangement à la fois en enfonçant la touche SHIFT et en les selectionnant avant de les duppliquer.</Item>
+		<Item Name="HintEmployeeEducation">Vous pouvez former plusieurs salariés en même temps en les selectionnant tous avant d'ouvrir la fenêtre des formations.</Item>
+		<Item Name="HintEmployeeSelection">Vous pouvez enfoncer la touche CTRL et le clic gauche pour selectionner plusieurs salariés ou enfoncez la touche SHIFT pour selectionner les salariés dans un rayon, cela fonctionne également pour d'autres listes dans le jeu.</Item>
+		<Item Name="HintAutoScaleSegment">Pour certains segments de mur, vous pouvez enfonçer la touche CTRL pour régler à l'échelle le segment pour adapter le mur que vous voulez construire dessus.</Item>
+	</Alpha8.3>
 </UI>
