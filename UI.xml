@@ -55,7 +55,7 @@
 	<MainPanel>
 		<Item Name="HR">Staff</Item>
 		<Item Name="Finance">Finance</Item>
-		<Item Name="Marketplace">Marché</Item>
+		<Item Name="Marketplace">Publicités</Item>
 		<Item Name="MainDevSoft">Developer un Logiciel</Item>
 		<Item Name="MainDevSoftDesc">Concevez et vendez votre propre logiciel</Item>
 		<Item Name="MainPlayerRelease">Vos Produits</Item>
