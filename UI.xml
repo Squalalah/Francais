@@ -154,7 +154,7 @@
 		<Item Name="Cost">Coût</Item>
 		<Item Name="Sell">Vente</Item>
 		<Item Name="Buy">Achat</Item>
-		<Item Name="Count">Compte</Item>
+		<Item Name="Count">Nombre</Item>
 		<Item Name="Compatibility">Compatibilité</Item>
 		<Item Name="Work">Travail</Item>
 		<Item Name="Employees">Employés</Item>
