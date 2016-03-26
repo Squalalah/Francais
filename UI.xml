@@ -233,7 +233,7 @@
 		<Item Name="SCMLong">Code source Optimisé</Item>
 		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos programmeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
 		<Item Name="Information">Information</Item>
-		<Item Name="Dependencies">Reduis</Item>
+		<Item Name="Dependencies">Requiert:</Item>
 		<Item Name="Operating system">Système d'Exploitation</Item>
 		<Item Name="Specializations">Specialisations</Item>
 		<Item Name="Develop">Developper</Item>
