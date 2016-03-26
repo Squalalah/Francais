@@ -147,7 +147,7 @@
 		<Item Name="Chart">Statistiques</Item>
 		<Item Name="Stock">Parts</Item>
 		<Item Name="Products">Produits</Item>
-		<Item Name="Owner">Déteneur</Item>
+		<Item Name="Owner">Détenteur</Item>
 		<Item Name="Share">Partage</Item>
 		<Item Name="Change">Change</Item>
 		<Item Name="Worth">Valeur</Item>
