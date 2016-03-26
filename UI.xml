@@ -1371,7 +1371,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="Research">Recherche</Item>
 		<Item Name="Researching">Recherche...</Item>
 		<Item Name="ResearchDesc">Fait des recherches et conçoit des brevets pour tirer des royalties de vos concurrents.</Item>
-		<Item Name="Patent">Brevet</Item>
+		<Item Name="Patent">Breveter</Item>
 		<Item Name="Patents">Brevets</Item>
 		<Item Name="Durability">Durabilité</Item>
 		<Item Name="Work boost">Boost de Travail</Item>
