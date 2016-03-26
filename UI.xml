@@ -165,7 +165,7 @@
 		<Item Name="Disband">Dissoudre</Item>
 		<Item Name="Automation">Management</Item>
 		<Item Name="Type">Type</Item>
-		<Item Name="Dismiss">Congédier</Item>
+		<Item Name="Dismiss">OK</Item>
 		<Item Name="Tier">Echelon</Item>
 		<Item Name="Progress">Progression</Item>
 		<Item Name="Contract">Contrat</Item>
