@@ -953,7 +953,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="NoPeeOptions">Il n'y a pas de toilettes</Item>
 		<Item Name="DisgustingToilet">Les toilettes sont dégoûtantes</Item>
 		<Item Name="NoToiletPrivacy">Il n'y a aucune intimité dans ces toilettes</Item>
-		<Item Name="NoSitting">Il n'y a personne oû s'asseoir</Item>
+		<Item Name="NoSitting">J'ai nul part où m'asseoir</Item>
 		<Item Name="BadCoffee">Le café est mauvais</Item>
 		<Item Name="GoodCoffee">Le café est excellent</Item>
 		<Item Name="LowerHealthInsurance">J'ai besoin d'une assurance santé si j'ai un accident</Item>
