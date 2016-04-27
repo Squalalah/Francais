@@ -1,5 +1,5 @@
 # Francais
-update 8.8.1 en français
+update 8.10 en français
 
 
 Instructions SANS ARCHIVE .RAR (bouton "DOWNLOAD ZIP")
