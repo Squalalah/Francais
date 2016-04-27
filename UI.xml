@@ -39,14 +39,14 @@
 		<Item Name="Mods">Mods</Item>
 		<Item Name="Scenario">Scenario</Item>
 		<Item Name="Freeplay">Libre</Item>
-		<Item Name="Starting money">Argent de Départ</Item>
-		<Item Name="Starting year">Année de Départ</Item>
+		<Item Name="Starting money">Argent de départ</Item>
+		<Item Name="Starting year">Année de départ</Item>
 		<Item Name="Simulation enabled">Simulation activé</Item>
 		<Item Name="Goals">Objectifs</Item>
 		<Item Name="Start game">Lancer</Item>
 	</Customization>
 	<GenericDialog>
-		<Item Name="OK">OK</Item>
+		<Item Name="OK">Ok</Item>
 		<Item Name="Cancel">Annuler</Item>
 		<Item Name="Yes">Oui</Item>
 		<Item Name="No">Non</Item>
@@ -56,67 +56,67 @@
 		<Item Name="HR">Staff</Item>
 		<Item Name="Finance">Finance</Item>
 		<Item Name="Marketplace">Publicités</Item>
-		<Item Name="MainDevSoft">Developer un Logiciel</Item>
+		<Item Name="MainDevSoft">Développer un Logiciel</Item>
 		<Item Name="MainDevSoftDesc">Concevez et vendez votre propre logiciel</Item>
-		<Item Name="MainPlayerRelease">Vos Produits</Item>
+		<Item Name="MainPlayerRelease">Vos produits</Item>
 		<Item Name="MainPlayerReleaseDesc">Liste de vos différents Logiciels</Item>
 		<Item Name="MainContract">Contrat de travail</Item>
-		<Item Name="MainContractDesc">Prenez un Contrat de travail. Developper un logiciel peut coûter cher, acceptez un contrat afin d'avoir un peu d'argent en compensation.</Item>
+		<Item Name="MainContractDesc">Prenez un contrat de travail. Développer un logiciel peut coûter cher, acceptez un contrat afin d'avoir un peu d'argent en réserve.</Item>
 		<Item Name="MainServer">Serveurs</Item>
 		<Item Name="MainServerDesc">Configurez vos serveurs et répartissez la charge.</Item>
 		<Item Name="MainEmployees">Gérer les salariés</Item>
-		<Item Name="MainEmployeesDesc">La liste de tout vos salariés</Item>
+		<Item Name="MainEmployeesDesc">Liste de tout vos salariés.</Item>
 		<Item Name="MainHire">Embaucher des salariés</Item>
-		<Item Name="MainHireDesc">Consultez les annonces, proposez des rendez vous pour embaucher un salarié</Item>
+		<Item Name="MainHireDesc">Consultez les annonces, proposez des rendez vous pour embaucher un salarié.</Item>
 		<Item Name="MainTeam">Gérer les équipes</Item>
-		<Item Name="MainTeamDesc">Gérez vos équipes, fixez leurs horaires de travail et donnez leur des responsabilités</Item>
+		<Item Name="MainTeamDesc">Gérez vos équipes, fixez leurs horaires de travail et donnez leur des responsabilités.</Item>
 		<Item Name="MainStaff">Gérer le personnel</Item>
-		<Item Name="MainStaffDesc">Embauchez ou appelez un intérimaire pour assurer l'entretien de votre entreprise</Item>
+		<Item Name="MainStaffDesc">Embauchez ou appelez un intérimaire pour assurer l'entretien de votre entreprise.</Item>
 		<Item Name="MainInsurance">Assurance Qualité</Item>
-		<Item Name="MainInsuranceDesc">Placez de l'argent dans votre assurance pour attirer de meilleurs salariés ainsi que percevoir des intérêts</Item>
+		<Item Name="MainInsuranceDesc">Placez de l'argent dans votre assurance pour attirer de meilleurs salariés ainsi que percevoir des intérêts.</Item>
 		<Item Name="MainStock">Parts</Item>
-		<Item Name="MainStockDesc">Achetez et vendez des actions, Il y a beaucoup d'argent à se faire la dedans</Item>
+		<Item Name="MainStockDesc">Achetez et vendez des actions, Il y a beaucoup d'argent à se faire la dedans.</Item>
 		<Item Name="MainLoan">Prêt</Item>
-		<Item Name="MainLoanDesc">Si vous avez des problèmes, vous devriez penser à prendre un crédit</Item>
+		<Item Name="MainLoanDesc">Si vous avez des problèmes, vous devriez penser à prendre un crédit.</Item>
 		<Item Name="MainRelease">Tout les logiciels</Item>
-		<Item Name="MainReleaseDesc">Une liste de tout les logiciels sortits dans le monde</Item>
+		<Item Name="MainReleaseDesc">Une liste de tout les logiciels sortits dans le monde.</Item>
 		<Item Name="MainCompany">Toutes les entreprises</Item>
-		<Item Name="MainCompanyDesc">Inspectez vos concurrents</Item>
+		<Item Name="MainCompanyDesc">Inspectez vos concurrents.</Item>
 		<Item Name="MainNews">Le TARDIS enchainé</Item>
 		<Item Name="MainNewsDesc">Un journal vous permettant de vous mettre à jour sur les prochaines sorties du moment.</Item>
 		<Item Name="MainDistribution">Chaines de distribution</Item>
-		<Item Name="MainDistributionDesc">Gérer vos chaines de distribution afin de mieux vendre vos produits</Item>
+		<Item Name="MainDistributionDesc">Gérer vos chaines de distribution afin de mieux vendre vos produits.</Item>
 		<Item Name="Settings">Paramètres</Item>
 		<Item Name="LowerWalls">Cacher les murs</Item>
 		<Item Name="LowerWallsDesc">Baisser les murs</Item>
 		<Item Name="HideLamps">Cacher les lampes</Item>
-		<Item Name="HideLampsDesc">Cacher tous les meubles collé au plafond</Item>
+		<Item Name="HideLampsDesc">Cacher tous les lampes de plafond.</Item>
 		<Item Name="RoomLabels">Nom de salles</Item>
-		<Item Name="RoomLabelsDesc">Montre les noms de toute les salles, en donnant l'équipe travaillant dans celle-ci ainsi que leur utilisation</Item>
+		<Item Name="RoomLabelsDesc">Montre les noms de toute les salles, en donnant l'équipe travaillant dans celle-ci ainsi que leur utilisation.</Item>
 		<Item Name="WireMode">Activer Mode Câble</Item>
 		<Item Name="WireModeDesc">Utilisez ceci afin de relier vos serveurs.</Item>
 		<Item Name="Dataoverlay">Aperçu des données</Item>
 		<Item Name="DataoverlayDesc">Cliquez ici afin que la couleur de la pièce reflête l'état actuel de la salle.</Item>
 		<Item Name="BuildMode">Mode Construction</Item>
-		<Item Name="BuildModeDesc">Cliquez ici pour activer le mode Construction, dans lequel vous pouvez contruire et equiper vos bureaux et construire des routes ainsi qu'un parking</Item>
+		<Item Name="BuildModeDesc">Cliquez ici pour activer le mode Construction, dans lequel vous pouvez contruire et equiper vos bureaux et construire des routes ainsi que des parkings.</Item>
 		<Item Name="Monthly profits">Profits Mensuels</Item>
 		<Item Name="SkipTime">Passer le temps</Item>
 		<Item Name="SkipTimeDesc">Si personne est dans les locaux, vous pouvez passer le temps jusqu'à qu'une personne arrive.</Item>
 		<Item Name="Contruct">Construire</Item>
-		<Item Name="ContructHint">Construiez des salles, portes, ascenseurs et des fenêtres</Item>
-		<Item Name="Furnish">Equipement</Item>
-		<Item Name="FurnishHint">Placez divers equipements dans vos salles afin de les rendre fonctionnel</Item>
+		<Item Name="ContructHint">Construiez des salles, portes, ascenseurs et des fenêtres.</Item>
+		<Item Name="Furnish">Équipement</Item>
+		<Item Name="FurnishHint">Placez divers equipements dans vos salles afin de les rendre fonctionnel.</Item>
 		<Item Name="Roads">Route</Item>
-		<Item Name="RoadsHint">Construisez des routes et un parking afin que vos salariés arrivent plus vite au travail</Item>
+		<Item Name="RoadsHint">Construisez des routes et des parkings afin que vos salariés viennent et partent plus vite du travail.</Item>
 	</MainPanel>
 	<Columns>
 		<Item Name="Name">Nom</Item>
 		<Item Name="Role">Rôle</Item>
 		<Item Name="Status">Statut</Item>
-		<Item Name="Team">Equipe</Item>
+		<Item Name="Team">Équipe</Item>
 		<Item Name="Salary">Salaire</Item>
 		<Item Name="Effectiveness">Efficacité</Item>
-		<Item Name="Team Compatibility">Entente avec l'Equipe</Item>
+		<Item Name="Team Compatibility">Entente avec l'équipe</Item>
 		<Item Name="Satisfaction">Satisfaction</Item>
 		<Item Name="Aptitude">Aptitudes</Item>
 		<Item Name="Leadership">Leadership</Item>
@@ -140,7 +140,7 @@
 		<Item Name="Market">Marché</Item>
 		<Item Name="Details">Details</Item>
 		<Item Name="Worth">Valeur</Item>
-		<Item Name="Reputation">Reputation</Item>
+		<Item Name="Reputation">Réputation</Item>
 		<Item Name="Bankrupt">Banqueroute</Item>
 		<Item Name="Founded">Fondé en</Item>
 		<Item Name="Products">Produits</Item>
@@ -161,11 +161,11 @@
 		<Item Name="Arrival">Arrivée</Item>
 		<Item Name="+">+</Item>
 		<Item Name="-">-</Item>
-		<Item Name="Departure">Depart</Item>
+		<Item Name="Departure">Départ</Item>
 		<Item Name="Disband">Dissoudre</Item>
 		<Item Name="Automation">Management</Item>
 		<Item Name="Type">Type</Item>
-		<Item Name="Dismiss">OK</Item>
+		<Item Name="Dismiss">Ok</Item>
 		<Item Name="Tier">Echelon</Item>
 		<Item Name="Progress">Progression</Item>
 		<Item Name="Contract">Contrat</Item>
@@ -175,7 +175,7 @@
 		<Item Name="Monthly">Mensuel</Item>
 		<Item Name="Months">Mois</Item>
 		<Item Name="Payout">Paiement</Item>
-		<Item Name="Age">Age</Item>
+		<Item Name="Age">Âge</Item>
 		<Item Name="Score">Score</Item>
 		<Item Name="Salary">Salaire</Item>
 		<Item Name="Hire">Embaucher</Item>
@@ -187,19 +187,19 @@
 		<Item Name="Enabled">Activé</Item>
 		<Item Name="Toggle">Charge</Item>
 		<Item Name="Active">Actif</Item>
-		<Item Name="Physical store">Boutique Physique</Item>
+		<Item Name="Physical store">Boutique physique</Item>
 		<Item Name="Popularity">Popularité</Item>
-		<Item Name="Release cost">Coût de Sortie</Item>
+		<Item Name="Release cost">Coût de sortie</Item>
 		<Item Name="Revenue cut">Comission</Item>
 		<Item Name="Contracts">Contrats</Item>
 		<Item Name="Power">Puissance</Item>
-		<Item Name="Server count">Nombre de Serveur</Item>
-		<Item Name="Load">Charge</Item>
+		<Item Name="Server count">Nombre de serveur</Item>
+		<Item Name="Load">Chargé à</Item>
 		<Item Name="Processes">Processus</Item>
-		<Item Name="Required power">Puissance Requise</Item>
+		<Item Name="Required power">Puissance requise</Item>
 	</Columns>
 	<WindowTitles>
-		<Item Name="Design document">Concevoir un Produit</Item>
+		<Item Name="Design document">Conçevoir un Produit</Item>
 		<Item Name="Products">Produits</Item>
 		<Item Name="Finances">Finances</Item>
 		<Item Name="Companies">Entreprises</Item>
@@ -321,7 +321,7 @@
 	<WageWindow>
 		<Item Name="Employee request">Demande de(s) Employé(es)</Item>
 		<Item Name="Accept">Accepter</Item>
-		<Item Name="Close">Refuser</Item>
+		<Item Name="Close">Fermer</Item>
 	</WageWindow>
 	<LoanWindow>
 		<Item Name="Amount">Montant</Item>
@@ -331,7 +331,7 @@
 		<Item Name="Take loan">Prendre un crédit</Item>
 	</LoanWindow>
 	<InsuranceWindow>
-		<Item Name="Deposit">Deposer</Item>
+		<Item Name="Deposit">Déposer</Item>
 		<Item Name="Withdraw">Retirer</Item>
 		<Item Name="InsuranceFunds">Fonds sur le compte d'assurance</Item>
 		<Item Name="HealthInsurance">Assurance Santé:(Attire les jeunes salariés)</Item>
@@ -809,13 +809,13 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Team name">Nom d'Equipe</Item>
 	<Item Name="Enable">Activer</Item>
 	<Item Name="Accept work">Accepter le travail</Item>
-	<Item Name="Specialization">Specialisation</Item>
+	<Item Name="Specialization">Spécialisation</Item>
 	<Item Name="Skill">Compétences</Item>
 	<Item Name="Traits">Traits</Item>
 	<Item Name="Design">Design</Item>
 	<Item Name="Code">Code</Item>
 	<Item Name="Art">Art</Item>
-	<Item Name="Base skill">Comp. de base</Item>
+	<Item Name="Base skill">Base</Item>
 	<Item Name="Marketing">Marketing</Item>
 	<Item Name="Support">Support</Item>
 	<Item Name="Lead">Management</Item>
@@ -825,7 +825,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Artist">Artiste</Item>
 	<Item Name="Marketer">Marketeux</Item>
 	<Item Name="Take any job">Prendre n'importe quel job</Item>
-	<Item Name="Any role">n'importe quel rôle</Item>
+	<Item Name="Any role">Tous les rôles</Item>
 	<Item Name="Any">Aucun</Item>
 	<Item Name="All">Tous</Item>
 	<Item Name="Work affectors">Travail affecteur</Item>
@@ -1357,7 +1357,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="LookAgainPrompt">Êtes vous sur de vouloir actualiser? Cela vous coûtera {0}</Item>
 	</Alpha7.7>
 	<Alpha8.1>
-		<Item Name="FeatureUnlockWarning">Cette fonctionnalité sera debloquée dans {0}</Item>
+		<Item Name="FeatureUnlockWarning">Cette fonctionnalité sera debloquée en {0}</Item>
 		<Item Name="FeatureDependencyWarning">Cette fonctionnalité depend de {0}, merci de selectionner cette fonctionnalité d'abord.</Item>
 		<Item Name="FeatureFromWarning">Cette fonctionnalité est remplacé par {0}</Item>
 		<Item Name="FeatureDependencyUnlockWarning">Cette fonctionnalité depend de {0} via {1}, qui n'est pas encore débloqué.</Item>
@@ -1430,7 +1430,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="HintQuickSelect">Vous pouvez facilement selectionner plusieurs objets d'un type spécifique en enfonçant la touche CTRL et le clic gauche tout en bougeant la souris.</Item>
 		<Item Name="HintSelectFurnitureType">L'outil de selection du type de mobilier est très polyvalent, vous pouvez l'utiliser pour selectionner tout les meubles d'une pièce ou les types de meubles selectionnés dans la pièce spécifiée.</Item>
 		<Item Name="HintCopyColor">Vous pouvez facilement copier la couleur d'un meuble en selectionnant le style par défaut puis en reinitilisant le style pour les meubles choisis via le menu contextuel.</Item>
-		<Item Name="HintProductRelease"Garde un oeil sur les sorties recentes avant de sortir votre logiciel pour éviter que la concurrence lui fasse de l ombre.</Item>
+		<Item Name="HintProductRelease">Garde un oeil sur les sorties recentes avant de sortir votre logiciel pour éviter que la concurrence lui fasse de l ombre.</Item>
 		<Item Name="HintFurnitureCopyMultiple">Vous pouvez copier plusieurs objets dans un arrangement à la fois en enfonçant la touche SHIFT et en les selectionnant avant de les duppliquer.</Item>
 		<Item Name="HintEmployeeEducation">Vous pouvez former plusieurs salariés en même temps en les selectionnant tous avant d'ouvrir la fenêtre des formations.</Item>
 		<Item Name="HintEmployeeSelection">Vous pouvez enfoncer la touche CTRL et le clic gauche pour selectionner plusieurs salariés ou enfoncez la touche SHIFT pour selectionner les salariés dans un rayon, cela fonctionne également pour d'autres listes dans le jeu.</Item>
@@ -1470,7 +1470,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="SaveBlueprint">Sauvegarder les salles selectionnées.</Item>
 		<Item Name="Blueprints">Plans</Item>
 		<Item Name="Build">Construire</Item>
-		<Item Name="BlueprintSaveError">Sauvegarde du plan sttopé, code erreur: {0}</Item>
+		<Item Name="BlueprintSaveError">Sauvegarde du plan stopé, code erreur: {0}</Item>
 		<Item Name="BlueprintSteamDelete">Merci de vous désabonner de cet objet sur le Steam Workshop. Si vous avez l'avez uploadé sur le Workshop, merci de le supprimer manuellement via le dossier "Bluprints".</Item>
 	</Alpha8.7>
 	<Alpha8.8>
@@ -1480,4 +1480,66 @@ Cliquez pour continuer.</Item>
 		<Item Name="Computers">Ordinateurs</Item>
 		<Item Name="Incompatible furniture">Mobilier incompatible</Item>
 	</Alpha8.8>
+	<Alpha8.9>
+		<Item Name="Noise reduction">Insonorisation</Item>
+		<Item Name="Stressed">Je suis stressé.</Item>
+		<Item Name="StressWarning">Un employé est stressé. Assurez-vous de ne pas les surmener avec trop de tâches et de les renvoyer chez eux lorsqu'ils sont vraiment stressés.</Item>
+		<Item Name="SocialProblem">Je me sens isolé.</Item>
+		<Item Name="SocialWarning">An employee is not having their social needs met. An open working environment, team meetings and furniture for socializing can help</Item>
+		<Item Name="Stress">Stress</Item>
+		<Item Name="Social">Social</Item>
+		<Item Name="Independent">Indépendant</Item>
+		<Item Name="Hard worker">Travailleur</Item>
+		<Item Name="Fast learner">Apprend vite</Item>
+		<Item Name="Lazy">Paresseux</Item>
+		<Item Name="Stressed">Stressé</Item>
+		<Item Name="IndependantVsSocial">Un bon leader doit être social, mais un employé indépendant est heureux de travailler toute la journée dans une cabine.</Item>
+		<Item Name="LazyVsStressed">Un employé paresseux va essayer, le plus souvent possible, de ne pas travailler, alors qu'un employé stressé va vite se sentir surchargés de travail.</Item>
+		<Item Name="HardWorkVsFastLearn">Un travailleur acharché donnera toujours 110% de lui-même, mais quelqu'un qui apprend vite va acquérir de nouvelles compétences plus rapidement.</Item>
+		<Item Name="InHouseWarning">Vous êtes sur le point de développer un produit pour vous, ce qui signifie que vous ne serez pas en mesure de le vendre ou de mettre un prix sur une licence. Etes-vous sûr de continuer ?</Item>
+		<Item Name="InHouseMarketing">Vous ne pouvez pas commercialiser des produits en interne.</Item>
+		<Item Name="RotateRoomHint">Appuyez sur {0} ou {1} pour faire pivoter le bâtiment.</Item>
+		<Item Name="Appx bandwidth">Appx bandwidth</Item>
+	</Alpha8.9>
+	<Alpha8.10>
+		<Item Name="Zoom">Zoom</Item>
+		<Item Name="Gamma">Gamma</Item>
+		<Item Name="CleaningBlocked">Quelque chose bloque l'accès à votre personnel de nettoyage.</Item>
+		<Item Name="Head">Tête</Item>
+		<Item Name="Torso">Torse</Item>
+		<Item Name="Legs">Jambes</Item>
+		<Item Name="Accessories">Accessoires</Item>
+		<Item Name="Business Casual">Cheveux court</Item>
+		<Item Name="Full Beard">Barbe</Item>
+		<Item Name="Stubble">Chauve</Item>
+		<Item Name="Mens Blouse">Blouse pour hommes</Item>
+		<Item Name="Mens Pants">Pantalon pour hommes</Item>
+		<Item Name="Glasses">Lunettes</Item>
+		<Item Name="Knot">Chignon</Item>
+		<Item Name="Rouge">Maquillage</Item>
+		<Item Name="Womens Blouse">Blouse pour femmes</Item>
+		<Item Name="Womens Pants">Pantalon pour femmes</Item>
+		<Item Name="HintTeamSizeEffectiveness">Placer plus de gens que nécessaire sur un projet n'augmente pas nécessairement la développement et pourrait même en diminuer l'efficacité.</Item>
+		<Item Name="Womens Hoodie">Sweatshirt pour femmes</Item>
+		<Item Name="Mens Hoodie">Sweatshirt pour hommes</Item>
+		<Item Name="Womens Shirt">Shirt pour femmes</Item>
+		<Item Name="Mens Shirt">Shirt pour hommes</Item>
+		<Item Name="Womens T-Shirt">T-Shirt pour femmes</Item>
+		<Item Name="Mens T-Shirt">T-Shirt pour hommes</Item>
+		<Item Name="Long Skirt">Jupe longue</Item>
+		<Item Name="Short Skirt">Jupe courte</Item>
+		<Item Name="Trumpet Pants">Trumpet Pants</Item>
+		<Item Name="Cargo Shorts">Short bateau pour hommes</Item>
+		<Item Name="Mens Shorts">Short pour hommes</Item>
+		<Item Name="Trousers">Pantalon</Item>
+		<Item Name="Long Curly Hair">Cheveux longs bouclés</Item>
+		<Item Name="Long Hair">Cheveux longs</Item>
+		<Item Name="Semi-Long Hair">Cheveux mi-longs</Item>
+		<Item Name="Afro">Affro</Item>
+		<Item Name="Hire Cook">Embaucher cuisinier</Item>
+		<Item Name="Cook">Cuisinier</Item>
+		<Item Name="Preparing food">Préparation</Item>
+		<Item Name="Serving food">Service</Item>
+		<Item Name="Canteen">Cantine</Item>
+	</Alpha8.10>
 </UI>
