@@ -1309,6 +1309,27 @@ Utilisation bande passante maximum: {3}</Item>
 		<Item Name="PathwayBlocked">Quelque chose bloque ce passage.</Item>
 		<Item Name="Sweep selection">Selection du paysage</Item>
 	</Alpha7.5>
+	<FurnitureColorNames>
+		<Item Name="FCBase">Base</Item>
+		<Item Name="FCFrame">Frame</Item>
+		<Item Name="FCCasing">Casing</Item>
+		<Item Name="FCShade">Shade</Item>
+		<Item Name="FCLighting">Lighting</Item>
+		<Item Name="FCFabric">Fabric</Item>
+		<Item Name="FCBackground">Background</Item>
+		<Item Name="FCBlades">Blades</Item>
+		<Item Name="FCHandle">Handle</Item>
+		<Item Name="FCPot">Pot</Item>
+		<Item Name="FCPad">Pad</Item>
+		<Item Name="FCBox">Box</Item>
+		<Item Name="FCMonitor">Monitor</Item>
+		<Item Name="FCKeys">Keys</Item>
+		<Item Name="FCShelf">Shelf</Item>
+		<Item Name="FCSeat">Seat</Item>
+		<Item Name="FCSupport">Support</Item>
+		<Item Name="FCHologram">Hologram</Item>
+		<Item Name="FCBack">Back</Item>
+	</FurnitureColorNames>
 	<Alpha7.6>
 		<Item Name="Minigame">Minijeu</Item>
 		<Item Name="MinigameLifeError">Tu as déjà perdu toute tes vies.</Item>
@@ -1479,6 +1500,27 @@ Cliquez pour continuer.</Item>
 		<Item Name="Furniture cost">Coût du mobilier</Item>
 		<Item Name="Computers">Ordinateurs</Item>
 		<Item Name="Incompatible furniture">Mobilier incompatible</Item>
+		<Item Name="Distribution">Distribution</Item>
+		<Item Name="Build Mode">Build Mode</Item>
+		<Item Name="Welcome">Welcome</Item>
+		<Item Name="Customization">Customization</Item>
+		<Item Name="Design work">Design work</Item>
+		<Item Name="Alpha work">Alpha work</Item>
+		<Item Name="Support work">Support work</Item>
+		<Item Name="Hiring">Hiring</Item>
+		<Item Name="TutorialPost">{0} tutorial</Item>
+		<Item Name="TutorialPrompt">Would you like to begin the {0} tutorial?</Item>
+		<Item Name="Tutorial">Tutorial</Item>
+		<Item Name="Not now">Not now</Item>
+		<Item Name="Never">Never</Item>
+		<Item Name="Disable all">Disable all</Item>
+		<Item Name="Skip">Skip</Item>
+		<Item Name="End">End</Item>
+		<Item Name="CancelTutorial">Are you sure you want to cancel the tutorial?</Item>
+		<Item Name="ModEnableError">The selected mod is not compatible with the other mods selected</Item>
+		<Item Name="Preparing">Preparing</Item>
+		<Item Name="Uploading">Uploading</Item>
+		<Item Name="Committing">Committing</Item>
 	</Alpha8.8>
 	<Alpha8.9>
 		<Item Name="Noise reduction">Insonorisation</Item>
@@ -1496,7 +1538,8 @@ Cliquez pour continuer.</Item>
 		<Item Name="IndependantVsSocial">Un bon leader doit être social, mais un employé indépendant est heureux de travailler toute la journée dans une cabine.</Item>
 		<Item Name="LazyVsStressed">Un employé paresseux va essayer, le plus souvent possible, de ne pas travailler, alors qu'un employé stressé va vite se sentir surchargés de travail.</Item>
 		<Item Name="HardWorkVsFastLearn">Un travailleur acharché donnera toujours 110% de lui-même, mais quelqu'un qui apprend vite va acquérir de nouvelles compétences plus rapidement.</Item>
-		<Item Name="InHouseWarning">Vous êtes sur le point de développer un produit pour vous, ce qui signifie que vous ne serez pas en mesure de le vendre ou de mettre un prix sur une licence. Etes-vous sûr de continuer ?</Item>
+		<Item Name="InHouseWarning">Vous êtes sur le point de développer un produit pour vous, ce qui signifie que vous ne serez pas en mesure de le vendre ou de mettre un prix sur une licence.
+		Etes-vous sûr de continuer ?</Item>
 		<Item Name="InHouseMarketing">Vous ne pouvez pas commercialiser des produits en interne.</Item>
 		<Item Name="RotateRoomHint">Appuyez sur {0} ou {1} pour faire pivoter le bâtiment.</Item>
 		<Item Name="Appx bandwidth">Appx bandwidth</Item>
