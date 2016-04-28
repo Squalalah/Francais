@@ -1,4 +1,5 @@
 <Software>
+	<CategoryDefault>Défaut</CategoryDefault>
 	<Software Name="Operating System">
 		<Name>Système d'Exploitation</Name>
 		<Description>Le Système d'Exploitation est le plus grand type de logiciel dans Software Inc.
@@ -23,13 +24,17 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Plug'n'Play</Name>
 				<Description>Connectez ce que vous voulez sur l'ordinauter et laissez le Système d'Exploitation s'occuper du reste.</Description>
 			</Feature>
-			<Feature Name="Multitasking">
-				<Name>Multi-Tâche</Name>
-				<Description>Laissez prétendre vos utilisateurs qu'ils peuvent gérer plusieurs tâches en même temps.</Description>
+			<Feature Name="Touch">
+				<Name>Tactile</Name>
+				<Description>Vous ne pouvez jamais avoir assez de traces de doigts sur une surface.</Description>
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
 				<Description>Le Multithreading permet au Système d'Exploitation de lancer plusieurs threads en même temps tout en commutant entre eux intelligement, accélérant les applications et rend confus à vie les developpeurs.</Description>
+			</Feature>
+			<Feature Name="Multitasking">
+				<Name>Multi-Tâche</Name>
+				<Description>Laissez prétendre vos utilisateurs qu'ils peuvent gérer plusieurs tâches en même temps.</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Réseau</Name>
@@ -171,7 +176,25 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			<Feature Name="Music editor">
 				<Name>Editeur Sonore</Name>
 			</Feature>
+			<Feature Name="Virtual instruments">
+				<Name>Instruments virtuels</Name>
+				<Description>Guitare ? Clavier MIDI. Violon ? Clavier MIDI. Tambours ? Clavier MIDI. Saxophone ? Oui.</Description>
+			</Feature>
+			<Feature Name="Sound library">
+				<Name>Bibliothèque de sons</Name>
+			</Feature>
+			<Feature Name="Instrument library">
+				<Name>Bibliothèque d'instruments</Name>
+			</Feature>
+			<Feature Name="Autotune">
+				<Name>Autotune</Name>
+				<Description></Description>
+			</Feature>
+			<Feature Name="Audio compression">
+				<Name>Compression audio</Name>
+			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Game Engine">
 		<Name>Moteur Jeu</Name>
@@ -237,6 +260,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Description>C'est comme la programmation, mais t'utilises juste + la souris.</Description>
 			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Game">
 		<Name>Jeu</Name>
@@ -258,6 +282,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Physics">
 				<Name>Physiques</Name>
+				<Description></Description>
 			</Feature>
 			<Feature Name="Music">
 				<Name>Musique</Name>
@@ -481,6 +506,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Description>Garde automatiquement la définition de virus de vos utilisateurs à jour.</Description>
 			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Logistics Application">
 		<Name>Demande Logistique</Name>
@@ -499,6 +525,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Intégration de tiers</Name>
 			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Website">
 		<Name>Site Web</Name>
@@ -520,6 +547,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Base de donnée</Name>
 			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Game Assets">
 		<Name>Actifs du jeu</Name>
@@ -544,6 +572,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Modèles 3D</Name>
 			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Embedded System">
 		<Name>Système embarqué</Name>
@@ -568,6 +597,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Réseau</Name>
 			</Feature>
 		</Features>
+		<Categories></Categories>
 	</Software>
 	<Feature Name="QA">
 		<Name>AQ</Name>
