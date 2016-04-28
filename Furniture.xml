@@ -15,7 +15,7 @@
 	<Furniture Name="Glass Table">
 		<Name>Table en Verre</Name>
 		<Description>Profitez de la vue de cette magnifique table</Description>
-		<Color1>Base</Color1>
+		<Color1>Frame</Color1>
 	</Furniture>
 	<Furniture Name="2m End Table">		
 		<Name>Bout de table (2m)</Name>		
@@ -122,6 +122,7 @@
 	<Furniture Name="HoloComputer">
 		<Name>HoloOrdinateur</Name>
 		<Description>Bienvenue dans le futur! Oû tout est vraiment moins pratique.</Description>
+		<Color1>Hologram</Color1>
 	</Furniture>
 	<Furniture Name="Cubicle wall">
 		<Name>Mur de séparation</Name>
@@ -259,6 +260,8 @@
 	<Furniture Name="Clock">
 		<Name>Horloge</Name>
 		<Description>Une machine temporel!(non, ce n'est pas un TARIDS..)</Description>
+		<Color1>Background</Color1>
+		<Color2>Frame</Color2>
 	</Furniture>
 	<Furniture Name="Small Server">
 		<Name>Petit Serveur</Name>
