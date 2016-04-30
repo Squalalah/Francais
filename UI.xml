@@ -444,13 +444,13 @@
 		<Item Name="Toggle camera mode">Changer le mode Caméra</Item>
 		<Item Name="Hide HUD">Cacher l'Interface</Item>
 		<Item Name="Go to employee">Voir les salariés</Item>
-		<Item Name="Destroy selected">Vendre/Virer/Détruire la selection</Item>
-		<Item Name="Toggle Build Mode">Changer le monde Construction</Item>
+		<Item Name="Destroy selected">Vendre/Virer/Détruire la sélection</Item>
+		<Item Name="Toggle Build Mode">Basculer vers le mode construction</Item>
 	</OptionsWindow>
 	<AI>
 		<Item Name="Idle">Occupé</Item>
 		<Item Name="Looking for computer">Cherche un ordinateur</Item>
-		<Item Name="Going home">Rentre chez lui </Item>
+		<Item Name="Going home">Rentre chez lui</Item>
 		<Item Name="Working">Travaille</Item>
 		<Item Name="Going to get food">Va chercher à manger</Item>
 		<Item Name="Going to get coffee">Va chercher du café</Item>
@@ -460,10 +460,10 @@
 		<Item Name="In meeting">Au meeting</Item>
 		<Item Name="Going to toilet">Va aux toilettes</Item>
 		<Item Name="Pooping">Au Toilettes</Item>
-		<Item Name="Looking for broken stuff">Cherche des equipements cassés</Item>
-		<Item Name="Going to repair something">Part reparer quelque chose</Item>
+		<Item Name="Looking for broken stuff">Cherche des équipements cassés</Item>
+		<Item Name="Going to repair something">Part réparer quelque chose</Item>
 		<Item Name="Repairing">Répare</Item>
-		<Item Name="Looking for dirty room">Cherche une pièce sale.</Item>
+		<Item Name="Looking for dirty room">Cherche une pièce sale</Item>
 		<Item Name="Going to clean room">Va nettoyer une pièce</Item>
 		<Item Name="Cleaning">Nettoie</Item>
 		<Item Name="Looking for dirt">Cherche de la saleté</Item>
@@ -480,7 +480,7 @@
 	<Thoughts>
 		<Item Name="NoLikeWorker">Je n'aime pas {0}</Item>
 		<Item Name="LikeWorker">J'adore {0}</Item>
-		<Item Name="WornOut">Je suis epuisé</Item>
+		<Item Name="WornOut">Je suis épuisé</Item>
 		<Item Name="MeetingGreat">Ce meeting était super !</Item>
 		<Item Name="LoveWork">J'adore travailler</Item>
 		<Item Name="TooManyJobs">J'ai trop de travail à faire</Item>
@@ -491,7 +491,7 @@
 		<Item Name="NoSee">Je ne vois plus rien</Item>
 		<Item Name="RoomDirty">Cette pièce est sale</Item>
 		<Item Name="RoomNotDirty">Cette pièce est propre</Item>
-		<Item Name="UncomfortableFurniture">Cet equipement n'est pas confortable</Item>
+		<Item Name="UncomfortableFurniture">Cet équipement n'est pas confortable</Item>
 		<Item Name="ComputerGood">Mon ordinateur fonctionne très bien</Item>
 		<Item Name="ComputerBad">C'est vraiment un PC de merde</Item>
 		<Item Name="NoiseComplaint">Il y a trop de bruit dans cette pièce</Item>
@@ -500,55 +500,55 @@
 		<Item Name="OtherTeamComplaint">Je ne peux pas travailler avec tout ses collègues autour de moi</Item>
 		<Item Name="Starving">Je meurs de faim</Item>
 		<Item Name="HasToPee">J'ai vraiment envie d'aller aux toilettes</Item>
-		<Item Name="LowerSalaryComplaint">Je n'ais pas eu le salaire que je voulais</Item>
+		<Item Name="LowerSalaryComplaint">Je n'ai pas eu le salaire que je voulais</Item>
 		<Item Name="HigherSalary">J'ai eu une augmentation !</Item>
 		<Item Name="SalaryCutComplaint">Mon salaire a été réduit</Item>
 	</Thoughts>
 	<Warnings>
-		<Item Name="UnsatisfiedEmployeesWarning">Certains salariés ne sont pas heureux avec leur travail</Item>
-		<Item Name="StarvingWarning">Un salarié est énervé et a des problèmes pour travailler</Item>
-		<Item Name="HasToPeeWarning">Un salarié veut aller aux toilettes et a des problèmes pour travailler</Item>
-		<Item Name="WornOutWarning">Un salarié est fatigué et ne veux pas travailler</Item>
-		<Item Name="FreezingWarning">Un salarié a très froid</Item>
-		<Item Name="BurningWarning">Un salarié a très chaud</Item>
-		<Item Name="NoSeeWarning">Un salarié est coincé dans le noir</Item>
-		<Item Name="RoomDirtyWarning">Un salarié est choqué par la vue de son bureau</Item>
-		<Item Name="RoomDirtyWarning2">Une pièce est sale et a besoin d'être nettoyé</Item>
-		<Item Name="ComputerBadWarning">Un salarié se plaint d'un PC lent</Item>
-		<Item Name="NoiseWarning">Un salarié a un problème de concentration</Item>
-		<Item Name="OtherTeamWarning">Il y a trop d'équipe dans une seule salle</Item>
-		<Item Name="CannotAfford">Vous ne pouvez faire cela</Item>
-		<Item Name="BusFullWarning">Les bus sont plein, pensez à construire un parking</Item>
+		<Item Name="UnsatisfiedEmployeesWarning">Certains salariés ne sont pas heureux avec leur travail.</Item>
+		<Item Name="StarvingWarning">Un salarié est énervé et a des problèmes pour travailler.</Item>
+		<Item Name="HasToPeeWarning">Un salarié veut aller aux toilettes et a des problèmes pour travailler.</Item>
+		<Item Name="WornOutWarning">Un salarié est fatigué et ne veux pas travailler.</Item>
+		<Item Name="FreezingWarning">Un salarié a très froid.</Item>
+		<Item Name="BurningWarning">Un salarié a très chaud.</Item>
+		<Item Name="NoSeeWarning">Un salarié est coincé dans le noir.</Item>
+		<Item Name="RoomDirtyWarning">Un salarié est choqué par la vue de son bureau.</Item>
+		<Item Name="RoomDirtyWarning2">Une pièce est sale et a besoin d'être nettoyée.</Item>
+		<Item Name="ComputerBadWarning">Un salarié se plaint d'un PC lent.</Item>
+		<Item Name="NoiseWarning">Un salarié a un problème de concentration.</Item>
+		<Item Name="OtherTeamWarning">Il y a trop d'équipe dans une seule salle.</Item>
+		<Item Name="CannotAfford">Vous ne pouvez faire cela.</Item>
+		<Item Name="BusFullWarning">Les bus sont plein, pensez à construire un parking.</Item>
 		<Item Name="Click and drag">Cliquer et Glisser</Item>
 		<Item Name="RoomClosedOff">Il n'y a aucun moyen d'aller dans cette salle,
-Créez une porte ou un ascenseur</Item>
+Créez une porte ou un ascenseur.</Item>
 		<Item Name="PublicToiletWarning">Les salariés n'utilisent pas les toilettes en public,
-separez les avec plusieurs pièces.</Item>
-		<Item Name="RoomTempratureWarning">La temperature varie beaucoup dans cette pièce,
-Ajoutez plus de ventilateurs ou de climatisations</Item>
+séparez les en plusieurs pièces.</Item>
+		<Item Name="RoomTempratureWarning">La température varie beaucoup dans cette pièce,
+Ajoutez plus de ventilateurs ou de climatisateurs.</Item>
 		<Item Name="RoomOvercrowdWarning">Il y a beaucoup d'ordinateurs dans cette pièce,
-Trop d'salarié dans une salle peut les distraire</Item>
-		<Item Name="RoomLighingWaning">Il n'y a pas assez de lumière ici, ajoutez des fenêtres ou des lampes</Item>
-		<Item Name="FurnitureBrokeWarning">Certains equipements sont cassés et doivent être réparé</Item>
+Trop de salariés dans une même salle peut les distraire.</Item>
+		<Item Name="RoomLighingWaning">Il n'y a pas assez de lumière ici, ajoutez des fenêtres ou des lampes.</Item>
+		<Item Name="FurnitureBrokeWarning">Certains équipements sont cassés et doivent être réparé.</Item>
 		<Item Name="UnsupportedStructure">Cette structure n'est pas supporté</Item>
-		<Item Name="RoomOnRoad">Vous ne pouvez pas construire au dessus des routes</Item>
-		<Item Name="RoomInRoom">Vous ne pouvez pas construire de salles dans une salle 
+		<Item Name="RoomOnRoad">Vous ne pouvez pas construire sur des routes.</Item>
+		<Item Name="RoomInRoom">Vous ne pouvez pas construire une salle dans une autre. 
 Si vous voulez séparer une salle, vous devez construire mur par mur</Item>
-		<Item Name="RoomOutOfPlot">Vous devez construire à l'intérieur de votre parcelle</Item>
+		<Item Name="RoomOutOfPlot">Vous devez construire à l'intérieur de votre propriété</Item>
 		<Item Name="RoomTooSmall">Votre salle doit avoir comme dimension minimale 2x2</Item>
-		<Item Name="CannotReplaceDuplicateSegment">Vous ne pas remplacer {0} par {0}</Item>
+		<Item Name="CannotReplaceDuplicateSegment">Vous ne pouvez pas remplacer {0} par {0}</Item>
 		<Item Name="SegmentOnBoundary">Vous devez placer ceci dans les limites d'une pièce</Item>
-		<Item Name="FurnitureInRoom">Vous devez placer les equipements dans une pièce</Item>
-		<Item Name="FurnitureOnWall">Vous devez placer ceci contre un mur</Item>
-		<Item Name="FurnitureOnTable">Vous devez placer ceci sur une table libre</Item>
-		<Item Name="FurnitureOccupied">Cette place est déjà occupé</Item>
-		<Item Name="FurnitureAtTable">Vous devez placer ceci à une table</Item>
+		<Item Name="FurnitureInRoom">Vous devez placer les équipements dans une pièce.</Item>
+		<Item Name="FurnitureOnWall">Vous devez placer ceci contre un mur.</Item>
+		<Item Name="FurnitureOnTable">Vous devez placer ceci sur une table libre.</Item>
+		<Item Name="FurnitureOccupied">Cette place est déjà occupé.</Item>
+		<Item Name="FurnitureAtTable">Vous devez placer ceci à une table.</Item>
 	</Warnings>
 	<Affectors>
 		<Item Name="Hunger">Affamé</Item>
 		<Item Name="Energy">Energie</Item>
 		<Item Name="Bladder">Vessie</Item>
-		<Item Name="Job satisfaction">Satisfaction de Travail</Item>
+		<Item Name="Job satisfaction">Satisfaction du Travail</Item>
 		<Item Name="Fired">Viré</Item>
 		<Item Name="Temperature">Temperature</Item>
 		<Item Name="Environment">Environnement</Item>
@@ -947,7 +947,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="SheetBalance">Capital</Item>
 		<Item Name="Thoughts">Pensées</Item>
 		<Item Name="Ideal salary">Salaire idéal</Item>
-		<Item Name="Any job">N'importe quel job</Item>
+		<Item Name="Any job">Tous les jobs</Item>
 	</Alpha4.5>
 	<Alpha4.6>
 		<Item Name="NoPeeOptions">Il n'y a pas de toilettes</Item>
@@ -967,7 +967,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="ContractIncomeMsg">Vous avez reçu {0} en acceptant ce contrat</Item>
 		<Item Name="VSyncWarning">Laisser desactiver la VSync peut endommager votre carte graphique après une longue période de jeu, à cause de la surchauffe.
 Etes vous sur de vouloir continuer?</Item>
-		<Item Name="RoomLowEnv">Cette pièce est ennuyeux à regarder</Item>
+		<Item Name="RoomLowEnv">Cette pièce est ennuyeuse à regarder</Item>
 		<Item Name="FurnitureBlockedStaff">Vous avez des meubles que votre personnel ne peut atteindre</Item>
 		<Item Name="DesignDetailBoxNew">ETA: {3}
 Taux d'artistes: {7}
@@ -1201,10 +1201,10 @@ Soyez sûr que vous ayez les permissions permettant de la supprimer.</Item>
 	<Alpha6.18>
 		<Item Name="SaveDeletedError">Cette sauvegarde n'existera plus et sera supprimé.</Item>
 		<Item Name="ExteriorWallFurn">Vous devez placer ceci sur un mur extérieur.</Item>
-		<Item Name="BasementFurnError">Ceci ne peut être placé dans le sous-sol</Item>
+		<Item Name="BasementFurnError">Ceci ne peut être placé dans le sous-sol.</Item>
 		<Item Name="RoomTempratureWarning2">La température va beaucoup varier dans cette pièce,
 ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
-		<Item Name="TemperatureOveruse">Une unité de thermostat est surchargé. Merci d'ajouter plus de thermostat dans le batiment.</Item>
+		<Item Name="TemperatureOveruse">Une unité de thermostat est surchargé. Merci d'ajouter plus de thermostat dans le batîment.</Item>
 	</Alpha6.18>
 	<Alpha6.21>
 		<Item Name="Selection">Selection</Item>
@@ -1268,8 +1268,8 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="AutoDevProjDetails2">Détails du projet en cours:
 		Nom: {0}
 		Type: {1}
-		Categorie: {2}</Item>
-		<Item Name="OldSaveGameError">La sauvegarde que vous tentez de charger est une sauvegarde d'une ancienne version ({0}), qui n'est plus compatible avec la version de ce jeu ({1})</Item>
+		Catégorie: {2}</Item>
+		<Item Name="OldSaveGameError">La sauvegarde que vous tentez de charger est une sauvegarde d'une ancienne version ({0}), qui n'est plus compatible avec cette version du jeu ({1})</Item>
 	</Alpha7.1>
 	<Alpha7.2>
 		<Item Name="FXAA">FXAA</Item>
@@ -1284,10 +1284,10 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 	</Alpha7.2>
 	<Alpha7.3>
 		<Item Name="Off">Off</Item>
-		<Item Name="ActionResetDefaultStyle">Reinitialiser par défaut</Item>
-		<Item Name="ComputerWarning">Un ordinateur est très lent et a besoin d'être inspecté par un informaticien.</Item>
+		<Item Name="ActionResetDefaultStyle">Réinitialiser par défaut</Item>
+		<Item Name="ComputerWarning">Un ordinateur est très lent et à besoin d'être inspecté par un informaticien.</Item>
 		<Item Name="NotificationGotoHint">Cliquez pour voir.</Item>
-		<Item Name="Auto role">Auto role</Item>
+		<Item Name="Auto role">Rôle par défaut</Item>
 	</Alpha7.3>
 	<Alpha7.4>
 		<Item Name="Topdown view">Vue du dessus.</Item>
@@ -1501,26 +1501,26 @@ Cliquez pour continuer.</Item>
 		<Item Name="Computers">Ordinateurs</Item>
 		<Item Name="Incompatible furniture">Mobilier incompatible</Item>
 		<Item Name="Distribution">Distribution</Item>
-		<Item Name="Build Mode">Build Mode</Item>
-		<Item Name="Welcome">Welcome</Item>
-		<Item Name="Customization">Customization</Item>
-		<Item Name="Design work">Design work</Item>
-		<Item Name="Alpha work">Alpha work</Item>
-		<Item Name="Support work">Support work</Item>
-		<Item Name="Hiring">Hiring</Item>
-		<Item Name="TutorialPost">{0} tutorial</Item>
-		<Item Name="TutorialPrompt">Would you like to begin the {0} tutorial?</Item>
-		<Item Name="Tutorial">Tutorial</Item>
-		<Item Name="Not now">Not now</Item>
-		<Item Name="Never">Never</Item>
-		<Item Name="Disable all">Disable all</Item>
-		<Item Name="Skip">Skip</Item>
-		<Item Name="End">End</Item>
-		<Item Name="CancelTutorial">Are you sure you want to cancel the tutorial?</Item>
-		<Item Name="ModEnableError">The selected mod is not compatible with the other mods selected</Item>
-		<Item Name="Preparing">Preparing</Item>
+		<Item Name="Build Mode">Mode Construction</Item>
+		<Item Name="Welcome">Bienvenue</Item>
+		<Item Name="Customization">Customisation</Item>
+		<Item Name="Design work">Conception</Item>
+		<Item Name="Alpha work">Alpha</Item>
+		<Item Name="Support work">Support</Item>
+		<Item Name="Hiring">Embauche</Item>
+		<Item Name="TutorialPost">{0} tutoriel</Item>
+		<Item Name="TutorialPrompt">Voulez-vous commencer le {0} tutoriel ?</Item>
+		<Item Name="Tutorial">Tutoriel</Item>
+		<Item Name="Not now">Pas maintenant</Item>
+		<Item Name="Never">Jamais</Item>
+		<Item Name="Disable all">Tous désactiver</Item>
+		<Item Name="Skip">Passer</Item>
+		<Item Name="End">Fin</Item>
+		<Item Name="CancelTutorial">Êtes-vous sûr de vouloir annuler le turoriel ?</Item>
+		<Item Name="ModEnableError">Le mods sélectionné n'est pas compatible ave les autres.</Item>
+		<Item Name="Preparing">Préparation</Item>
 		<Item Name="Uploading">Uploading</Item>
-		<Item Name="Committing">Committing</Item>
+		<Item Name="Committing">Engagement</Item>
 	</Alpha8.8>
 	<Alpha8.9>
 		<Item Name="Noise reduction">Insonorisation</Item>
@@ -1542,7 +1542,7 @@ Cliquez pour continuer.</Item>
 		Etes-vous sûr de continuer ?</Item>
 		<Item Name="InHouseMarketing">Vous ne pouvez pas commercialiser des produits en interne.</Item>
 		<Item Name="RotateRoomHint">Appuyez sur {0} ou {1} pour faire pivoter le bâtiment.</Item>
-		<Item Name="Appx bandwidth">Appx bandwidth</Item>
+		<Item Name="Appx bandwidth">Bande passante approx.</Item>
 	</Alpha8.9>
 	<Alpha8.10>
 		<Item Name="Zoom">Zoom</Item>
