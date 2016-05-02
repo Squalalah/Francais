@@ -4,7 +4,7 @@
 		<Item Name="February">Février</Item>
 		<Item Name="March">Mars</Item>
 		<Item Name="April">Avril</Item>
-		<Item Name="May">Maï</Item>
+		<Item Name="May">Mai</Item>
 		<Item Name="June">Juin</Item>
 		<Item Name="July">Juillet</Item>
 		<Item Name="August">Août</Item>
@@ -19,7 +19,7 @@
 		<Item Name="Continue">Continuer</Item>
 		<Item Name="Load Game">Charger une Partie</Item>
 		<Item Name="Quit">Quitter</Item>
-		<Item Name="Credits">Credits</Item>
+		<Item Name="Credits">Crédits</Item>
 	</MainMenu>
 	<Customization>
 		<Item Name="Company Name Here">Nom de l'entreprise</Item>
@@ -37,7 +37,7 @@
 		<Item Name="Lower body">Bas du corps</Item>
 		<Item Name="Personality">Personnalité</Item>
 		<Item Name="Mods">Mods</Item>
-		<Item Name="Scenario">Scenario</Item>
+		<Item Name="Scenario">Scénario</Item>
 		<Item Name="Freeplay">Libre</Item>
 		<Item Name="Starting money">Argent de départ</Item>
 		<Item Name="Starting year">Année de départ</Item>
