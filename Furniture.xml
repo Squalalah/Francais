@@ -4,7 +4,7 @@
 		<Description>Placez des ascenseurs les un au dessus des autres pour connecter les différentes pièces</Description>
 	</Furniture>
 	<Furniture Name="Stairs">
-		<Name>Stairs</Name>
+		<Name>Escaliers</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Table">
@@ -151,7 +151,7 @@
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Fluorescent lamp">
-		<Name>Lampe fluorescent</Name>
+		<Name>Lampe fluorescente</Name>
 		<Description>Parfait pour l'éclairage des sous-sols, ne demande que peu d'entretien, l'idéal non ?</Description>
 		<Color1>Shade</Color1>
 		<Color3>Lighting</Color3>
