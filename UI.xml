@@ -663,7 +663,7 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="Build vertical parking">Construire un parking vertical</Item>
 		<Item Name="Not available in demo">Pas disponible en Demo</Item>
 		<Item Name="Office">Bureau</Item>
-		<Item Name="Temperature">Temperature</Item>
+		<Item Name="Temperature">Température</Item>
 		<Item Name="Lighting">Eclairage</Item>
 		<Item Name="Needs">Besoins</Item>
 		<Item Name="Decoration">Décoration</Item>
@@ -671,8 +671,8 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 	<RightClick>
 		<Item Name="ActionPair">Assigner un objet à un salarié</Item>
 		<Item Name="ActionDefault Style">Définir comme style par défaut</Item>
-		<Item Name="ActionUnify Style">Unifier le style des elements sélectionnés</Item>
-		<Item Name="ActionRoom Color">Couleurs de pièce</Item>
+		<Item Name="ActionUnify Style">Unifier le style des élements sélectionnés</Item>
+		<Item Name="ActionRoom Color">Changer la couleur</Item>
 		<Item Name="ActionMaterial">Motifs de pièce</Item>
 		<Item Name="ActionEducate">Former des salariés</Item>
 		<Item Name="ActionDismiss">Congédier des salariés</Item>
@@ -680,7 +680,7 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="ActionDestroy">Détruire la pièce</Item>
 		<Item Name="ActionChange Team">Changer d'équipe</Item>
 		<Item Name="ActionLimit Use">Limiter l'utilisation de la pièce</Item>
-		<Item Name="ActionSelect Building">Selectionner la batiment entier</Item>
+		<Item Name="ActionSelect Building">Selectionner le batîment entier</Item>
 		<Item Name="ActionChange Role">Changer le rôle des salariés</Item>
 		<Item Name="ActionSend home">Renvoyer les salariés chez eux</Item>
 		<Item Name="ActionFurniture color">Couleur des meubles</Item>
@@ -689,9 +689,9 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="ActionChange Salary">Changer le salaire des salariés</Item>
 		<Item Name="ActionSelect Team">Selectionner l'équipe entière</Item>
 		<Item Name="ActionSelect Owned">Selectionner les meubles assignés au salarié</Item>
-		<Item Name="ActionSelect Staff">Selectionner les meuble de la pièce</Item>
+		<Item Name="ActionSelect Staff">Selectionner les employés dans la pièce</Item>
 		<Item Name="ActionUnpair">Désassigner le(s) meuble(s)</Item>
-		<Item Name="ActionPair Use">Assigner le meuble utilisé ausalarié</Item>
+		<Item Name="ActionPair Use">Assigner le meuble utilisé au salarié</Item>
 		<Item Name="ActionUpgrade">Améliorer le meuble au niveau supérieur</Item>
 		<Item Name="ActionMove">Déplacer le meuble</Item>
 	</RightClick>
@@ -1508,8 +1508,8 @@ Cliquez pour continuer.</Item>
 		<Item Name="Alpha work">Alpha</Item>
 		<Item Name="Support work">Support</Item>
 		<Item Name="Hiring">Embauche</Item>
-		<Item Name="TutorialPost">{0} tutoriel</Item>
-		<Item Name="TutorialPrompt">Voulez-vous commencer le {0} tutoriel ?</Item>
+		<Item Name="TutorialPost">Tutoriel de {0}</Item>
+		<Item Name="TutorialPrompt">Voulez-vous commencer le tutoriel de {0} ?</Item>
 		<Item Name="Tutorial">Tutoriel</Item>
 		<Item Name="Not now">Pas maintenant</Item>
 		<Item Name="Never">Jamais</Item>
