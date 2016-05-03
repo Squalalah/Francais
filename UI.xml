@@ -1527,7 +1527,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Stressed">Je suis stressé.</Item>
 		<Item Name="StressWarning">Un employé est stressé. Assurez-vous de ne pas les surmener avec trop de tâches et de les renvoyer chez eux lorsqu'ils sont vraiment stressés.</Item>
 		<Item Name="SocialProblem">Je me sens isolé.</Item>
-		<Item Name="SocialWarning">An employee is not having their social needs met. An open working environment, team meetings and furniture for socializing can help</Item>
+		<Item Name="SocialWarning">Un salarié a des problèmes socials. un environnement de travail ouvert, des réunions ou du matériel social peuvent aider.</Item>
 		<Item Name="Stress">Stress</Item>
 		<Item Name="Social">Social</Item>
 		<Item Name="Independent">Indépendant</Item>
@@ -1535,8 +1535,8 @@ Cliquez pour continuer.</Item>
 		<Item Name="Fast learner">Apprend vite</Item>
 		<Item Name="Lazy">Paresseux</Item>
 		<Item Name="Stressed">Stressé</Item>
-		<Item Name="IndependantVsSocial">Un bon leader doit être social, mais un employé indépendant est heureux de travailler toute la journée dans une cabine.</Item>
-		<Item Name="LazyVsStressed">Un employé paresseux va essayer, le plus souvent possible, de ne pas travailler, alors qu'un employé stressé va vite se sentir surchargés de travail.</Item>
+		<Item Name="IndependantVsSocial">Un bon leader doit être social, à noter qu'un employé indépendant est heureux de travailler toute la journée dans une cabine.</Item>
+		<Item Name="LazyVsStressed">Un employé paresseux va essayer, le plus souvent possible, de ne pas travailler, tandis qu'un employé stressé va vite se sentir surchargé de travail.</Item>
 		<Item Name="HardWorkVsFastLearn">Un travailleur acharché donnera toujours 110% de lui-même, mais quelqu'un qui apprend vite va acquérir de nouvelles compétences plus rapidement.</Item>
 		<Item Name="InHouseWarning">Vous êtes sur le point de développer un produit pour vous, ce qui signifie que vous ne serez pas en mesure de le vendre ou de mettre un prix sur une licence.
 		Etes-vous sûr de continuer ?</Item>
