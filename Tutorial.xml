@@ -48,24 +48,24 @@ Cliquez sur « Appliquer » lorsque vous êtes prêt ou fermer la fenêtre si vo
 Construisez une nouvelle table en cliquant sur le bouton « Équipement » ou cliquez sur la barre de recherche en écrivant « Table ».</Message>
 	<Message id="BUILD MODE10">Maintenant ajoutez une chaise. Les chaises ne peuvent être ajoutés qu'aux tables.
 
-Note that furniture with multiple tiers, like chairs, can be upgraded after they have been placed. You can use the right click context menu to easily upgrade a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
-	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+A noter que les meubles possédant plusieurs niveaux, comme les chaises, peuvent être amélioré après avoir été placé. Vous pouvez utiliser le menu lors du clic droit pour améliorer tout les objets selectionnés en même temps, pour cela, selectionnez les meubles du même type dans la même pièce.</Message>
+	<Message id="BUILD MODE11">Cela ajoute un ordinateur. Quand vous placez un ordinateur, cliquez enfoncé où vous souhaitez le placer et bougez la souris dans la direction où vous voulez placer l'ordinateur, puis relacher le clic pour le poser.
 
-Computers have to sit on top of a table and face a chair.</Message>
-	<Message id="BUILD MODE12">When you put tables next to eachother they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just highlight one table and it's group will be highlighted in blue.
+Les ordinateurs doivent être placé sur une table et en face d'une chaise.</Message>
+	<Message id="BUILD MODE12">Quand vous placez des tables côte à côte, elles peuvent être groupées en même temps si elles n'ont rien sur elles. Les tables groupées peuvent être utilisés pour les réunions. Pour voir quelles tables sont groupées, survollez une table avec la souris et celles groupées apparaîtront en bleue.
 
-Click "Continue" to advance.</Message>
-	<Message id="BUILD MODE13">Your founder does not get tired, hungry, cold or needs to use the toilet, but when you hire new employees they will. So make sure to add at least one fridge, a coffee machine, a radiator, a ventilator and a separate toilet room before you hire new employees.
+Cliquez sur « Appliquer » lorsque vous êtes prêt ou fermer la fenêtre si vous voulez annuler vos modifications.</Message>
+	<Message id="BUILD MODE13">Votre fondateur n'est jamais fatigué, affamé, gelé et n'a pas de vessie, mais les salariés que vous embauchez le seront. N'oubliez pas donc pas d'ajouter un réfrigérateur, machine à café, radiateurs, ventileurs et des toilettes séparées avant d'embaucher de nouveaux salariés.
 
-Click "Continue" to advance.</Message>
-	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+Cliquez sur « Appliquer » lorsque vous êtes prêt ou fermer la fenêtre si vous voulez annuler vos modifications.</Message>
+	<Message id="BUILD MODE14">Maintenant, assignons une équipe à une salle, les salariés des autres équipes ne viendront ni travailler, ni passer par cette salle.
 
-Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
-	<Message id="BUILD MODE15">Remember to assign employees to a team as well. You can do this either by right clicking on an employee and choosing "Switch team" or from the employees window. All employees are automatically assigned to a team, if there is only one team in your company.
+Clic droit sur votre nouvelle salle et cliquez sur "Switchez d'Equipe", qui ressemble à un cercle avec des flèches. Un fenêtre apparaîtra, Cliquez sur "Core" pour assigner une salle à l'équipe "Core".</Message>
+	<Message id="BUILD MODE15">N'oubliez pas d'assigner des salariés à une equipe. Vous pouvez faire cela en faisant un clic droit sur un salarié et choisissez "Switcher d'Equipe" ou sur la fenêtre des salariés. Tout les salariés sont automatiquement assignés à une équipe, si il n'y a qu'une équipe dans votre entreprise.
 
-Holding shift while clicking on objects, rooms or employees will allow you to select several at once, you can then right click anywhere to see the actions menu.
+Enfoncez SHIFT tout en cliquant sur des objets, salles ou salariés vous permettra d'en selectionner plusieurs à la fois, vous pouvez ensuite faire un clic droit pour voir le menu des actions.
 
-Try selecting at least 2 things in the game.</Message>
+Essayez de selectionner au moins 2 choses dans le jeu.</Message>
 	<Message id="BUILD MODE16">If you ever want to merge two rooms, just hold shift and click to select the rooms you want to merge, right click and then choose the "Merge rooms" option from the context menu.
 
 Now, let's exit Build mode.</Message>
