@@ -1587,14 +1587,14 @@ Cliquez pour continuer.</Item>
 		<Item Name="NameChangeTitle">Nouveau nom</Item>
 		<Item Name="NameChangePrompt">Nom du salarié:</Item>
 		<Item Name="Change name">Changer le nom</Item>
-		<Item Name="DeleteKeyHintHint">Vous pouvez configurer un raccourci clavier pour renvoyé un salaré ou détruire des objets. La touche par défaut est "SUPPR".</Item>
+		<Item Name="DeleteKeyHintHint">Vous pouvez configurer un raccourci clavier pour renvoyer un salarié ou détruire des objets. La touche par défaut est "SUPPR".</Item>
 		<Item Name="SaveFailIOError">Echec de la sauvegarde, message d'erreur :
 {0}</Item>
 		<Item Name="Currency short form">Devise en abrégé</Item>
 		<Item Name="MillionPost">M</Item>
 		<Item Name="BillionPost">Mds</Item>
 		<Item Name="UpdateBlueprint">Mise à jour du blueprint</Item>
-		<Item Name="SplitUnsupported">Cette scission se traduirait par des salles non pris en charge.</Item>
+		<Item Name="SplitUnsupported">Cette scission se traduirait par des salles non prises en charge.</Item>
 		<Item Name="ModActivateError">Echec de l'activation du mod, regardez les logs pour plus de détails.</Item>
 		<Item Name="HexColor">Hex</Item>
 	</Alpha8.10>
