@@ -1562,7 +1562,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Rouge">Maquillage</Item>
 		<Item Name="Womens Blouse">Blouse pour femmes</Item>
 		<Item Name="Womens Pants">Pantalon pour femmes</Item>
-		<Item Name="HintTeamSizeEffectiveness">Placer plus de gens que nécessaire sur un projet n'augmente pas nécessairement la développement et pourrait même en diminuer l'efficacité.</Item>
+		<Item Name="HintTeamSizeEffectiveness">Placer plus de gens que nécessaire sur un projet n'améliore pas forcément le développement et pourrait même en diminuer l'efficacité.</Item>
 		<Item Name="Womens Hoodie">Sweatshirt pour femmes</Item>
 		<Item Name="Mens Hoodie">Sweatshirt pour hommes</Item>
 		<Item Name="Womens Shirt">Shirt pour femmes</Item>
