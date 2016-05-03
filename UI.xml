@@ -1527,7 +1527,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Stressed">Je suis stressé.</Item>
 		<Item Name="StressWarning">Un employé est stressé. Assurez-vous de ne pas les surmener avec trop de tâches et de les renvoyer chez eux lorsqu'ils sont vraiment stressés.</Item>
 		<Item Name="SocialProblem">Je me sens isolé.</Item>
-		<Item Name="SocialWarning">Un salarié a des problèmes socials. un environnement de travail ouvert, des réunions ou du matériel social peuvent aider.</Item>
+		<Item Name="SocialWarning">Un salarié a des problèmes socials. Un environnement de travail ouvert, des réunions ou du matériel social peuvent aider.</Item>
 		<Item Name="Stress">Stress</Item>
 		<Item Name="Social">Social</Item>
 		<Item Name="Independent">Indépendant</Item>
