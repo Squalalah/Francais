@@ -1,51 +1,52 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Your design has now been promoted to alpha and the real development will begin.
+	<Message id="ALPHA WORK1">Votre conception est maintenant passée à la phase alpha et de vrai développement commencera.
 
-Alpha has three stages, first "Alpha", in which the product is developed, then a possible "Delay", depending on how compentent your employees are, and finally "Beta", in which as many bugs as possible will be fixed.
+L'apha a trois étapes, le premier "Alpha" dans lequel le produit est développé, Ensuite une phase "Retard" est possible, selon le temps pris pas les salariés, et finalement la phase "Bêta", dans laquel sont fixée autant de bug que possible.
 
-Press "Promote" in the action menu when the alpha is ready. Note that you will lose some quality if you end the alpha phase prematurily, but it might also be the best thing to do if you want beat a competitor to the punch or you are running out of money.
+Appuyer sur "Développer" dans le menu d'action quand l'alpha est prête. Notez que vous perdrez une ceratine qualité si vous finissez la phase alpha prématurément, mais cela pourrait être aussi la meilleur choses a faire si vous voulez battre un concurent ou si vous êtes a court d'argent.
 
-The tutorial will continue once you begin the delay phase.</Message>
-	<Message id="ALPHA WORK2">Your alpha has entered a delay phase, in which employees scramble to finish up the alpha.
 
-Press "Beta" or wait for the delay to finish.
+Le tutoriel continura une fois que la phase "Retard" aura commencer.</Message>
+	<Message id="ALPHA WORK2">Votre alpha est rentré dans une phase de retard, dans laquelle les salariés finissent l'alpha.
 
-Note that promoting to beta will add extra bugs, which might take longer to fix than the delay phase takes to finish.
+Appuyez sur "Bêta" ou attendez la fin de la phase "Retard" pour finir.
 
-The tutorial will continue once you begin the beta phase.</Message>
-	<Message id="ALPHA WORK3">Bugs are now being fixed. The amount of bugs that can be fixed depends on the competence of your employees.
+Notez qu'en passant à la phase "Bêta" vous ajouterez des bugs suplémentaire, qui pourrait prendre plus de temps pour être fixés, que la pahse de "Retard" prendrer pour s'achever.
 
-Press "Release" when you are ready, but note that bugs will cost you in contract work and add more work when you are supporting a product you released yourself.
+Le tutoriel continuera une fois que la phase bêta commencera</Message>
+	<Message id="ALPHA WORK3">Les bugs sont maintenant fixés. La quantité des bugs pouvant être fixés dépend des compétence de vos salariés.
+	
+Appuyez sur "Terminer" quand vous êtes prêts, mais notez que les bugs vous couteront du temps et ajouteront du travail pendant la phase de "Support" du produit que vous venez de sortir.
 
-Press "End" to finish the tutorial.</Message>
-	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
-	<Message id="BUILD MODE2">The game is always paused in build mode.
+Appuyer sur "Fin" pour finir le tutoriel.</Message>
+	<Message id="BUILD MODE1">Débuter en entrant dans le mode "Construction" en cliquant sur le bouton de "Mode Construction".</Message>
+	<Message id="BUILD MODE2">Le jeu est toujours en pause dans le mode "Construction".
 
-Let's start by building a room, click on the "Construct rectangle room" button in the build panel.
+Commençons en construisant une pièce, cliquer sur "Mur" dans la section "Construire".
 
-You can build rooms in any shape or split rooms into two by clicking "Construct room" to the left of the button.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using this panel. This might come in handy if you want to build tables along a diagonal wall for example.
+Vous pouvez construire des pièces de toute forme ou faire une pièce divisée en deux en cliquant sur "Construire une pièce".</Message>
+	<Message id="BUILD MODE3">Maintenant cliquez quelque part dans la grille, puis cliquez sur un autre endroit pour terminer votre pièce. Gardez un oeil sur le coût tout en déplaçant votre curseur.</Message>
+	<Message id="BUILD MODE4">Vous avez sans doute remarqué que votre grille était plutôt limité lorsque vous avez construit votre pièce. Vous pouvez modifié cette grille ainsi que la construction des angles en utilisant les boutons ci-contre. Cela peut-être utile si vous voulez construire un mur en diagonale sur plusieurs angles.
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing Q and E.
+Cliquez sur Continuer lorsque vous êtes prêt.</Message>
+	<Message id="BUILD MODE5">Vous pouvez monter ou descendre d'un étage avec les touches "Q" et "E" (touches par défaut).
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+A présent nous allons ajouter des fenêtres ainsi que des portes. Vous pouvez soit sélectionner une catégorie ou recherchez "fenêtre" ou "porte" dans le panneau de construction.</Message>
+	<Message id="BUILD MODE6">Vous avez remarquez comme la pièce c'est éclairci lorsque vous avez ajouté des fenêtres, assurez-vous d'en ajouter suffisament pour que vos employés puissent bien voir.
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+Vous pouvez inspecter les conditions d'éclairage, d'environnement, de température et de bruit en cliquant pour sélectionner la pièce.</Message>
+	<Message id="BUILD MODE7">Vous pouvez également changer la couleur de vos salles et de vos meubles.
 
-Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by shift clicking and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+Essayez de changer la couleur de votre salle par un clic droit et cliquez sur le bouton « Changer la couleur ».</Message>
+	<Message id="BUILD MODE8">Vous pouvez changer la couleur de plusieurs élements à la fois en sélectionnant les objets avant de cliquez sur le bouton pour changer les couleurs. La fenêtre pour les couleurs proposera des couleurs qui sont actuellements en cours d'utilisation.
 
-If you like the style you have given a room or piece of furniture, you can set it as default in the right click context menu.
+Si vous aimez le style que vous avez donné à une salle ou un meuble, vous pouvez le configurer pour le mettre par défaut dans le menu contextuel du clic droit.
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+Cliquez sur « Appliquer » lorsque vous êtes prêt ou fermer la fenêtre si vous voulez annuler vos modifications.</Message>
+	<Message id="BUILD MODE9">Mettons quelques meubles dans votre nouvelle salle.
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+Construisez une nouvelle table en cliquant sur le bouton « Équipement » ou cliquez sur la barre de recherche en écrivant « Table ».</Message>
+	<Message id="BUILD MODE10">Maintenant ajoutez une chaise. Les chaises ne peuvent être ajoutés qu'aux tables.
 
 Note that furniture with multiple tiers, like chairs, can be upgraded after they have been placed. You can use the right click context menu to easily upgrade a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
 	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
@@ -69,42 +70,42 @@ Try selecting at least 2 things in the game.</Message>
 
 Now, let's exit Build mode.</Message>
 	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
-	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
-	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+	<Message id="CONTRACTS1">Commencez par ouvrir la fenêtre des contrats de travail.</Message>
+	<Message id="CONTRACTS2">Voici une liste des contrats disponibles. De nouveaux contrats seront ajoutés quand vous aurez compléter les plus anciens.
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
+Les contrats ont un acompte, que vous reçevrez en acceptant le travail, le reste du paiement lorsque vous aurez terminé le contrat. Il y aura des pénalités si vous ne finissez pas le contrat ou si vous n'avez pas fixer les bugs. Ne pas respectez la qualité demandez ou le temps imparti se traduira par une baisse du paiement final.
 
-Browse the contracts now and accept one you think sounds fair.</Message>
-	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
-	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
-	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
-	<Message id="CUSTOMIZATION4">And a gender.</Message>
-	<Message id="CUSTOMIZATION5">These buttons allow you to pick the colors of your founder and his/her clothes.</Message>
-	<Message id="CUSTOMIZATION6">These buttons will cycle through different hair styles, faces, pants and jackets for your founder.</Message>
-	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
+Parcourez les contrats et accepter celui que vous semblez être en mesure de finir.</Message>
+	<Message id="CUSTOMIZATION1">Bienvenue sur l'écran de customisation. CLiquez sur "Continuer" pour regardez ce tutoriel ou "Annuler" pour le fermer.</Message>
+	<Message id="CUSTOMIZATION2">Commencez par choisir un nom pour votre entreprise.</Message>
+	<Message id="CUSTOMIZATION3">Puis choisissez un nom pour le fondateur de votre entreprise.</Message>
+	<Message id="CUSTOMIZATION4">Et son genre.</Message>
+	<Message id="CUSTOMIZATION5">Ces boutons vous permettent de choisir les différentes couleurs de peau, vêtements, etc.. de votre fondateur.</Message>
+	<Message id="CUSTOMIZATION6">Ces boutons vous permettent de choisir les différents styles de chevaux, vêtements, visages, etc.. de votre fondateur.</Message>
+	<Message id="CUSTOMIZATION7">Ici vous pourrez choisir les différents traits de personnalité de votre fondateur.
 
-You can choose two traits, which will affect your founder's behavior(leadership, ability to learn and laziness) and inter-office relationships.</Message>
-	<Message id="CUSTOMIZATION8">Here you can pick you founder's skill points and specializations, which will affect the performance of your founder.
+Vous pouvez choisir deux traits, ceci auront une incidence sur le comportement de votre fondateur (leadership, capacité à apprendre et la paresse) et les relations inter-bureaux.</Message>
+	<Message id="CUSTOMIZATION8">Ici, vous pouvez choisir les compétences de votre fondateur.
 
-Specializations are limited by skill, so if your founder has low design skill, he/she will also be low skilled in the design specialization you pick.
+Les spécialisations sont limités par la compétence, donc si votre fondateur à une faible compétence de designer, il/elle sera également peu qualifiés dans la spécialisation de designer que vous choisirez.
 
-You can further educate and train your founder to gain skill and specializations in the game.</Message>
-	<Message id="CUSTOMIZATION9">You are now done customizing your founder. Let's begin choosing the rules of the game!</Message>
-	<Message id="CUSTOMIZATION10">You can enable any mods here, which will be bound to the game forever.
+Vous pouvez en outre éduquer et former votre fondateur pour acquérir des compétences et spécialisations une fois en jeu.</Message>
+	<Message id="CUSTOMIZATION9">Vous avez dès à présent terminé la personnalisation de votre fondateur. Commençons à choisir les règles de jeu !</Message>
+	<Message id="CUSTOMIZATION10">Vous pouvez activer tous le smods que vous avez ici, qui sera lié à votre sauvegarde pour toujours.
 
-You can share your game with others, without them having to install the mods.
+Vous pourrez partager votre sauvegarde avec les autres, sans avoir installer les mods.
 
-Some mods add scenarios, so you should enable the ones you want before picking a scenario.</Message>
-	<Message id="CUSTOMIZATION11">Now pick a scenario. The scenario will control the starting money and starting date you can choose between, and goals and whether to simulate the competition, use a scripted competition or both.</Message>
-	<Message id="CUSTOMIZATION12">You can change the environment here.
+Certains mods ajoutent des scénarios de jeu, vous devrez donc les activer avant de choisir un scénario.</Message>
+	<Message id="CUSTOMIZATION11">Maintenant choisissez un scénario. Le scénario va contrôler l'année et l'argent de départ, les objectifs et la simulation, vous pouvez choisir entre les deux.</Message>
+	<Message id="CUSTOMIZATION12">Vous pouvez modifier l'environnement ici.
 
-The forest is the default environment, the tundra is cold all year, the desert is hot all year and the city has skyscrapers and a pre-built road network with parking lots.</Message>
-	<Message id="CUSTOMIZATION13">Difficulty can be changed at any point in the game by going to the options menu. Difficutly controls employee wage and effectiveness, and the simulated competitors' competence.</Message>
-	<Message id="CUSTOMIZATION14">Normally 1 day is equal to 1 month in Software Inc. This keeps the game at a steady pace so it doesn't get boring.
+La forêt est l'environnement par défaut, la toundra est un environnement ou il fait froid toute l'année, le désert est quand à lui chaud toute l'année et la ville dispose de gratte-ciel et un reseau routier pré-construit avec beaucoup de stationnement.</Message>
+	<Message id="CUSTOMIZATION13">La difficulté peut-être modifié à tout moment dans le jeu en allant dans le menu des options. La diffculté contrôle les salaires et l'efficacité des employés, ainsi que la compétences des entreprises concurrentes.</Message>
+	<Message id="CUSTOMIZATION14">Normalement, un jour est égale à 1 mois dans Software Inc. Cela permet de maintenir le jeu à un rythme soutenu de sorte à ce qu'il ne soit pas ennuyeux.
 
-If you feel the game is going too fast or you want a couple of buffer days to earn money between having to pay salaries and bills, you can increase the amount of days there is in a month.
+Si vous sentez que le jeu va trop vite, ou si vous voulez plusieurs jours pour gagner de l'argent pour payer les salaires et les factures, vous pouvez augmenter le nombre de jours à 8 par mois.
 
-Note that everything in the game will move relatively slower to match the setting you pick and you can't change it later on.</Message>
+Notez que tout dans le jeu se déplacera relativement plus ou moins vite pour correspondre au paramètre que vous choisirez et vous ne pourrez plus le changer par la suite.</Message>
 	<Message id="DESIGN DOCUMENT1">Start the tutorial by pressing the "Develop software" button to bring up the design document.</Message>
 	<Message id="DESIGN DOCUMENT2">Welcome to the design document, the heart of Software Inc.
 
@@ -334,31 +335,31 @@ Alternatively, you can buy the stock when it is cheap and sell it high, by tryin
 
 Make sure to quickly assign a team to this work item or it will affect your company's reputation.</Message>
 	<Message id="SUPPORT WORK2">The work item will fill up as bugs are fixed, the blue line represents how many bugs have been reported so far. When the item is filled, the work is over and your software is bug free... In theory.</Message>
-	<Message id="WELCOME1">Welcome to Software Inc.
+	<Message id="WELCOME1">Bienvenue dans Software Inc.
 
-You can drag this window somewhere else if it is in the way, by clicking and holding the titlebar.
+Vous pouvez déplacer cette fenêtre autre part si elle est au milieu, en cliquant et en maintenant la barre de titre.
 
-Press Continue to advance the tutorial.</Message>
-	<Message id="WELCOME2">You can move the camera with the WASD keys or by moving your mouse to the edges of the screen (if edge scrolling is enabled in the options menu).
+Appuyez sur Continuer pour avancer dans le tutoriel.</Message>
+	<Message id="WELCOME2">Vous pouvez bouger la caméra avec les touches WASD (par défaut) ou en bougeant votre souris aux limites de l’écran (si les bords de défilement est activé dans le menu option).
 
-You can rotate the camera by holding the middle mouse button and moving the mouse or using the arrow keys.
+Vous pouvez tourner la caméra en mainenant appuyé le bouton de la molette de votre souris et en bougeant votre souis ou en utilisant les touches fléchées. 
 
-You can zoom in and out by using the scroll wheel or the plus and minus keys on your keypad.</Message>
-	<Message id="WELCOME3">The keys can be configured in the options menu, which you can open by pressing Escape or pressing the button in the lower right corner and click "Options".</Message>
-	<Message id="WELCOME4">In the top you can find your current bank balance.</Message>
-	<Message id="WELCOME5">Up here, the stars show your business reputation and the number is your fan count.
+Vous pouvez zoomer en avant et en arrière en utilisant la roulette de votre souris ou les touches plus et moins sur votre clavier.</Message>
+	<Message id="WELCOME3">Les touches peuvent être configurées dans le menu option, que vous pouvez ouvrir en appuyant sur Échap ou en appuyant sur le bouton en bas à droite et cliquer sur « Options ».</Message>
+	<Message id="WELCOME4">Au dessus vous pouvez trouver votre solde bancaire actuel.</Message>
+	<Message id="WELCOME5">Là-haut, les étoiles montrent votre réputation et le nombre est votre nombre actuel de fan.
 
-You can hover over the bar to see your market recognition in each software market. To sell more products in each software category, you need to gain market recognition by making good products and marketing them.</Message>
-	<Message id="WELCOME6">Here you can see how much money is moving in and out of your company.
+Vous pouvez survolez la barre pour voir votre reconnaissance du marché dans chaque marché dans lequel vous avez vendu un logiciel. Pour vendre plus de produits dans chaque catégorie de logiciels, vous devez gagner la reconnaissance du marché en faisant de bons produits et de leur commercialisation</Message>
+	<Message id="WELCOME6">Ici pous pouvez voir combien d'argent vous gagner ou perdez dans votre entreprise.
 
-Since this is your first day, nothing is showing. If you click here, a window with an overview of your bank flow will open.</Message>
-	<Message id="WELCOME7">You can control how fast time moves by using these buttons or 0, 1, 2, 3 on your keyboard, which can also be configured in the options menu.</Message>
-	<Message id="WELCOME8">Important notifications will appear in the top left. You can drag the notification bar down to see old notifications.
+Comme c'est votre premier jour, rien n'est montrer. Si vous cliquez ici, une fenêtre avec une vue d'ensemble de votre flux d'argent s'ouvrira.</Message>
+	<Message id="WELCOME7">Vous pouvez contrôler la vitesse du temps en utilisant ces boutons ou « 0,1,2,3 » de votre clavier, ils peuvent être modifier dans les options.</Message>
+	<Message id="WELCOME8">Les notifications importantes apparaissent dans la partie supérieur gauche de votre écran. Vous pouvez faire glisser la barre de notification vers le bas pour voir les anciennes notifications.
 
-Some notifications can be clicked to move the camera to the subject. You can right click notifications to delete them.</Message>
-	<Message id="WELCOME9">All your controls and windows are here, in the bottom left corner.</Message>
-	<Message id="WELCOME10">Remember: You can always restart any tutorial from the options menu.
+Certains modifications peuvent-être cliqués pour déplacer la caméra sur le sujet. Vous pouvez faire un clic droit sur les notifications pour les supprimer.</Message>
+	<Message id="WELCOME9">Tous vos contrôles et fenêtres sont ici, dans le coin inférieur gauche..</Message>
+	<Message id="WELCOME10">Rappelez-vous : Vous pouvez redémarrer tout les tutoriels à partir du menu d'options.
 
-When you are ready, begin building your office by entering "Build mode".</Message>
+Lorsque vous êtes prêt, commencer à construire votre premier bureau en entrant dans le « Mode Construction ».</Message>
 </Tutorial>
 
