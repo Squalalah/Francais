@@ -1,5 +1,6 @@
 # Francais
-update 8.10 en français
+update 8.10.13 en français
+(SANS TUTORIEL)
 
 
 Instructions SANS ARCHIVE .RAR (bouton "DOWNLOAD ZIP")
@@ -17,3 +18,16 @@ Instructions AVEC ARCHIVE .RAR (pièce jointe téléchargé via le post "RELEASE
 - Fusionnez le dossier déjà présent avec celui de l'archive
 - Lancez le jeu et choisissez en haut dans la langue, "Francais".
 - Enjoy !
+
+
+
+[Contributeurs]
+Branche "Master" -> Branche regroupant :
+- Les updates traduites
+- Corrections de la traduction
+
+Branche "8.x.x" -> Branche pour la traduction des nouvelles lignes
+
+Branche "tutoriel" -> Branche pour la traduction du tutoriel.
+
+Une organisation de ce type permettra de toujours proposer des traductions/corrections sans devoir attendre qu'on ait tout finis.
