@@ -1597,5 +1597,11 @@ Cliquez pour continuer.</Item>
 		<Item Name="SplitUnsupported">Cette scission se traduirait par des salles non prises en charge.</Item>
 		<Item Name="ModActivateError">Echec de l'activation du mod, regardez les logs pour plus de détails.</Item>
 		<Item Name="HexColor">Hex</Item>
+		<Item Name="BlueprintDeleteConfirmation">Etes-vous sûr de vouloir supprimer ce blueprint : {0} ?</Item>
+		<Item Name="TeamDisbandConfirmation">Etes-vous sûr de vouloir dissoudre cette équipe : {0} ?</Item>
+		<Item Name="Open console">Ouvrir console</Item>
+		<Item Name="Recommended designers">Designers recommandé</Item>
+		<Item Name="Recommended programmers">Programmeurs recommandé</Item>
+		<Item Name="Recommended artists">Artistes recommandé</Item>
 	</Alpha8.10>
 </UI>
