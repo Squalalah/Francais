@@ -9,7 +9,6 @@ Instructions SANS ARCHIVE .RAR (bouton "DOWNLOAD ZIP")
 - Faites glissez les trois fichier .XML du dossier de l'archive "francais-master" dans le dossier "francais" que vous avez créer
 - Lancez le jeu et selectionnez "francais" en haut à gauche
 - Enjoy !
-- 
 
 Instructions AVEC ARCHIVE .RAR (pièce jointe téléchargé via le post "RELEASES")
 
@@ -21,7 +20,8 @@ Instructions AVEC ARCHIVE .RAR (pièce jointe téléchargé via le post "RELEASE
 
 
 
-[Contributeurs]
+- [Contributeurs]
+- 
 Branche "Master" -> Branche regroupant :
 - Les updates traduites
 - Corrections de la traduction
