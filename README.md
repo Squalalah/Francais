@@ -20,7 +20,8 @@ Instructions AVEC ARCHIVE .RAR (pièce jointe téléchargé via le post "RELEASE
 
 
 
-- [Contributeurs]
+[Contributeurs]
+-
 Branche "Master" -> Branche regroupant :
 - Les updates traduites
 - Corrections de la traduction
