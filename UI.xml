@@ -1143,7 +1143,7 @@ Expiration: {3}</Item>
 		<Item Name="HalveGridSize">Grille divisé de taille</Item>
 		<Item Name="ChangeGridAnchor">Ancrer la grille à un objet de la carte</Item>
 		<Item Name="ResetGrid">Reset la Grille</Item>
-		<Item Name="ActionMergeRooms">Fusionner Pièces</Item>
+		<Item Name="ActionMergeRooms">Fusionner Salles</Item>
 		<Item Name="Turn furniture clockwise">Tourner le Meuble à droite</Item>
 		<Item Name="Turn furniture counter clockwise">Tourner le meuble à gauche</Item>
 		<Item Name="Grid">Grille</Item>
