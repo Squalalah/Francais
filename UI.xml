@@ -1225,7 +1225,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="Price">Prix</Item>
 		<Item Name="Active users">Utilisateurs</Item>
 		<Item Name="Category">Catégorie</Item>
-		<Item Name="ETA">Temps estimés</Item>
+		<Item Name="ETA">Temps estimé</Item>
 		<Item Name="Artists needed">Besoin d'artistes</Item>
 		<Item Name="Expected interest">Interêt prévu</Item>
 		<Item Name="Consumer reach">Consommateurs attendu</Item>
