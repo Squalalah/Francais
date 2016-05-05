@@ -128,7 +128,7 @@
 		<Item Name="Art skill">Comp. Art</Item>
 		<Item Name="Marketing skill">Marketing</Item>
 		<Item Name="Tier">Echelon</Item>
-		<Item Name="Scope">Visée</Item>
+		<Item Name="Scope">Taille</Item>
 		<Item Name="Company">Entreprise</Item>
 		<Item Name="Release">Sortie</Item>
 		<Item Name="Quality">Qualité</Item>
@@ -399,7 +399,7 @@
 		<Item Name="Gameplay">Gameplay</Item>
 		<Item Name="Graphics">Graphiques</Item>
 		<Item Name="Audio">Audio</Item>
-		<Item Name="Keys">Commandes</Item>
+		<Item Name="Keys">Raccourci</Item>
 		<Item Name="Resolution">Résolution</Item>
 		<Item Name="Fullscreen">Plein Ecran</Item>
 		<Item Name="Antialias type">Anti-Aliasing</Item>
@@ -833,7 +833,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Change team">Changer d'équipe</Item>
 	<Item Name="Change roles">Changer de rôle</Item>
 	<Item Name="Fire">Virer</Item>
-	<Item Name="Select all">Tous les selectionner</Item>
+	<Item Name="Select all">Tous sélectionner</Item>
 	<Item Name="Educate">Former</Item>
 	<Item Name="Interior">Intérieur</Item>
 	<Item Name="Exterior">Extérieur</Item>
@@ -1099,7 +1099,7 @@ Cela fera une augmentation de {0}, ce qui correspond à un coût de {1} par mois
 Si vous avez une sauvegarde récente, Je vous suggère de redemarrer le jeu et de recharger votre sauvegarde, Si vous n'êtes pas en mesure de sauvegarder actuellement.
 Si vous avez une idée de ce qui est arrivé par rapport au message d'erreur (cliquez sur "Voir l'erreur" pour vérifier) et que vous pouvez le reproduire, Je vous en serais très reconnaissant si vous pouviez m'envoyer un e-mail à SoftwareInc@Coredumping.com avec la description de l'erreur, et je la corrigerais.
 Je suis sincèrement désolé du dérangement.</Item>
-		<Item Name="UI size">taille de l'UI</Item>
+		<Item Name="UI size">Taille d'interface</Item>
 		<Item Name="NoCompanyName">Merci d'entrer un nom d'entreprise</Item>
 		<Item Name="Save picture">Sauver l'image</Item>
 		<Item Name="Tweet picture">Twetter une image</Item>
@@ -1223,12 +1223,12 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="License cost">Coût de Licence</Item>
 		<Item Name="Gross">Brut</Item>
 		<Item Name="Price">Prix</Item>
-		<Item Name="Active users">Users actifs</Item>
-		<Item Name="Category">Categorie</Item>
-		<Item Name="ETA">Finit dans</Item>
+		<Item Name="Active users">Utilisateurs</Item>
+		<Item Name="Category">Catégorie</Item>
+		<Item Name="ETA">Temps estimés</Item>
 		<Item Name="Artists needed">Besoin d'artistes</Item>
 		<Item Name="Expected interest">Interêt prévu</Item>
-		<Item Name="Consumer reach">Besoin des consommateurs</Item>
+		<Item Name="Consumer reach">Consommateurs attendu</Item>
 		<Item Name="License costs">Coûts de Licence</Item>
 		<Item Name="Recommended team size">Taille d'équipe recommandé</Item>
 		<Item Name="Traded">Négocié</Item>
@@ -1290,7 +1290,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="Auto role">Rôle par défaut</Item>
 	</Alpha7.3>
 	<Alpha7.4>
-		<Item Name="Topdown view">Vue du dessus.</Item>
+		<Item Name="Topdown view">Vue de dessus.</Item>
 		<Item Name="ServerDealDetail2">Type: {0}
 Profit par Mbps par mois: {1}
 Utilisation bande passante actuelle: {2}
@@ -1414,7 +1414,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="Porting">Porte</Item>
 		<Item Name="PortTo">Portage à {0}</Item>
 		<Item Name="UnsupportedProcWarning">Votre serveur dispose de processus non supportés!</Item>
-		<Item Name="Max quality">Qualité max</Item>
+		<Item Name="Max quality">Qualité maximale</Item>
 		<Item Name="Fence">Clôture</Item>
 		<Item Name="Construct fence">Construire une clôture</Item>
 		<Item Name="Construct rectangle fence">Construire une clôture carré</Item>
@@ -1600,8 +1600,8 @@ Cliquez pour continuer.</Item>
 		<Item Name="BlueprintDeleteConfirmation">Etes-vous sûr de vouloir supprimer ce blueprint : {0} ?</Item>
 		<Item Name="TeamDisbandConfirmation">Etes-vous sûr de vouloir dissoudre cette équipe : {0} ?</Item>
 		<Item Name="Open console">Ouvrir console</Item>
-		<Item Name="Recommended designers">Designers recommandé</Item>
-		<Item Name="Recommended programmers">Programmeurs recommandé</Item>
-		<Item Name="Recommended artists">Artistes recommandé</Item>
+		<Item Name="Recommended designers">Designers recommandés</Item>
+		<Item Name="Recommended programmers">Programmeurs recommandés</Item>
+		<Item Name="Recommended artists">Artistes recommandés</Item>
 	</Alpha8.10>
 </UI>
