@@ -112,23 +112,23 @@ Notez que tout dans le jeu se déplacera relativement plus ou moins vite pour co
 Commençons par choisir un type de logiciel.
 
 Cliquez sur continuer pour continuer le tutoriel.</Message>
-	<Message id="DESIGN DOCUMENT3">If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and it's own target audience.</Message>
-	<Message id="DESIGN DOCUMENT4">Then pick a name. You can either write one yourself or press the "Name:" button to have it generated.</Message>
-	<Message id="DESIGN DOCUMENT5">You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price.</Message>
-	<Message id="DESIGN DOCUMENT6">Now you must pick features for your product. Each feature takes time to develop and balances innovation, stability and usability, so pick carefully.
+	<Message id="DESIGN DOCUMENT3">Si vous le pouvez, vous pouvez choisir une catégorie. Chaque catégorie d'un type de logiciel a un temps de developpement, popularité, type de public et fonctionnalités différentes.</Message>
+	<Message id="DESIGN DOCUMENT4">Choisissez un nom. Vous pouvez en écrire un vous même ou cliquez sur "Nom:" pour en générer un.</Message>
+	<Message id="DESIGN DOCUMENT5">Vous pouvez également choisir un prix. Si vous laissez le champ du prix vide,le meilleur prix sera choisis, basé sur le type de logiciel et les fonctionnalités que vous avez choisis. Vous pouvez cliquer sur le bouton "Prix" pour reinitialiser le prix.</Message>
+	<Message id="DESIGN DOCUMENT6">Maintenant, vous devez choisir des fonctionnalités pour votre logiciel. Chaque fonctionnalité prend du temps à être developpé et joue sur l'innovation, stabilité et l'ergonomie, choisissez les donc avec prudence.
 
-The features you can pick depend on which software dependencies and operating systems you chose. When you select features, dependencies and operating systems will be filtered accordingly, this also works the other way around.
+Les fonctionnalités que vous choisissez dépendent des dépendances fonctionnelles du logiciel et du système d'exploitation choisi. Quand vous selectionnez les fonctionnalités, les dépendances et système d'exploitation seront filtrés en conséquence, cela fonctionne aussi dans ce sens.
 
-Some features are artistic in nature and you will need artists on the team to get the best result.</Message>
-	<Message id="DESIGN DOCUMENT7">You can use these buttons to quickly select features. Note that it might not always be best to just select all features.</Message>
-	<Message id="DESIGN DOCUMENT8">Your product can depend on other software types. As an example, you will need a visual tool, like an image editor, to make a game with 2D graphics or you won't be able to make the graphics for it.
+Certaines fonctionnalités sont artistiques de nature et vous aurez donc besoin d'artistes dans l'équipe pour obtenir le meilleur résultat possible.</Message>
+	<Message id="DESIGN DOCUMENT7">Vous pouvez utiliser ces boutons pour selectionner rapidement ces fonctionnalités. Notez que cela sera sera pas forcement mieux de prendre toutes les fonctionnalités disponibles.</Message>
+	<Message id="DESIGN DOCUMENT8">Votre produit peut dépendre de d'autres types de logiciel. Par exemple, vous aurez besoin d'un outil visuel, comme un éditeur d'image, pour faire un jeu tournant avec des graphismes 2D ou vous ne pourrez jamais coder un jeu en 2D.
 
-The features you pick will determine what type of software you need to develop your product and the quality of the dependencies will affect the quality of your product.</Message>
-	<Message id="DESIGN DOCUMENT9">Pick a software you want to use from the list by selecting it and pressing "OK".
+Les fonctionnalités que vous choisissez détermineront quel type de logiciel vous aurez besoin pour developper votre produit et la qualité des dépendances affecteront la qualité des produits (ex : un outil visuel médiore).</Message>
+	<Message id="DESIGN DOCUMENT9">Choisissez un logiciel que vous souhaitez utiliser via la liste en le selectionnant et en cliquant sur "OK".
 
-You can filter software by features, the features you can pick for your software will sometimes depend on the features of the software you pick here.
+Vous pouvez filtrer les logiciels par fonctionnalités, les fonctionnalités que vous pouvez prendre pour votre logiciel vont parfois dépendre des fonctionnalités du logiciel que vous avez choisis.
 
-Take special note of quality and license costs. Your software's quality will depend on the quality of the software you pick and you will have to pay the license fees.</Message>
+Faites attention à la qualité et au coût de la license. La qualité du logiciel dépendra de la qualité du logiciel que vous avez pris et vous aurez besoin de payer sa license.</Message>
 	<Message id="DESIGN DOCUMENT10">Some software runs on an operating system and some software can only run on operating systems that the software it is built on can run on, e.g. Games can only run on the operating systems that its Game Engine can run on. And as before, your features might also depend on which operating systems you choose to support.
 
 You can pick your operating systems here. If nothing is shown, the software type you picked is not operating system dependent.
