@@ -26,8 +26,6 @@ Branche "Master" -> Branche regroupant :
 - Les updates traduites
 - Corrections de la traduction
 
-Branche "8.x.x" -> Branche pour la traduction des nouvelles lignes
-
-Branche "tutoriel" -> Branche pour la traduction du tutoriel.
+Branche "updates" -> Branche pour la traduction des nouvelles lignes
 
 Une organisation de ce type permettra de toujours proposer des traductions/corrections sans devoir attendre qu'on ait tout finis.
