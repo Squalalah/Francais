@@ -1603,5 +1603,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Recommended designers">Designers recommandés</Item>
 		<Item Name="Recommended programmers">Programmeurs recommandés</Item>
 		<Item Name="Recommended artists">Artistes recommandés</Item>
+		<Item Name="LampTestHint">Vous pouvez modifier les conditions d'éclairage en mode construction dans le coin bas à gauche en dessous des catégories.
+		Cela vous permettra également de visualiser les lampes en action.</Item>
 	</Alpha8.10>
 </UI>
