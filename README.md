@@ -1,5 +1,5 @@
 # Francais
-update 8.10.18 en français
+update 8.10.19 en français
 (SANS TUTORIEL)
 
 
