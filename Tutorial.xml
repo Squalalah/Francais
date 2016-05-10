@@ -182,19 +182,19 @@ Click the title bar to collapse the work item.
 Click "End" to finish the tutorial.
 
 Click buttons to improve life.</Message>
-	<Message id="DISTRIBUTION1">Begin the distribution tutorial by opening the distribution window</Message>
-	<Message id="DISTRIBUTION2">In order to sell your products, you need distributors to give them to customers.
+	<Message id="DISTRIBUTION1">Commencez le tutoriel de distribution en ouvrant la fenêtre « Chaines de distribution »</Message>
+	<Message id="DISTRIBUTION2">Afin de vendre vos produits, vous avez besoin des chaînes de distribution pour les donner aux clients.
 
-There are two types of distribution channels, online and physcial stores. Online stores sell your products for a cut of the revenue, whereas physical stores require upfront payment for producing physical copies, but they also boost your product's marketing.
+Il existe deux types de chaînes de dtistribution, les magasins en ligne et les magasins physiques. Les magasins en lignes vendent vos produits avec une commission , tandis que les magasins physiques exigent un paiement inital pour la production de copies physiques, mais ils augmentent également la commercialisation de votre produit.
 
-When you start a new game you are already publishing through all online distributors. You can see which distributors you are using by looking at the Active column.
+Lorsque vous démarrez une nouvelle partie, vos avez déjà des accords avec tout les magasins en ligne. Vous pouvez voir que les distributeurs que vous utilisez en regardant la colonne « Actif ».
 
-Press continue to advance the tutorial.</Message>
-	<Message id="DISTRIBUTION3">You also have the option of opening your own distribution channel, which other companies can make use of.
+Cliquer sur « Continuer » pour avancer dans le tutoriel.</Message>
+	<Message id="DISTRIBUTION3">Vous avez également la possibilité d'ouvrir votre propre chaîne de distribution, que d'autres entreprises pourront utilisés.
 
-Note that this requires a robust server farm or people will get angry with your company.
+Notez que cela nécessite un serveur robuste ou les gens vont se mettre en colère avec votre entreprise.
 
-Press End to finish the tutorial.</Message>
+Cliquer sur « Fin » pour terminé ce tutoriel.</Message>
 	<Message id="EDUCATION1">Begin the tutorial by selecting one or more of your employees, right click anywhere on the screen to bring up the action menu, and then pick "Educate".</Message>
 	<Message id="EDUCATION2">This is the education window. You can use education to make your employee better at their jobs or enable responsibilities for your leaders.
 
@@ -256,16 +256,16 @@ When you are done, simply close the window.</Message>
 	<Message id="HR3">Go over the HR settings and check "Enable HR management" when you are done. The Budget might need to be increased once in a while, so good employees don't seek out new job opportunities.
 
 Close the automation window to finish this tutorial.</Message>
-	<Message id="INSURANCE1">Start by opening the insurance window</Message>
-	<Message id="INSURANCE2">You can deposit and withdraw money by using this slider.
+	<Message id="INSURANCE1">Commencer part ouvrir la fenêtre d'assurance.</Message>
+	<Message id="INSURANCE2">Vous pouvez déposer et retirer de l'argent en utilisant ce curseur.
 
-Money on your insurance account earns you 5% interest per year (up to a certain amount), so it's a great place to keep money.
+L'argent que vous placez dans votre compte d'assurance vous rapporte des inétrêts de 5% par an (jusqu'à un certain montant), il ets donc utile de mettre de l'argent de côté.
 
-Withdrawing and depositing money in the insurance account affects your employee's satisfaction based on their age, so be careful when you withdraw money.</Message>
-	<Message id="INSURANCE3">Employees retire, or might die or get sick. When this happens they will receive money from your insurance account, so there is some risk involved in depositing money into this account.
+Retirer et déposer de l'argent sur votre compte d'assurance affecte la satisfaction de vos salariés en fonction de leur âge, alors soyez prudent lorsque vous retirez de l'argent.</Message>
+	<Message id="INSURANCE3">Les salariés prennent leur retraire, tombe malade ou meurt. Lorsque que cela se produit, ils reçoivent de l'argent provenant de votre compte d'assurance, donc il y a un certain risque à déposer de l'argent sur le compte.
 
-You can keep up with what payments have been made in this panel.</Message>
-	<Message id="INSURANCE4">This is really all there is to your insurance account. Close the window to end the tutorial</Message>
+Vous pouvez suivre les paiements qui ont été faits dans ce tableau.</Message>
+	<Message id="INSURANCE4">Ceci est vraiment tout ce qu'il y a savoir sur le compte d'assurance. Fermer la fenêtre pour terminer le tutoriel.</Message>
 	<Message id="MARKETING1">Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
 
 You can start a marketing campaign by opening your release window and clicking the market button on the far right on the list of products.</Message>
@@ -294,13 +294,13 @@ Close the automation window to finish this tutorial.</Message>
 	<Message id="RESEARCH1">Commencez le tutoriel en cliquant sur "Recherches" pour afficher l'interface de conception</Message>
 	<Message id="RESEARCH2">Si il y a une recherche disponible, vous verrez une liste de logiciel apparaître. Vous pouvez cliquer sur le type du logiciel pour connaître les fonctionnalités disponibles pour cette recherche.
 
-Cliquez sur continuer pour continuer</Message>
-	<Message id="RESEARCH3">This is a list of researchable features for the selected software type. You can see which features have already been researched and which are currently patented. Features will appear as they unlock through the years.
+Cliquer sur « Continuer » pour avancer dans le tutoriel.</Message>
+	<Message id="RESEARCH3">Voici une liste de recherche disponible pour le logiciel sélectionné. Vous pouvez voir quelles recherches ont déjà été brevetés. D'autre recherche peuvent apparaître au fil des années.
 
-To research a feature, select it, click Research and pick the teams you want to conduct the research.</Message>
-	<Message id="RESEARCH4">When you have researched a feature, all companies who use it in a product will have to pay royalties to you, based on how much the software sells.
+Pour breveté une recherche, sélectionnez-le, cliquer sur « Recherche » puis assigner une équipe à la recherche.</Message>
+	<Message id="RESEARCH4">Lorsque vous avez breveté une recherche, toutes les entreprises qui l'utiliseront dans leurs produits devront vous payez des redevances (Royalties).
 
-Note that other companies might swoop in and steal the patent before you finish researching it and that patents eventually expire.</Message>
+Notez que d'autres entreprises peuvent faire la recherche et la breveté avant que vous ne finissiez la vôtre, et au bout de quelques années le brevet devient libre de droit.</Message>
 	<Message id="SERVER1">Open the server wiring interface by clicking the wire button.
 
 In this mode you can connect or disconnect servers by clicking on a server and then on another server.
