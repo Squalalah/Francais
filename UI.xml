@@ -1605,5 +1605,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Recommended artists">Artistes recommandés</Item>
 		<Item Name="LampTestHint">Vous pouvez modifier les conditions d'éclairage en mode construction dans le coin bas à gauche en dessous des catégories.
 		Cela vous permettra également de visualiser les lampes en action.</Item>
+		<Item Name="CookStoveWarning">Un cuisinier n'arrive pas à trouver une poêle.
+Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réfrigérateur et un plateau.</Item>
 	</Alpha8.10>
 </UI>
