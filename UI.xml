@@ -231,7 +231,7 @@
 		<Item Name="Server">Serveur</Item>
 		<Item Name="SCM">SCM</Item>
 		<Item Name="SCMLong">Code source Optimisé</Item>
-		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos programmeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
+		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos développeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
 		<Item Name="Information">Information</Item>
 		<Item Name="Dependencies">Requiert:</Item>
 		<Item Name="Operating system">Système d'Exploitation</Item>
@@ -638,7 +638,7 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="Lounge">Salon</Item>
 		<Item Name="Anyone">Tout le monde</Item>
 		<Item Name="Leaders">Chefs</Item>
-		<Item Name="Programmers">Programmeurs</Item>
+		<Item Name="Programmers">Développeurs</Item>
 		<Item Name="Designers">Designers</Item>
 		<Item Name="Artists">Artistes</Item>
 		<Item Name="Marketing">Marketing</Item>
@@ -818,12 +818,12 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Base skill">Base</Item>
 	<Item Name="Marketing">Marketing</Item>
 	<Item Name="Support">Support</Item>
-	<Item Name="Lead">Management</Item>
+	<Item Name="Lead">Gérance</Item>
 	<Item Name="Leader">Chef</Item>
 	<Item Name="Designer">Designer</Item>
-	<Item Name="Programmer">Programmeur</Item>
+	<Item Name="Programmer">Dev.</Item>
 	<Item Name="Artist">Artiste</Item>
-	<Item Name="Marketer">Marketeux</Item>
+	<Item Name="Marketer">Marketing</Item>
 	<Item Name="Take any job">Prendre n'importe quel job</Item>
 	<Item Name="Any role">Tous les rôles</Item>
 	<Item Name="Any">Aucun</Item>
@@ -861,7 +861,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="On market">Sur le marché</Item>
 		<Item Name="Inventor">Inventeur</Item>
 		<Item Name="CustomLeaderHint">Augmente l'abilité à souder une équipe, ainsi que leurs capacités et à gérer divers tâches</Item>
-		<Item Name="CustomProgrammerHint">Augmente la vitesse et la qualité que les programmeurs peuvent donner et une réparation des bugs plus rapide</Item>
+		<Item Name="CustomProgrammerHint">Augmente la vitesse et la qualité que les développeurs peuvent donner et une réparation des bugs plus rapide</Item>
 		<Item Name="CustomDesignerHint">Augmente la vitesse de travail sur le design et permet à l'salarié de mieux arrêter avant que le design devienne trop complexe</Item>
 		<Item Name="CustomArtistHint">Augmente la vitesse et la qualité que les artistes peuvent donner à un produit et une réparation des défauts plus rapide</Item>
 		<Item Name="CustomMarketerHint">Augmente l'efficacité et la vitesse des compagnes de marketing ainsi qu'un gain de reputation supérieur pour l'entreprise</Item>
@@ -1213,7 +1213,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 	<Alpha6.22>
 		<Item Name="FurnitureInLimitRoomWarning">Un salarié a été assigné à un(e) {0} dans une pièce où le salarié n'est pas autorisé à entrer.</Item>
 		<Item Name="EmployeeArtWorkWarning">{0} travaille sur l'artistique de {1} mais il n'est pas compétent en art et risque de retarder la sortie tout en ruinant la partie artistique.</Item>
-		<Item Name="EmployeeProgrammingWorkWarning">{0} programme sur {1} mais il n'est pas compétent en code et risque de retarder la sortie tout en ajoutant des bugs.</Item>
+		<Item Name="EmployeeProgrammingWorkWarning">{0} développe sur {1} mais il n'est pas compétent en code et risque de retarder la sortie tout en ajoutant des bugs.</Item>
 		<Item Name="EmployeeDesignWorkWarning">{0} conçoit le design de {1} mais il n'est pas compétent en design et risque de retarder la sortie tout en créant des erreurs.</Item>
 		<Item Name="RoadBusSignError">Tu ne peux construire une route en face d'un arrêt de bus !</Item>
 	</Alpha6.22>
@@ -1601,7 +1601,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="TeamDisbandConfirmation">Etes-vous sûr de vouloir dissoudre cette équipe : {0} ?</Item>
 		<Item Name="Open console">Ouvrir console</Item>
 		<Item Name="Recommended designers">Designers recommandés</Item>
-		<Item Name="Recommended programmers">Programmeurs recommandés</Item>
+		<Item Name="Recommended programmers">Développeurs recommandés</Item>
 		<Item Name="Recommended artists">Artistes recommandés</Item>
 		<Item Name="LampTestHint">Vous pouvez modifier les conditions d'éclairage en mode construction dans le coin bas à gauche en dessous des catégories.
 		Cela vous permettra également de visualiser les lampes en action.</Item>
