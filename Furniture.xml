@@ -89,8 +89,8 @@
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Industrial ventilation">
-		<Name>Ventilation d'industrie</Name>
-		<Description>Ce ventilateur à été conçu pour un refroidissement optimal pour le serveurs, à savoir pas les gens.</Description>
+		<Name>Ventilation industriel</Name>
+		<Description>Ce ventilateur à été conçu pour un refroidissement optimal des serveurs, pas des salariés...</Description>
 		<Color1>Base</Color1>
 		<Color2>Blades</Color2>
 	</Furniture>
@@ -115,22 +115,22 @@
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>Ordinateur Moderne</Name>
-		<Description>Un ordinateur moderne pour tous vos besoins informatiques modernes.</Description>
+		<Description>Un ordinateur moderne pour tous vos besoins d'informatiques ... modernes.</Description>
 		<Color1>Base</Color1>
 		<Color2>Keys</Color2>
 	</Furniture>
 	<Furniture Name="HoloComputer">
-		<Name>HoloOrdinateur</Name>
+		<Name>HoloPC</Name>
 		<Description>Bienvenue dans le futur! Oû tout est vraiment moins pratique.</Description>
 		<Color1>Hologram</Color1>
 	</Furniture>
 	<Furniture Name="Cubicle wall">
 		<Name>Mur de séparation</Name>
-		<Description>Placez ces murs est intelligent pour réduire le bruit autour des espaces de travail. Notez que ces murs augmentent l'isolement des employés.</Description>
+		<Description>Placez ces murs intelligemment pour réduire le bruit autour des espaces de travail. Notez que ces murs augmentent l'isolement des salariés.</Description>
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lampe</Name>
-		<Description>Assurez-vous que vos employés peuvent voir quand ils travaillent de nuit ou si nous n'avez pas envie d'être observé avec des fenêtres.</Description>
+		<Description>Assurez-vous que vos salariés peuvent voir quand ils travaillent de nuit ou si nous n'avez pas envie d'être observé avec des fenêtres.</Description>
 		<Color1>Shade</Color1>
 		<Color3>Lightning</Color3>
 	</Furniture>
@@ -146,7 +146,7 @@
 	</Furniture>
 	<Furniture Name="Floor Lamp">
 		<Name>Lampe de Salle</Name>
-		<Description>Fait de la lumière, mais dans une salle toute entière</Description>
+		<Description>Créer de la lumière, mais dans une salle toute entière</Description>
 		<Color1>Shade</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
@@ -164,25 +164,25 @@
 	</Furniture>
 	<Furniture Name="Vending Machine">
 		<Name>Distributeur automatique</Name>
-		<Description>Générateur de bouffe.</Description>
+		<Description>Générateur de bouffe industriel.</Description>
 	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Réfrigérateur</Name>
-		<Description>Générateur de bouffe incandescente.</Description>
+		<Description>Générateur de bouffe à incandescence.</Description>
 	</Furniture>
 	<Furniture Name="Stove">
 		<Name>Poêle</Name>
-		<Description>Le cuisinier utilise les poêles pour faire cuir des aliments. Une poêle par cuisinier.</Description>
+		<Description>Le cuisinier utilise les poêles pour faire cuir des aliments. Nécessite une poêle par cuisinier.</Description>
 		<Color1>Base</Color1>
 		<Color2>Top</Color2>
 	</Furniture>
 	<Furniture Name="Serving Tray">
 		<Name>Plateau</Name>
-		<Description>Les cuisiniers vont remplir les plateaux avec de la nourriture qu'ils ont cuisiné pour que les employés puissent la manger.</Description>
+		<Description>Les cuisiniers vont remplir les plateaux avec de la nourriture qu'ils ont cuisinés pour que les salariés puissent manger.</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
 		<Name>Café instantané</Name>
-		<Description>Trempez un peu de poudre dans de l'eau, et celon certaines légendes, cela donne du café.</Description>
+		<Description>Trempez un peu de poudre dans de l'eau, et selon certaines légendes, cela donne du café.</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Coffee">
@@ -203,7 +203,7 @@
 	</Furniture>
 	<Furniture Name="Watercooler">
 		<Name>Watercooler</Name>
-		<Description>Une petite pause pour discuter et se rafraîchir. Parfait pour se socialisé.</Description>
+		<Description>Une petite pause pour discuter et se rafraîchir. Parfait pour se sociabiliser.</Description>
 		<Color1>Shade</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
