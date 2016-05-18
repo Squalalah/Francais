@@ -29,7 +29,7 @@
 		<Item Name="Gender">Genre</Item>
 		<Item Name="Male">Homme</Item>
 		<Item Name="Female">Femme</Item>
-		<Item Name="Style">Style</Item>
+		<Item Name="Style">Personnalisation</Item>
 		<Item Name="Hair">Cheveux</Item>
 		<Item Name="Skin">Peau</Item>
 		<Item Name="Face">Tête</Item>
@@ -821,7 +821,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Lead">Gérance</Item>
 	<Item Name="Leader">Chef</Item>
 	<Item Name="Designer">Designer</Item>
-	<Item Name="Programmer">Dev</Item>
+	<Item Name="Programmer">Dev.</Item>
 	<Item Name="Artist">Artiste</Item>
 	<Item Name="Marketer">Marketing</Item>
 	<Item Name="Take any job">Prendre n'importe quel job</Item>
