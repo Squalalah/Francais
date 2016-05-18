@@ -32,7 +32,7 @@
 		<Item Name="Style">Personnalisation</Item>
 		<Item Name="Hair">Cheveux</Item>
 		<Item Name="Skin">Peau</Item>
-		<Item Name="Face">Tête</Item>
+		<Item Name="Face">Pilosité</Item>
 		<Item Name="Upper body">Haut du corps</Item>
 		<Item Name="Lower body">Bas du corps</Item>
 		<Item Name="Personality">Personnalité</Item>
@@ -147,7 +147,7 @@
 		<Item Name="Chart">Statistiques</Item>
 		<Item Name="Stock">Parts</Item>
 		<Item Name="Products">Produits</Item>
-		<Item Name="Owner">Détenteur</Item>
+		<Item Name="Owner">Propriétaire</Item>
 		<Item Name="Share">Partage</Item>
 		<Item Name="Change">Change</Item>
 		<Item Name="Worth">Valeur</Item>
@@ -189,8 +189,8 @@
 		<Item Name="Active">Actif</Item>
 		<Item Name="Physical store">Boutique physique</Item>
 		<Item Name="Popularity">Popularité</Item>
-		<Item Name="Release cost">Coût de sortie</Item>
-		<Item Name="Revenue cut">Comission</Item>
+		<Item Name="Release cost">Coût</Item>
+		<Item Name="Revenue cut">Commission</Item>
 		<Item Name="Contracts">Contrats</Item>
 		<Item Name="Power">Puissance</Item>
 		<Item Name="Server count">Nombre de serveur</Item>
@@ -310,9 +310,9 @@
 		<Item Name="HRCourseDesc">La Gestion de Haute Responsabilité permet à un Chef d'Equipe d'avoir plus de responsabilités, comme Engager, Virer, Gérer les disputes, les salaires et les formations.</Item>
 	</EducationWindow>
 	<DistributionWindow>
-		<Item Name="Make Deal">Faire un Contrat</Item>
+		<Item Name="Make Deal">Signer un Contrat</Item>
 		<Item Name="Take offline">Mettre Hors-Ligne</Item>
-		<Item Name="Popularity history">Evolution de Popularité</Item>
+		<Item Name="Popularity history">Popularité</Item>
 		<Item Name="Your distribution channel">Votre chaine de Distribution</Item>
 		<Item Name="Cut">Comission</Item>
 		<Item Name="Open">Ouvrir</Item>
@@ -803,7 +803,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Unassigned">Non assigné</Item>
 	<Item Name="SaveName">Entrer le nom de la sauvegarde...</Item>
 	<Item Name="Save">Sauvegarder</Item>
-	<Item Name="Load">Charger</Item>
+	<Item Name="Load">Charge</Item>
 	<Item Name="Apply">Appliquer</Item>
 	<Item Name="New team">Nouvelle Equipe</Item>
 	<Item Name="Team name">Nom d'Equipe</Item>
@@ -849,7 +849,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="RotateFurnHint">Cliquez et faites glisser pour faire pivoter le meuble</Item>
 	<Item Name="Development">Développement</Item>
 	<Item Name="SearchBar">Ecrivez pour chercher...</Item>
-	<Item Name="Inventor">Inventeur</Item>
+	<Item Name="Inventor">Créateur</Item>
 	<Item Name="Bought">Acheté</Item>
 	<Item Name="Color">Couleur</Item>
 	<Item Name="NetProfit">Profit Net</Item>
@@ -1066,7 +1066,7 @@ Vous avez besoin d'une reception pour recevoir des offres</Item>
 		<Item Name="IPDealActionBuy">Voulez vous acheter cette license pour {0}?</Item>
 		<Item Name="IPDealActionSell">Voulez vous vendre la license {0} pour {1}?</Item>
 		<Item Name="IPDealActionFail">Personne n'est interessé par l'achat de votre license</Item>
-		<Item Name="Trade IP">Négocier la license</Item>
+		<Item Name="Trade IP">Vendre</Item>
 		<Item Name="SheetDeals">Offres</Item>
 		<Item Name="Receptionist">Receptioniste</Item>
 		<Item Name="Guest">Visiteur</Item>
@@ -1228,7 +1228,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="ETA">Temps estimé</Item>
 		<Item Name="Artists needed">Besoin d'artistes</Item>
 		<Item Name="Expected interest">Interêt prévu</Item>
-		<Item Name="Consumer reach">Consommateurs attendu</Item>
+		<Item Name="Consumer reach">Consommateurs</Item>
 		<Item Name="License costs">Coûts de Licence</Item>
 		<Item Name="Recommended team size">Taille d'équipe recommandé</Item>
 		<Item Name="Traded">Négocié</Item>
@@ -1363,7 +1363,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="Fulfilling contract">Contrat realisé</Item>
 		<Item Name="Time-limit">Temps limite</Item>
 		<Item Name="Required quality">Qualité requise</Item>
-		<Item Name="Upfront">Important</Item>
+		<Item Name="Upfront">Avance</Item>
 		<Item Name="When done">Terminé</Item>
 		<Item Name="Penalty">Penalités</Item>
 		<Item Name="Cost per bug">Coût par bug</Item>
@@ -1389,7 +1389,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="SheetRoyalties">Royalties</Item>
 		<Item Name="Royalties">Royalties</Item>
 		<Item Name="Royalty">Royalty</Item>
-		<Item Name="Research">Recherche</Item>
+		<Item Name="Research">Recherches</Item>
 		<Item Name="Researching">Recherche...</Item>
 		<Item Name="ResearchDesc">Fait des recherches et conçoit des brevets pour tirer des royalties de vos concurrents.</Item>
 		<Item Name="Patent">Breveter</Item>
@@ -1511,9 +1511,9 @@ Cliquez pour continuer.</Item>
 		<Item Name="TutorialPost">Tutoriel de {0}</Item>
 		<Item Name="TutorialPrompt">Voulez-vous commencer le tutoriel de {0} ?</Item>
 		<Item Name="Tutorial">Tutoriel</Item>
-		<Item Name="Not now">Pas maintenant</Item>
+		<Item Name="Not now">Non</Item>
 		<Item Name="Never">Jamais</Item>
-		<Item Name="Disable all">Tous désactiver</Item>
+		<Item Name="Disable all">Désactiver</Item>
 		<Item Name="Skip">Passer</Item>
 		<Item Name="End">Fin</Item>
 		<Item Name="CancelTutorial">Êtes-vous sûr de vouloir annuler le turoriel ?</Item>
@@ -1554,7 +1554,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Accessories">Accessoires</Item>
 		<Item Name="Business Casual">Cheveux court</Item>
 		<Item Name="Full Beard">Barbe</Item>
-		<Item Name="Stubble">Chauve</Item>
+		<Item Name="Stubble">Doux</Item>
 		<Item Name="Mens Blouse">Blouse pour hommes</Item>
 		<Item Name="Mens Pants">Pantalon pour hommes</Item>
 		<Item Name="Glasses">Lunettes</Item>
