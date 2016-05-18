@@ -1608,5 +1608,6 @@ Cliquez pour continuer.</Item>
 		<Item Name="CookStoveWarning">Un cuisinier n'arrive pas à trouver une poêle.
 Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réfrigérateur et un plateau.</Item>
 		<Item Name="ServerDelegateError">Vous ne pouvez pas redéléguer un processus à un serveur qui s'en occupé déjà.</Item>
+		<Item Name="KeyBindError">Touche non reconnue</Item>
 	</Alpha8.10>
 </UI>
