@@ -121,8 +121,8 @@
 		<Item Name="Aptitude">Aptitudes</Item>
 		<Item Name="Leadership">Leadership</Item>
 		<Item Name="Diligence">Diligence</Item>
-		<Item Name="Years">Années</Item>
-		<Item Name="Lead skill">Leader</Item>
+		<Item Name="Years">Ancienneté</Item>
+		<Item Name="Lead skill">Gérance</Item>
 		<Item Name="Code skill">Codage</Item>
 		<Item Name="Design skill">Design</Item>
 		<Item Name="Art skill">Comp. Art</Item>
@@ -472,7 +472,7 @@
 		<Item Name="At work">Au Travail</Item>
 		<Item Name="At home">A la Maison</Item>
 		<Item Name="Retired">Démissioné</Item>
-		<Item Name="Vacation">En Vacances</Item>
+		<Item Name="Vacation">Vacances</Item>
 		<Item Name="Sick">Malade</Item>
 		<Item Name="Dead">Mort</Item>
 		<Item Name="Hospitalized">Hospitalisé</Item>
@@ -631,7 +631,7 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="Owned by">Possédé par</Item>
 		<Item Name="Nobody">Personne</Item>
 		<Item Name="Currently on">Allumé</Item>
-		<Item Name="Currently off">Eteind</Item>
+		<Item Name="Currently off">Eteint</Item>
 		<Item Name="FurnitureUnlock">Cet objet peut être débloqué à l'année {0}</Item>
 	</FurnitureInfo>
 	<RoomLimitNames>
@@ -1609,5 +1609,9 @@ Cliquez pour continuer.</Item>
 Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réfrigérateur et un plateau.</Item>
 		<Item Name="ServerDelegateError">Vous ne pouvez pas redéléguer un processus à un serveur qui s'en occupé déjà.</Item>
 		<Item Name="KeyBindError">Touche non reconnue</Item>
+		<Item Name="Cancel Deal">Rompre le contrat</Item>
+		<Item Name="Make Deal">Signer le contrat</Item>
+		<Item Name="SteamUploadDirectoryError">Chemin non existant: {0}</Item>
+		<Item Name="Meeting">Réunion</Item>
 	</Alpha8.10>
 </UI>
