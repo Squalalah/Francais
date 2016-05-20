@@ -509,7 +509,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 		<Categories></Categories>
 	</Software>
 	<Software Name="Logistics Application">
-		<Name>Demande Logistique</Name>
+		<Name>Application logistique</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Commandline">
@@ -550,7 +550,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game Assets">
-		<Name>Actifs du jeu</Name>
+		<Name>Contenu en jeu</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="2D art">

@@ -32,7 +32,7 @@
 		<Item Name="Style">Personnalisation</Item>
 		<Item Name="Hair">Cheveux</Item>
 		<Item Name="Skin">Peau</Item>
-		<Item Name="Face">Tête</Item>
+		<Item Name="Face">Pilosité</Item>
 		<Item Name="Upper body">Haut du corps</Item>
 		<Item Name="Lower body">Bas du corps</Item>
 		<Item Name="Personality">Personnalité</Item>
@@ -121,8 +121,8 @@
 		<Item Name="Aptitude">Aptitudes</Item>
 		<Item Name="Leadership">Leadership</Item>
 		<Item Name="Diligence">Diligence</Item>
-		<Item Name="Years">Années</Item>
-		<Item Name="Lead skill">Leader</Item>
+		<Item Name="Years">Ancienneté</Item>
+		<Item Name="Lead skill">Gérance</Item>
 		<Item Name="Code skill">Codage</Item>
 		<Item Name="Design skill">Design</Item>
 		<Item Name="Art skill">Comp. Art</Item>
@@ -147,7 +147,7 @@
 		<Item Name="Chart">Statistiques</Item>
 		<Item Name="Stock">Parts</Item>
 		<Item Name="Products">Produits</Item>
-		<Item Name="Owner">Détenteur</Item>
+		<Item Name="Owner">Propriétaire</Item>
 		<Item Name="Share">Partage</Item>
 		<Item Name="Change">Change</Item>
 		<Item Name="Worth">Valeur</Item>
@@ -189,8 +189,8 @@
 		<Item Name="Active">Actif</Item>
 		<Item Name="Physical store">Boutique physique</Item>
 		<Item Name="Popularity">Popularité</Item>
-		<Item Name="Release cost">Coût de sortie</Item>
-		<Item Name="Revenue cut">Comission</Item>
+		<Item Name="Release cost">Coût</Item>
+		<Item Name="Revenue cut">Commission</Item>
 		<Item Name="Contracts">Contrats</Item>
 		<Item Name="Power">Puissance</Item>
 		<Item Name="Server count">Nombre de serveur</Item>
@@ -231,7 +231,7 @@
 		<Item Name="Server">Serveur</Item>
 		<Item Name="SCM">SCM</Item>
 		<Item Name="SCMLong">Code source Optimisé</Item>
-		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos programmeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
+		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos développeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
 		<Item Name="Information">Information</Item>
 		<Item Name="Dependencies">Requiert:</Item>
 		<Item Name="Operating system">Système d'Exploitation</Item>
@@ -310,9 +310,9 @@
 		<Item Name="HRCourseDesc">La Gestion de Haute Responsabilité permet à un Chef d'Equipe d'avoir plus de responsabilités, comme Engager, Virer, Gérer les disputes, les salaires et les formations.</Item>
 	</EducationWindow>
 	<DistributionWindow>
-		<Item Name="Make Deal">Faire un Contrat</Item>
+		<Item Name="Make Deal">Signer un Contrat</Item>
 		<Item Name="Take offline">Mettre Hors-Ligne</Item>
-		<Item Name="Popularity history">Evolution de Popularité</Item>
+		<Item Name="Popularity history">Popularité</Item>
 		<Item Name="Your distribution channel">Votre chaine de Distribution</Item>
 		<Item Name="Cut">Comission</Item>
 		<Item Name="Open">Ouvrir</Item>
@@ -472,7 +472,7 @@
 		<Item Name="At work">Au Travail</Item>
 		<Item Name="At home">A la Maison</Item>
 		<Item Name="Retired">Démissioné</Item>
-		<Item Name="Vacation">En Vacances</Item>
+		<Item Name="Vacation">Vacances</Item>
 		<Item Name="Sick">Malade</Item>
 		<Item Name="Dead">Mort</Item>
 		<Item Name="Hospitalized">Hospitalisé</Item>
@@ -631,14 +631,14 @@ Do you want to take a loan worth {1} pour essayer d'éviter la banqueroute?</Ite
 		<Item Name="Owned by">Possédé par</Item>
 		<Item Name="Nobody">Personne</Item>
 		<Item Name="Currently on">Allumé</Item>
-		<Item Name="Currently off">Eteind</Item>
+		<Item Name="Currently off">Eteint</Item>
 		<Item Name="FurnitureUnlock">Cet objet peut être débloqué à l'année {0}</Item>
 	</FurnitureInfo>
 	<RoomLimitNames>
 		<Item Name="Lounge">Salon</Item>
 		<Item Name="Anyone">Tout le monde</Item>
 		<Item Name="Leaders">Chefs</Item>
-		<Item Name="Programmers">Programmeurs</Item>
+		<Item Name="Programmers">Développeurs</Item>
 		<Item Name="Designers">Designers</Item>
 		<Item Name="Artists">Artistes</Item>
 		<Item Name="Marketing">Marketing</Item>
@@ -803,7 +803,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Unassigned">Non assigné</Item>
 	<Item Name="SaveName">Entrer le nom de la sauvegarde...</Item>
 	<Item Name="Save">Sauvegarder</Item>
-	<Item Name="Load">Charger</Item>
+	<Item Name="Load">Charge</Item>
 	<Item Name="Apply">Appliquer</Item>
 	<Item Name="New team">Nouvelle Equipe</Item>
 	<Item Name="Team name">Nom d'Equipe</Item>
@@ -818,12 +818,12 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="Base skill">Base</Item>
 	<Item Name="Marketing">Marketing</Item>
 	<Item Name="Support">Support</Item>
-	<Item Name="Lead">Management</Item>
+	<Item Name="Lead">Gérance</Item>
 	<Item Name="Leader">Chef</Item>
 	<Item Name="Designer">Designer</Item>
-	<Item Name="Programmer">Programmeur</Item>
+	<Item Name="Programmer">Dev.</Item>
 	<Item Name="Artist">Artiste</Item>
-	<Item Name="Marketer">Marketeux</Item>
+	<Item Name="Marketer">Marketing</Item>
 	<Item Name="Take any job">Prendre n'importe quel job</Item>
 	<Item Name="Any role">Tous les rôles</Item>
 	<Item Name="Any">Aucun</Item>
@@ -849,7 +849,7 @@ Clic droit pour déselectionner et annuler.</Item>
 	<Item Name="RotateFurnHint">Cliquez et faites glisser pour faire pivoter le meuble</Item>
 	<Item Name="Development">Développement</Item>
 	<Item Name="SearchBar">Ecrivez pour chercher...</Item>
-	<Item Name="Inventor">Inventeur</Item>
+	<Item Name="Inventor">Créateur</Item>
 	<Item Name="Bought">Acheté</Item>
 	<Item Name="Color">Couleur</Item>
 	<Item Name="NetProfit">Profit Net</Item>
@@ -861,7 +861,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="On market">Sur le marché</Item>
 		<Item Name="Inventor">Inventeur</Item>
 		<Item Name="CustomLeaderHint">Augmente l'abilité à souder une équipe, ainsi que leurs capacités et à gérer divers tâches</Item>
-		<Item Name="CustomProgrammerHint">Augmente la vitesse et la qualité que les programmeurs peuvent donner et une réparation des bugs plus rapide</Item>
+		<Item Name="CustomProgrammerHint">Augmente la vitesse et la qualité que les développeurs peuvent donner et une réparation des bugs plus rapide</Item>
 		<Item Name="CustomDesignerHint">Augmente la vitesse de travail sur le design et permet à l'salarié de mieux arrêter avant que le design devienne trop complexe</Item>
 		<Item Name="CustomArtistHint">Augmente la vitesse et la qualité que les artistes peuvent donner à un produit et une réparation des défauts plus rapide</Item>
 		<Item Name="CustomMarketerHint">Augmente l'efficacité et la vitesse des compagnes de marketing ainsi qu'un gain de reputation supérieur pour l'entreprise</Item>
@@ -1066,7 +1066,7 @@ Vous avez besoin d'une reception pour recevoir des offres</Item>
 		<Item Name="IPDealActionBuy">Voulez vous acheter cette license pour {0}?</Item>
 		<Item Name="IPDealActionSell">Voulez vous vendre la license {0} pour {1}?</Item>
 		<Item Name="IPDealActionFail">Personne n'est interessé par l'achat de votre license</Item>
-		<Item Name="Trade IP">Négocier la license</Item>
+		<Item Name="Trade IP">Vendre</Item>
 		<Item Name="SheetDeals">Offres</Item>
 		<Item Name="Receptionist">Receptioniste</Item>
 		<Item Name="Guest">Visiteur</Item>
@@ -1213,7 +1213,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 	<Alpha6.22>
 		<Item Name="FurnitureInLimitRoomWarning">Un salarié a été assigné à un(e) {0} dans une pièce où le salarié n'est pas autorisé à entrer.</Item>
 		<Item Name="EmployeeArtWorkWarning">{0} travaille sur l'artistique de {1} mais il n'est pas compétent en art et risque de retarder la sortie tout en ruinant la partie artistique.</Item>
-		<Item Name="EmployeeProgrammingWorkWarning">{0} programme sur {1} mais il n'est pas compétent en code et risque de retarder la sortie tout en ajoutant des bugs.</Item>
+		<Item Name="EmployeeProgrammingWorkWarning">{0} développe sur {1} mais il n'est pas compétent en code et risque de retarder la sortie tout en ajoutant des bugs.</Item>
 		<Item Name="EmployeeDesignWorkWarning">{0} conçoit le design de {1} mais il n'est pas compétent en design et risque de retarder la sortie tout en créant des erreurs.</Item>
 		<Item Name="RoadBusSignError">Tu ne peux construire une route en face d'un arrêt de bus !</Item>
 	</Alpha6.22>
@@ -1228,7 +1228,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="ETA">Temps estimé</Item>
 		<Item Name="Artists needed">Besoin d'artistes</Item>
 		<Item Name="Expected interest">Interêt prévu</Item>
-		<Item Name="Consumer reach">Consommateurs attendu</Item>
+		<Item Name="Consumer reach">Consommateurs</Item>
 		<Item Name="License costs">Coûts de Licence</Item>
 		<Item Name="Recommended team size">Taille d'équipe recommandé</Item>
 		<Item Name="Traded">Négocié</Item>
@@ -1363,7 +1363,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="Fulfilling contract">Contrat realisé</Item>
 		<Item Name="Time-limit">Temps limite</Item>
 		<Item Name="Required quality">Qualité requise</Item>
-		<Item Name="Upfront">Important</Item>
+		<Item Name="Upfront">Avance</Item>
 		<Item Name="When done">Terminé</Item>
 		<Item Name="Penalty">Penalités</Item>
 		<Item Name="Cost per bug">Coût par bug</Item>
@@ -1389,7 +1389,7 @@ Ne laissez pas les mots atteindre le font.</Item>
 		<Item Name="SheetRoyalties">Royalties</Item>
 		<Item Name="Royalties">Royalties</Item>
 		<Item Name="Royalty">Royalty</Item>
-		<Item Name="Research">Recherche</Item>
+		<Item Name="Research">Recherches</Item>
 		<Item Name="Researching">Recherche...</Item>
 		<Item Name="ResearchDesc">Fait des recherches et conçoit des brevets pour tirer des royalties de vos concurrents.</Item>
 		<Item Name="Patent">Breveter</Item>
@@ -1511,9 +1511,9 @@ Cliquez pour continuer.</Item>
 		<Item Name="TutorialPost">Tutoriel de {0}</Item>
 		<Item Name="TutorialPrompt">Voulez-vous commencer le tutoriel de {0} ?</Item>
 		<Item Name="Tutorial">Tutoriel</Item>
-		<Item Name="Not now">Pas maintenant</Item>
+		<Item Name="Not now">Non</Item>
 		<Item Name="Never">Jamais</Item>
-		<Item Name="Disable all">Tous désactiver</Item>
+		<Item Name="Disable all">Désactiver</Item>
 		<Item Name="Skip">Passer</Item>
 		<Item Name="End">Fin</Item>
 		<Item Name="CancelTutorial">Êtes-vous sûr de vouloir annuler le turoriel ?</Item>
@@ -1554,7 +1554,7 @@ Cliquez pour continuer.</Item>
 		<Item Name="Accessories">Accessoires</Item>
 		<Item Name="Business Casual">Cheveux court</Item>
 		<Item Name="Full Beard">Barbe</Item>
-		<Item Name="Stubble">Chauve</Item>
+		<Item Name="Stubble">Doux</Item>
 		<Item Name="Mens Blouse">Blouse pour hommes</Item>
 		<Item Name="Mens Pants">Pantalon pour hommes</Item>
 		<Item Name="Glasses">Lunettes</Item>
@@ -1601,11 +1601,17 @@ Cliquez pour continuer.</Item>
 		<Item Name="TeamDisbandConfirmation">Etes-vous sûr de vouloir dissoudre cette équipe : {0} ?</Item>
 		<Item Name="Open console">Ouvrir console</Item>
 		<Item Name="Recommended designers">Designers recommandés</Item>
-		<Item Name="Recommended programmers">Programmeurs recommandés</Item>
+		<Item Name="Recommended programmers">Développeurs recommandés</Item>
 		<Item Name="Recommended artists">Artistes recommandés</Item>
 		<Item Name="LampTestHint">Vous pouvez modifier les conditions d'éclairage en mode construction dans le coin bas à gauche en dessous des catégories.
 		Cela vous permettra également de visualiser les lampes en action.</Item>
 		<Item Name="CookStoveWarning">Un cuisinier n'arrive pas à trouver une poêle.
 Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réfrigérateur et un plateau.</Item>
+		<Item Name="ServerDelegateError">Vous ne pouvez pas redéléguer un processus à un serveur qui s'en occupé déjà.</Item>
+		<Item Name="KeyBindError">Touche non reconnue</Item>
+		<Item Name="Cancel Deal">Rompre le contrat</Item>
+		<Item Name="Make Deal">Signer le contrat</Item>
+		<Item Name="SteamUploadDirectoryError">Chemin non existant: {0}</Item>
+		<Item Name="Meeting">Réunion</Item>
 	</Alpha8.10>
 </UI>

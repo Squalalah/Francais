@@ -1,5 +1,7 @@
 # Francais
-update 8.10.18 en français
+
+update 8.10.26 en français
+
 (SANS TUTORIEL)
 
 
@@ -26,6 +28,6 @@ Branche "Master" -> Branche regroupant :
 - Les updates traduites
 - Corrections de la traduction
 
-Branche "updates" -> Branche pour la traduction des nouvelles lignes
+Branche "updates" -> Branche pour la traduction des nouvelles updates
 
 Une organisation de ce type permettra de toujours proposer des traductions/corrections sans devoir attendre qu'on ait tout finis.
