@@ -129,32 +129,32 @@ Les fonctionnalités que vous choisissez détermineront quel type de logiciel vo
 Vous pouvez filtrer les logiciels par fonctionnalités, les fonctionnalités que vous pouvez prendre pour votre logiciel vont parfois dépendre des fonctionnalités du logiciel que vous avez choisis.
 
 Faites attention à la qualité et au coût de la license. La qualité du logiciel dépendra de la qualité du logiciel que vous avez pris et vous aurez besoin de payer sa license.</Message>
-	<Message id="DESIGN DOCUMENT10">Some software runs on an operating system and some software can only run on operating systems that the software it is built on can run on, e.g. Games can only run on the operating systems that its Game Engine can run on. And as before, your features might also depend on which operating systems you choose to support.
+	<Message id="DESIGN DOCUMENT10">Certains logiciels fonctionnent sur un système d'exploitations et certains fonctionne UNIQUEMENT sur les systèmes d'exploitations sur lesquels ils sont été conçu, ex : Les jeux peuvent tourner que sur les systèmes d'exploitations sur lesquelles leur moteur de jeu a été conçu. Et comme dit précedemment, vos fonctionnalités dépendront aussi du système d'exploitation choisi.
 
-You can pick your operating systems here. If nothing is shown, the software type you picked is not operating system dependent.
+Vous pouvez choisir votre système d'exploitation ici. Si la liste est vide, le type de logiciel choisi ne dépend pas d'un système d'exploitation.
 
-Press "Continue" to carry on.</Message>
-	<Message id="DESIGN DOCUMENT11">You can make your software a sequel to a product you made previously or which you have bought from another company. You do this by clicking this button and selecting a product as you did with operating systems and software needs.
+Cliquez sur "Continuer".</Message>
+	<Message id="DESIGN DOCUMENT11">Vous pouvez faire une suite d'un produit précedemment créer ou dont vous avez acheté la licence. Vous pouvez faire cela en cliquant ici et en selectionnant le produit désiré comme ce que nous avons fait précédemment avec les systèmes d'exploitations.
 
-Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+Créer une suite va vous donner un boost pour votre marketing et va influencer l'attente de vos fans en fonction du succès des produits précédents.
 
-Features that were implemented for the predecessor will be highlighted in orange in the feature panel, these features will be developed faster when you develop your product.</Message>
-	<Message id="DESIGN DOCUMENT12">You can also make your software in-house, which means you won't sell it to other companies.
+Les fonctionnalités déjà présente sur le prédécesseur sera surligné en orange dans l'arbre des fonctionnalités, celles-ci seront developpés plus vite quand vous developerrez votre produit.</Message>
+	<Message id="DESIGN DOCUMENT12">Votre produit peut également est créer dans le but que vous seul puissiez l'utiliser, ce qui signifie que les concurrents ne pourront vous le racheter.
 
-You can use this to develop top quality game engines and only use them for your own games, to gain an advantage over other companies.
+Vous pouvez faire cela pour développer un moteur de jeu de la meilleure qualité possible et le garde pour vous , ce qui vous donne un avantage sur vos concurrents.
 
-If this is not visible, it means the software you picked is meant for an audience and it wouldn't make sense to keep it in-house.</Message>
-	<Message id="DESIGN DOCUMENT13">If your software depends on server functionality, like an MMO, you will need to pick a server from this list.
+Néanmoins, ne gardez pour vous que les logiciels utiles, cela n'aurait pas de sens de garder un jeu pour vous.</Message>
+	<Message id="DESIGN DOCUMENT13">Si votre produit dépend d'un serveur, comme les MMO, Vous devrez choisir un serveur via la liste.
 
-If your servers cannot handle the load this software will generate, they will quickly burn out and you will lose your reputation.</Message>
-	<Message id="DESIGN DOCUMENT14">Finally, you can pick a source control server from this list to support the development.
+Si vos serveurs ne peuvent pas supporter la charge que le produit génère, ils vont crasher et vous perdrez de la réputation.</Message>
+	<Message id="DESIGN DOCUMENT14">Pour finir, Vous pouvez choisir un serveur de versionning depuis cette liste.
 
-Using source control will decrease bugs and speed up development, if your server can handle the load.</Message>
-	<Message id="DESIGN DOCUMENT15">After you've went through the phases of development and you're ready to release your product, remember to see if any popular products has just been released in the same software category as yours.
+Le versionning diminuera les bugs et améliorera la vitesse de développement, si votre serveur peut supporter la charge.</Message>
+	<Message id="DESIGN DOCUMENT15">Quand vous avez finis toutes les phases de développement et que vous êtes prêts à sortir votre produit, n'oubliez pas de vérifier si certains logiciels viennent de sortir avec le même type de logiciel que le votre, et s'ils ont eu du succès.
 
-You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+Vous pouvez également étudier les sorties à venir de vos concurrents pour être sur qu'une entreprise plus imposante ne va pas faire de l'ombre à votre logiciel.
 
-Timing is everything when you're just starting out!</Message>
+Le timing est tout ce qu'il y a de plus important quand vous venez de commencer à jouer!</Message>
 	<Message id="DESIGN DOCUMENT16">Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
 
 Take special note of consumer reach. Consumer reach is how many people can potentially purchase the product as of right now, this number might decrease or increase as you develop the product. For software that depend on operating systems, it will be limited by how many people are currently using the operating system and it's successors.
