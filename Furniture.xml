@@ -171,8 +171,8 @@
 		<Description>Générateur de bouffe à incandescence.</Description>
 	</Furniture>
 	<Furniture Name="Stove">
-		<Name>Poêle</Name>
-		<Description>Le cuisinier utilise les poêles pour faire cuir des aliments. Nécessite une poêle par cuisinier.</Description>
+		<Name>Gazinière</Name>
+		<Description>Le cuisinier utilise les gazinières pour faire cuire des aliments. Nécessite une poêle par cuisinier.</Description>
 		<Color1>Base</Color1>
 		<Color2>Top</Color2>
 	</Furniture>
@@ -181,7 +181,7 @@
 		<Description>Les cuisiniers vont remplir les plateaux avec de la nourriture qu'ils ont cuisinés pour que les salariés puissent manger.</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Café instantané</Name>
+		<Name>Café moulu</Name>
 		<Description>Trempez un peu de poudre dans de l'eau, et selon certaines légendes, cela donne du café.</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
@@ -202,7 +202,7 @@
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Watercooler">
-		<Name>Watercooler</Name>
+		<Name>Distributeur d'eau</Name>
 		<Description>Une petite pause pour discuter et se rafraîchir. Parfait pour se sociabiliser.</Description>
 		<Color1>Shade</Color1>
 		<Color2>Support</Color2>
@@ -238,7 +238,7 @@
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Table Cactus">
-		<Name>Cactus de Table.</Name>
+		<Name>Cactus de Table</Name>
 		<Description></Description>
 		<Color1>Pot</Color1>
 	</Furniture>
@@ -292,7 +292,7 @@
 		<Color2>Handle</Color2>
 	</Furniture>
 	<Furniture Name="Drawing Tablet">
-		<Name>Tablette de dessin</Name>
+		<Name>Tablette Graphique</Name>
 		<Description>Beaucoup plus facile que d'ajouter les pixels un à un.</Description>
 		<Color1>Base</Color1>
 		<Color2>Pad</Color2>
@@ -305,7 +305,7 @@
 	</Furniture>
 	<Furniture Name="Inbox">
 		<Name>Boite de réception</Name>
-		<Description>Aide à gardez vos employés organisés, particulièrement utile pour les personnes n'ayant jamais entendu parler d'un mail.</Description>
+		<Description>Aide à garder vos employés organisés, particulièrement utile pour les personnes n'ayant jamais entendu parler d'un mail.</Description>
 		<Color1>Box</Color1>
 	</Furniture>
 	<Segment Name="Standard door">
