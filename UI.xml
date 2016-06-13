@@ -1613,5 +1613,9 @@ Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réf
 		<Item Name="Make Deal">Signer le contrat</Item>
 		<Item Name="SteamUploadDirectoryError">Chemin non existant: {0}</Item>
 		<Item Name="Meeting">Réunion</Item>
+		<Item Name="Function">Fonctionne</Item>
+		<Item Name="Capacity">Capacité</Item>
+		<Item Name="Anchor grid">Grille</Item>
+		<Item Name="Reset grid">Reset la grille</Item>
 	</Alpha8.10>
 </UI>
