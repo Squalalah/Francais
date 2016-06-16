@@ -1617,5 +1617,26 @@ Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réf
 		<Item Name="Capacity">Capacité</Item>
 		<Item Name="Anchor grid">Grille</Item>
 		<Item Name="Reset grid">Reset la grille</Item>
+		<Item Name="Feedback">Signaler un bug</Item>
+		<Item Name="E-mail">E-mail</Item>
+		<Item Name="Message">Message</Item>
+		<Item Name="Files">Fichiers</Item>
+		<Item Name="Send">Envoyer</Item>
+		<Item Name="MailInvalid">Merci d'entrer une adresse valide, ou laissez simplement le champ vide.</Item>
+		<Item Name="ReportSuccess">Le rapport a été envoyé !</Item>
+		<Item Name="ReportFailure">Le rapport n'a pas pu être envoyé. Voulez vous essayer plus tard ?
+Erreur:</Item>
+		<Item Name="Include log file">Inclure les logs</Item>
+		<Item Name="Include save file">Inclure le fichier de sauvegarde</Item>
+		<Item Name="Include PC specs">Inclure la configuration materielle</Item>
+		<Item Name="NoFeedbackError">Merci d'entrer au moins 50 caractères dans votre message.</Item>
+		<Item Name="CrashMessage">Le jeu a detecté un crash lors de votre dernière partie, voulez vous en notifier le développeur?</Item>
+		<Item Name="ExceptionMessage">Le jeu a detecté une erreur, voulez vous en notifier le développeur?</Item>
+		<Item Name="MailPlaceholder">(OPTIONNEL) Laissez moi vous contacter pour plus d'informations.</Item>
+		<Item Name="ReportMessagePlaceholder">Entrez votre message pour Coredumping ici.</Item>
+		<Item Name="TryLaterConfirm">Votre rapport a été sauvegardé et sera envoyé la prochaine fois que vous lancerez le jeu.</Item>
+		<Item Name="ReportDelayError">Vous ne pouvez envoyer qu'un rapport toute les 5 minutes.</Item>
+		<Item Name="Report">Signaler</Item>
+		<Item Name="ScreenshotDev">Signaler une screenshot</Item>
 	</Alpha8.10>
 </UI>
