@@ -1,5 +1,5 @@
 # Francais
-update 8.10.30 en français
+update 8.10.32 en français
 (SANS TUTORIEL)
 
 
