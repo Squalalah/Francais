@@ -1638,5 +1638,11 @@ Erreur:</Item>
 		<Item Name="ReportDelayError">Vous ne pouvez envoyer qu'un rapport toute les 5 minutes.</Item>
 		<Item Name="Report">Signaler</Item>
 		<Item Name="ScreenshotDev">Signaler une screenshot</Item>
+		<Item Name="SaveGameFail2">Sauvegarde impossible. Vous pouvez jouer, Mais vous risquez de perdre la progression que vous allez avoir après ce message.
+Cette erreur a été enregistrée. Souhaitez vous envoyer un rapport au développeur ?
+Nous sommes désolé du désagrément.</Item>
+		<Item Name="LoadGameFail2">Chargement impossible. Vous pouvez jouer, Mais vous risquez de perdre la progression que vous allez avoir après ce message.
+Cette erreur a été enregistrée. Souhaitez vous envoyer un rapport au développeur ?
+Nous sommes désolé du désagrément.</Item>
 	</Alpha8.10>
 </UI>
