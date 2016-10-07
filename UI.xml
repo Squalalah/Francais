@@ -1,4 +1,4 @@
-﻿<UI>
+<UI>
 	<Months>
 		<Item Name="January">Janvier</Item>
 		<Item Name="February">Février</Item>
@@ -1608,7 +1608,6 @@ Cliquez pour continuer.</Item>
 		<Item Name="CookStoveWarning">Un cuisinier n'arrive pas à trouver une poêle.
 Assurez vous que vous en avez une pour chaque cuisinier et un autre mois un réfrigérateur et un plateau.</Item>
 		<Item Name="ServerDelegateError">Vous ne pouvez pas redéléguer un processus à un serveur qui s'en occupé déjà.</Item>
-		<Item Name="KeyBindError">Touche non reconnue</Item>
 		<Item Name="Cancel Deal">Rompre le contrat</Item>
 		<Item Name="Make Deal">Signer le contrat</Item>
 		<Item Name="SteamUploadDirectoryError">Chemin non existant: {0}</Item>
@@ -1645,4 +1644,43 @@ Nous sommes désolé du désagrément.</Item>
 Cette erreur a été enregistrée. Souhaitez vous envoyer un rapport au développeur ?
 Nous sommes désolé du désagrément.</Item>
 	</Alpha8.10>
+	<Alpha8.11>
+			<Item Name="FurnitureLoadError">A furniture named {0} was not present on your computer. The game will have to load your save file without this furniture, which might break the game.</Item>
+			<Item Name="StockLowBid">{0} is willing to offer {1}, do you want to take their offer?
+You bought the stock for {2} and it is currently worth {3}</Item>
+			<Item Name="InaccessibleRoom">This room is not accessible from the outside
+Please connect it using doors, elevators or stairs</Item>
+			<Item Name="Column widths">Column widths</Item>
+			<Item Name="MonthLeft">{0} mois restant</Item>
+			<Item Name="DayLeft">{0} jour(s) restant</Item>
+			<Item Name="MonthNotLeft">{0} mois en retard</Item>
+			<Item Name="DayNotLeft">{0} jour(s) en retard</Item>
+			<Item Name="LastMonth">Dernier mois</Item>
+			<Item Name="LastDay">Dernier jour</Item>
+			<Item Name="ContractGoal">Objectif: {0}%</Item>
+			<Item Name="ContractEarlyDay">{0} jour(s) plus tôt</Item>
+			<Item Name="ContractLateDay">{0} jour(s) trop tard</Item>
+			<Item Name="Mens Suit">Ensemble pour hommes</Item>
+			<Item Name="Womens Suit">Ensemble pour femmes</Item>
+			<Item Name="Small moustache">Petite moustache</Item>
+			<Item Name="Moustache">Moustache</Item>
+			<Item Name="Goatee">Barbe</Item>
+			<Item Name="Eye shadow">Eye shadow</Item>
+			<Item Name="Mens Beanie">Men's beanie</Item>
+			<Item Name="Womens Beanie">Women's beanie</Item>
+			<Item Name="KeyBindError">Touche non reconnue</Item>
+			<Item Name="BoughtOutProductsStocks">You received {0} stocks and the rights to {1} products</Item>
+			<Item Name="WorkItemTeamFilter">Filter based on selected teams</Item>
+			<Item Name="Replace furniture">Remplacer les meubles</Item>
+			<Item Name="ActionReplaceFurn">Remplacer les meubles</Item>
+			<Item Name="InstallMods">Mods installés</Item>
+			<Item Name="Idle employees">Idle employees</Item>
+			<Item Name="NotWorkingState">Pas de travail</Item>
+			<Item Name="NoWork">Aucune tâche assignée</Item>
+			<Item Name="NoComputer">Aucun ordinateur disponible</Item>
+			<Item Name="NotApplicable">Non qualifié pour les tâches assignées</Item>
+			<Item Name="NoEffectiveness">Négativement affectée par l'environnement</Item>
+			<Item Name="NoActiveWork">Toutes les tâches sont terminées</Item>
+			<Item Name="StressProblem">Je me sens stressé</Item>
+	</Alpha8.11>
 </UI>
