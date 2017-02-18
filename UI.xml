@@ -24,7 +24,7 @@
 	<Customization>
 		<Item Name="Company Name Here">Nom de l'entreprise</Item>
 		<Item Name="Founder">Fondateur</Item>
-		<Item Name="FounderName">Squal ala</Item>
+		<Item Name="FounderName">Arnaud Nyme</Item>
 		<Item Name="Colors">Couleurs</Item>
 		<Item Name="Gender">Genre</Item>
 		<Item Name="Male">Homme</Item>
@@ -38,12 +38,12 @@
 		<Item Name="Personality">Personnalité</Item>
 		<Item Name="Mods">Mods</Item>
 		<Item Name="Scenario">Scénario</Item>
-		<Item Name="Freeplay">Libre</Item>
+		<Item Name="Freeplay">Bac à sable</Item>
 		<Item Name="Starting money">Argent de départ</Item>
 		<Item Name="Starting year">Année de départ</Item>
-		<Item Name="Simulation enabled">Simulation activé</Item>
+		<Item Name="Simulation enabled">Simulation activée</Item>
 		<Item Name="Goals">Objectifs</Item>
-		<Item Name="Start game">Lancer</Item>
+		<Item Name="Start game">Lancer le jeu</Item>
 	</Customization>
 	<GenericDialog>
 		<Item Name="OK">Ok</Item>
@@ -53,7 +53,7 @@
 		<Item Name="Error">Erreur</Item>
 	</GenericDialog>
 	<MainPanel>
-		<Item Name="HR">Staff</Item>
+		<Item Name="HR">RH</Item>
 		<Item Name="Finance">Finance</Item>
 		<Item Name="Marketplace">Publicités</Item>
 		<Item Name="MainDevSoft">Développer un Logiciel</Item>
@@ -65,48 +65,48 @@
 		<Item Name="MainServer">Serveurs</Item>
 		<Item Name="MainServerDesc">Configurez vos serveurs et répartissez la charge.</Item>
 		<Item Name="MainEmployees">Gérer les salariés</Item>
-		<Item Name="MainEmployeesDesc">Liste de tout vos salariés.</Item>
+		<Item Name="MainEmployeesDesc">Liste de tous vos salariés.</Item>
 		<Item Name="MainHire">Embaucher des salariés</Item>
-		<Item Name="MainHireDesc">Consultez les annonces, proposez des rendez vous pour embaucher un salarié.</Item>
+		<Item Name="MainHireDesc">Recherchez, analysez et embauchez de nouveaux salariés</Item>
 		<Item Name="MainTeam">Gérer les équipes</Item>
 		<Item Name="MainTeamDesc">Gérez vos équipes, fixez leurs horaires de travail et donnez leur des responsabilités.</Item>
 		<Item Name="MainStaff">Gérer le personnel</Item>
 		<Item Name="MainStaffDesc">Embauchez ou appelez un intérimaire pour assurer l'entretien de votre entreprise.</Item>
-		<Item Name="MainInsurance">Assurance Qualité</Item>
+		<Item Name="MainInsurance">Assurances</Item>
 		<Item Name="MainInsuranceDesc">Placez de l'argent dans votre assurance pour attirer de meilleurs salariés ainsi que percevoir des intérêts.</Item>
-		<Item Name="MainStock">Parts</Item>
-		<Item Name="MainStockDesc">Achetez et vendez des actions, Il y a beaucoup d'argent à se faire la dedans.</Item>
-		<Item Name="MainLoan">Prêt</Item>
+		<Item Name="MainStock">Actions boursières</Item>
+		<Item Name="MainStockDesc">Achetez et vendez des actions, il y a beaucoup d'argent à se faire la dedans.</Item>
+		<Item Name="MainLoan">Prêts</Item>
 		<Item Name="MainLoanDesc">Si vous avez des problèmes, vous devriez penser à prendre un crédit.</Item>
-		<Item Name="MainRelease">Tout les logiciels</Item>
-		<Item Name="MainReleaseDesc">Une liste de tout les logiciels sortits dans le monde.</Item>
+		<Item Name="MainRelease">Tous les logiciels</Item>
+		<Item Name="MainReleaseDesc">Une liste de tous les logiciels déjà sortis.</Item>
 		<Item Name="MainCompany">Toutes les entreprises</Item>
 		<Item Name="MainCompanyDesc">Inspectez vos concurrents.</Item>
-		<Item Name="MainNews">Le TARDIS enchainé</Item>
-		<Item Name="MainNewsDesc">Un journal vous permettant de vous mettre à jour sur les prochaines sorties du moment.</Item>
+		<Item Name="MainNews">Le Software Times</Item>
+		<Item Name="MainNewsDesc">Restez informés des évènements en cours et des tests de logiciels</Item>
 		<Item Name="MainDistribution">Chaines de distribution</Item>
-		<Item Name="MainDistributionDesc">Gérer vos chaines de distribution afin de mieux vendre vos produits.</Item>
+		<Item Name="MainDistributionDesc">Gérez les moyens de distribuer vos logiciels</Item>
 		<Item Name="Settings">Paramètres</Item>
-		<Item Name="LowerWalls">Cacher les murs</Item>
-		<Item Name="LowerWallsDesc">Baisser les murs</Item>
-		<Item Name="HideLamps">Cacher les lampes</Item>
-		<Item Name="HideLampsDesc">Cacher tous les lampes de plafond.</Item>
+		<Item Name="LowerWalls">Afficher/Cacher les murs</Item>
+		<Item Name="LowerWallsDesc">Changer la hauteur des murs</Item>
+		<Item Name="HideLamps">Afficher/Cacher les lampes</Item>
+		<Item Name="HideLampsDesc">Afficher/Cacher tous les objets de plafond.</Item>
 		<Item Name="RoomLabels">Nom de salles</Item>
-		<Item Name="RoomLabelsDesc">Montre les noms de toute les salles, en donnant l'équipe travaillant dans celle-ci ainsi que leur utilisation.</Item>
+		<Item Name="RoomLabelsDesc">Afficher/Cacher les noms de toutes les salles ainsi que le nom de l'équipe y travaillant et les éventuelles limitations d'usage</Item>
 		<Item Name="WireMode">Activer Mode Câble</Item>
-		<Item Name="WireModeDesc">Utilisez ceci afin de relier vos serveurs.</Item>
+		<Item Name="WireModeDesc">Utilisez ce mode pour relier vos serveurs.</Item>
 		<Item Name="Dataoverlay">Aperçu des données</Item>
-		<Item Name="DataoverlayDesc">Cliquez ici afin que la couleur de la pièce reflête l'état actuel de la salle.</Item>
+		<Item Name="DataoverlayDesc">Cliquez ici afin que la couleur de la pièce affiche l'état actuel de la salle.</Item>
 		<Item Name="BuildMode">Mode Construction</Item>
-		<Item Name="BuildModeDesc">Cliquez ici pour activer le mode Construction, dans lequel vous pouvez contruire et equiper vos bureaux et construire des routes ainsi que des parkings.</Item>
+		<Item Name="BuildModeDesc">Cliquez ici pour activer le mode Construction, dans lequel vous pouvez contruire et équiper vos bureaux et ainsi que des routes et des parkings.</Item>
 		<Item Name="Monthly profits">Profits Mensuels</Item>
 		<Item Name="SkipTime">Passer le temps</Item>
-		<Item Name="SkipTimeDesc">Si personne est dans les locaux, vous pouvez passer le temps jusqu'à qu'une personne arrive.</Item>
+		<Item Name="SkipTimeDesc">Si personne n'est dans les locaux, vous pouvez passer le temps jusqu'à ce qu'une personne arrive.</Item>
 		<Item Name="Contruct">Construire</Item>
-		<Item Name="ContructHint">Construiez des salles, portes, ascenseurs et des fenêtres.</Item>
+		<Item Name="ContructHint">Construiez des salles, portes, ascenseurs et fenêtres.</Item>
 		<Item Name="Furnish">Équipement</Item>
-		<Item Name="FurnishHint">Placez divers equipements dans vos salles afin de les rendre fonctionnel.</Item>
-		<Item Name="Roads">Route</Item>
+		<Item Name="FurnishHint">Placez divers equipements dans vos salles afin de les rendre fonctionnelles.</Item>
+		<Item Name="Roads">Routes</Item>
 		<Item Name="RoadsHint">Construisez des routes et des parkings afin que vos salariés viennent et partent plus vite du travail.</Item>
 	</MainPanel>
 	<Columns>
@@ -138,14 +138,14 @@
 		<Item Name="Open source">Open source</Item>
 		<Item Name="Loss">Perte</Item>
 		<Item Name="Market">Marché</Item>
-		<Item Name="Details">Details</Item>
+		<Item Name="Details">Détails</Item>
 		<Item Name="Worth">Valeur</Item>
 		<Item Name="Reputation">Réputation</Item>
 		<Item Name="Bankrupt">Banqueroute</Item>
 		<Item Name="Founded">Fondé en</Item>
 		<Item Name="Products">Produits</Item>
 		<Item Name="Chart">Statistiques</Item>
-		<Item Name="Stock">Parts</Item>
+		<Item Name="Stock">Actions</Item>
 		<Item Name="Products">Produits</Item>
 		<Item Name="Owner">Propriétaire</Item>
 		<Item Name="Share">Partage</Item>
@@ -165,7 +165,7 @@
 		<Item Name="Disband">Dissoudre</Item>
 		<Item Name="Automation">Management</Item>
 		<Item Name="Type">Type</Item>
-		<Item Name="Dismiss">Ok</Item>
+		<Item Name="Dismiss">Ok</Item> <!-- a vérifier ?-->
 		<Item Name="Tier">Echelon</Item>
 		<Item Name="Progress">Progression</Item>
 		<Item Name="Contract">Contrat</Item>
@@ -187,33 +187,33 @@
 		<Item Name="Enabled">Activé</Item>
 		<Item Name="Toggle">Charge</Item>
 		<Item Name="Active">Actif</Item>
-		<Item Name="Physical store">Boutique physique</Item>
+		<Item Name="Physical store">Magasins</Item>
 		<Item Name="Popularity">Popularité</Item>
 		<Item Name="Release cost">Coût</Item>
 		<Item Name="Revenue cut">Commission</Item>
 		<Item Name="Contracts">Contrats</Item>
 		<Item Name="Power">Puissance</Item>
-		<Item Name="Server count">Nombre de serveur</Item>
+		<Item Name="Server count">Nombre de serveurs</Item>
 		<Item Name="Load">Chargé à</Item>
 		<Item Name="Processes">Processus</Item>
 		<Item Name="Required power">Puissance requise</Item>
 	</Columns>
 	<WindowTitles>
-		<Item Name="Design document">Conçevoir un Produit</Item>
+		<Item Name="Design document">Conçevoir un produit</Item>
 		<Item Name="Products">Produits</Item>
 		<Item Name="Finances">Finances</Item>
 		<Item Name="Companies">Entreprises</Item>
 		<Item Name="Contract work">Contrat de Travail</Item>
 		<Item Name="Automation">Management</Item>
 		<Item Name="Teams">Equipes</Item>
-		<Item Name="Look for hire">L'ANPE</Item>
+		<Item Name="Look for hire">L'ANPE</Item> <!-- à changer -->
 		<Item Name="Hire">Embaucher</Item>
 		<Item Name="Distribution channels">Chaine de Distribution</Item>
 		<Item Name="Wage negotiations">Négociations Salariales</Item>
-		<Item Name="Stocks">Parts</Item>
+		<Item Name="Stocks">Actions</Item>
 		<Item Name="Insurance">Assurance</Item>
 		<Item Name="Save games">Sauvegarder</Item>
-		<Item Name="Staff">Staff</Item>
+		<Item Name="Staff">Personnel</Item>
 		<Item Name="Marketing">Marketing</Item>
 		<Item Name="Servers">Serveurs</Item>
 		<Item Name="Education">Formation</Item>
@@ -224,24 +224,24 @@
 	</WindowTitles>
 	<DesignWindow>
 		<Item Name="Action">Action</Item>
-		<Item Name="In-house">Personnel</Item>
+		<Item Name="In-house">interne</Item>
 		<Item Name="Add">Ajouter</Item>
 		<Item Name="Remove">Retirer</Item>
-		<Item Name="Nothing selected">Rien de choisi</Item>
+		<Item Name="Nothing selected">Aucune sélection</Item>
 		<Item Name="Server">Serveur</Item>
 		<Item Name="SCM">SCM</Item>
 		<Item Name="SCMLong">Code source Optimisé</Item>
-		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit , cela réduira les bugs et permettra à vos développeurs d'être plus efficaces durant les Alpha-Test. Serveur requis.</Item>
+		<Item Name="SCMDesc">Ayez tout votre travail synchronisé au même endroit, cela réduira les bugs et permettra à vos développeurs d'être plus efficaces durant la phase Alpha. Serveur requis.</Item>
 		<Item Name="Information">Information</Item>
-		<Item Name="Dependencies">Requiert:</Item>
-		<Item Name="Operating system">Système d'Exploitation</Item>
-		<Item Name="Specializations">Specialisations</Item>
+		<Item Name="Dependencies">Dépendances</Item>
+		<Item Name="Operating system">Système d'exploitation</Item>
+		<Item Name="Specializations">Spécialisations</Item>
 		<Item Name="Develop">Developper</Item>
-		<Item Name="NoIP">Aucune Selection</Item>
+		<Item Name="NoIP">Aucune sélection</Item>
 		<Item Name="SelectIPButton">Suite de</Item>
 		<Item Name="IPButtonTip">Permet de créer une suite au logiciel choisis</Item>
 		<Item Name="NameGenTip">Cliquez ici pour générer un nom aléatoirement</Item>
-		<Item Name="OpenSourceTip">Sortez votre logiciel libre et gratuitement afin d'accroitre votre popularité et de mettre des batons dans les roues de la Concurence.</Item>
+		<Item Name="OpenSourceTip">Sortez votre logiciel gratuitement afin d'accroitre votre popularité et de mettre des batons dans les roues de vos concurents.</Item>
 		<Item Name="InHouseTip">Gardez ce logiciel pour vous seul, la concurence ne pourra donc pas s'en servir pour leurs produits.</Item>
 		<Item Name="StandardProductName">Nom du Produit</Item>
 		<Item Name="DevTime1">Moins d'une année</Item>
@@ -264,22 +264,21 @@
 		<Item Name="PerceptionAmount1">Oublié</Item>
 		<Item Name="PerceptionAmount2">Ennuyeux</Item>
 		<Item Name="PerceptionAmount3">Décent</Item>
-		<Item Name="PerceptionAmount4">Interessant</Item>
+		<Item Name="PerceptionAmount4">Convaincant</Item>
 		<Item Name="PerceptionAmount5">Important</Item>
 		<Item Name="PerceptionAmount6">Renommé</Item>
-		<Item Name="AwarenessAmount1">Ignoré</Item>
+		<Item Name="AwarenessAmount1">Inconnu</Item>
 		<Item Name="AwarenessAmount2">Insignifiant</Item>
-		<Item Name="AwarenessAmount3">Interessant</Item>
+		<Item Name="AwarenessAmount3">Intéressant</Item>
 		<Item Name="AwarenessAmount4">Répandu</Item>
 		<Item Name="AwarenessAmount5">Populaire</Item>
 	</DesignWindow>
 	<AutoWindow>
 		<Item Name="Project management">Gestion de Projet</Item>
-		<Item Name="ProjectManagementHint">Pour activer cela, le chef d'équipe doit avoir passé la formation sur la Gestion de Projet.</Item>
-		<Item Name="HR management">Gestion HR</Item>
-		<Item Name="HRManagementHint">Pour activer cela, le chef d'équipe doit avoir passé la formation sur la Gestion des Hautes Responsabilités.</Item>
-		<Item Name="HR management">Gestion HR</Item>
-		<Item Name="Dev budget">Budget de Developpement</Item>
+		<Item Name="ProjectManagementHint">Pour activer cela, le chef d'équipe doit avoir été formé à la Gestion de Projet.</Item>
+		<Item Name="HR management">Gestion RH</Item>
+		<Item Name="HRManagementHint">Pour activer cela, le chef d'équipe doit avoir été formé aux Ressources Humaines.</Item>
+		<Item Name="Dev budget">Budget de Développement</Item>
 		<Item Name="Marketing budget">Budget Marketing</Item>
 		<Item Name="Pre-marketing">Pré-marketing</Item>
 		<Item Name="Post-marketing">Post-marketing</Item>
@@ -287,9 +286,8 @@
 		<Item Name="Dev team">Equipe Dev.</Item>
 		<Item Name="Marketing team">Equipe Marketing</Item>
 		<Item Name="Support team">Equipe Support</Item>
-		<Item Name="Dev budget">Budget de Developpement</Item>
-		<Item Name="Primary role">Rôle Primaire</Item>
-		<Item Name="Secondary role">Rôle Secondaire</Item>
+		<Item Name="Primary role">Rôle principal</Item>
+		<Item Name="Secondary role">Rôle secondaire</Item>
 		<Item Name="Budget">Budget</Item>
 	</AutoWindow>
 	<ServerWindow>
@@ -305,18 +303,18 @@
 		<Item Name="Interview">Interviewer</Item>
 	</HireWindows>
 	<EducationWindow>
-		<Item Name="Start education">Commencer une Formation</Item>
-		<Item Name="ProjectCourseDesc">La Gestion de Projet permet à un Chef d'Equipe de lancer un cycle de developpement automatique de nouveaux produits ainsi que la gérance de ses équipes de developpement.</Item>
-		<Item Name="HRCourseDesc">La Gestion de Haute Responsabilité permet à un Chef d'Equipe d'avoir plus de responsabilités, comme Engager, Virer, Gérer les disputes, les salaires et les formations.</Item>
+		<Item Name="Start education">Commencer une formation</Item>
+		<Item Name="ProjectCourseDesc">La gestion de projet permet à un chef d'équipe de lancer un cycle de développement en créant automatiquement de nouveaux produits et en gérant ses équipes de developpement.</Item>
+		<Item Name="HRCourseDesc">La gestion des Ressources Humaines permet à un chef d'équipe d'avoir plus de responsabilités, comme Engager, Virer, Gérer les disputes, les salaires et les formations.</Item>
 	</EducationWindow>
 	<DistributionWindow>
 		<Item Name="Make Deal">Signer un Contrat</Item>
 		<Item Name="Take offline">Mettre Hors-Ligne</Item>
 		<Item Name="Popularity history">Popularité</Item>
 		<Item Name="Your distribution channel">Votre chaine de Distribution</Item>
-		<Item Name="Cut">Comission</Item>
+		<Item Name="Cut">Commission</Item>
 		<Item Name="Open">Ouvrir</Item>
-		<Item Name="StoreName">Nom du Magasin...</Item>
+		<Item Name="StoreName">Nom du magasin...</Item>
 	</DistributionWindow>
 	<WageWindow>
 		<Item Name="Employee request">Demande de(s) Employé(es)</Item>
@@ -326,7 +324,7 @@
 	<LoanWindow>
 		<Item Name="Amount">Montant</Item>
 		<Item Name="Interest">Interêt</Item>
-		<Item Name="Period">Periode</Item>
+		<Item Name="Period">Période</Item>
 		<Item Name="Current loans">Crédit en cours</Item>
 		<Item Name="Take loan">Prendre un crédit</Item>
 	</LoanWindow>
@@ -334,10 +332,10 @@
 		<Item Name="Deposit">Déposer</Item>
 		<Item Name="Withdraw">Retirer</Item>
 		<Item Name="InsuranceFunds">Fonds sur le compte d'assurance</Item>
-		<Item Name="HealthInsurance">Assurance Santé:(Attire les jeunes salariés)</Item>
-		<Item Name="LifeInsurance">Assurance Vie:(Attire les adultes salariés)</Item>
-		<Item Name="PensionDesc">Pension:(Attire les Salariés Séniors)</Item>
-		<Item Name="PerEmployee">Par Employé</Item>
+		<Item Name="HealthInsurance">Assurance Santé:(Attire les salariés junior)</Item>
+		<Item Name="LifeInsurance">Assurance Vie:(Attire les salariés confirmés)</Item>
+		<Item Name="PensionDesc">Pension:(Attire les salariés séniors)</Item>
+		<Item Name="PerEmployee">par Employé</Item>
 	</InsuranceWindow>
 	<StockWindow>
 		<Item Name="SharesIn">Parts de l'Entreprise:</Item>
@@ -351,15 +349,14 @@
 		<Item Name="Call IT-support">Service Informatique</Item>
 		<Item Name="Hire janitor">Maintenance</Item>
 		<Item Name="Hire cleaning">Entretien</Item>
-		<Item Name="PerHour"> par heur</Item>
+		<Item Name="PerHour"> par heure</Item>
 		<Item Name="PerMonth"> par mois</Item>
-		<Item Name="ITPayment"> de {0} à {0} par reparation</Item>
-		<Item Name="SharesIn">Parts dans l'Entreprise</Item>
+		<Item Name="ITPayment"> de {0} à {0} par réparation</Item>
 	</StaffWindow>
 	<Newspaper>
-		<Item Name="Review section">Section Critique</Item>
-		<Item Name="Business section">Section Business</Item>
-		<Item Name="Industry section">Section Industriel</Item>
+		<Item Name="Review section">Rubrique Tests</Item>
+		<Item Name="Business section">Rubrique Business</Item>
+		<Item Name="Industry section">Rubrique Industrie</Item>
 		<Item Name="Player section">Vous</Item>
 	</Newspaper>
 	<Pause>
@@ -375,11 +372,11 @@
 		<Item Name="Radio">Radio</Item>
 		<Item Name="Newspapers">Journaux</Item>
 		<Item Name="Television">Télevision</Item>
-		<Item Name="Start campaign">Lancer une Campagne</Item>
+		<Item Name="Start campaign">Lancer une campagne</Item>
 	</Marketing>
 	<OptionsWindow>
-		<Item Name="Auto-skip day">Passer la journée</Item>
-		<Item Name="AutoSkipHint">Va passer le temps jusqu'à qu'un salarié arrive si personne n'est présent.</Item>
+		<Item Name="Auto-skip day">Passer automatique la journée</Item>
+		<Item Name="AutoSkipHint">Passe le temps jusqu'à qu'un salarié arrive si personne n'est présent.</Item>
 		<Item Name="Currency">Devise</Item>
 		<Item Name="Difficulty">Difficulté</Item>
 		<Item Name="Run in background">Fonctionne en arrière plan</Item>
@@ -389,7 +386,7 @@
 		<Item Name="AM/PM">AM/PM</Item>
 		<Item Name="Celsius">Celsius</Item>
 		<Item Name="Mouse edge scrolling">Défilement de la Souris</Item>
-		<Item Name="MouseEdgeHint">Deplace la caméra lorsque la souris est au bord de l'écran</Item>
+		<Item Name="MouseEdgeHint">Déplace la caméra lorsque la souris est au bord de l'écran</Item>
 		<Item Name="Scroll speed">Vitesse de Défilement</Item>
 		<Item Name="Zoom speed">Vitesse de Zoom</Item>
 		<Item Name="Rotation speed">Vitesse de Rotation</Item>
@@ -397,9 +394,9 @@
 		<Item Name="Medium">Moyen</Item>
 		<Item Name="Hard">Difficile</Item>
 		<Item Name="Gameplay">Gameplay</Item>
-		<Item Name="Graphics">Graphiques</Item>
+		<Item Name="Graphics">Graphismes</Item>
 		<Item Name="Audio">Audio</Item>
-		<Item Name="Keys">Raccourci</Item>
+		<Item Name="Keys">Raccourcis</Item>
 		<Item Name="Resolution">Résolution</Item>
 		<Item Name="Fullscreen">Plein Ecran</Item>
 		<Item Name="Antialias type">Anti-Aliasing</Item>
@@ -409,26 +406,26 @@
 		<Item Name="1 frame">1 images</Item>
 		<Item Name="2 frames">2 images</Item>
 		<Item Name="Shadows">Ombres</Item>
-		<Item Name="ShadowsHint">Les Ombres de l'environnement extérieur en fonction de la position du Soleil.</Item>
-		<Item Name="More shadows">Plus d'Ombres</Item>
+		<Item Name="ShadowsHint">L'environnement extérieur produit des ombres en fonction de la position du Soleil.</Item>
+		<Item Name="More shadows">Plus d'ombres</Item>
 		<Item Name="MoreShadowsHint">Toutes les lumières du jeu produiront des ombres (Demande une carte graphique récente)</Item>
 		<Item Name="Texture quality">Qualité des Textures</Item>
 		<Item Name="Ambient occlusion">Occlusion Ambiante</Item>
 		<Item Name="AmbientOcclusionHint">Ajoute des ombres dans les crevasses et les coins.</Item>
 		<Item Name="Tilt shift">Tilt shift</Item>
-		<Item Name="TiltShiftHint">"brouille" la partie Inférieur/Supérieur de l'écran afin de donner un effet "miniature"</Item>
-		<Item Name="Bloom">Effets de Couleur</Item>
+		<Item Name="TiltShiftHint">"brouille" la partie inférieure/supérieure de l'écran afin de donner un effet "miniature"</Item>
+		<Item Name="Bloom">Effets de couleur</Item>
 		<Item Name="BloomHint">Ajoute de faibles lueurs afin d'augmenter la force des couleurs.</Item>
 		<Item Name="FPS">Images/Secondes</Item>
 		<Item Name="Music">Musiques</Item>
 		<Item Name="SFX">SFX</Item>
 		<Item Name="User Interface">Interface Utilisateur</Item>
-		<Item Name="Toggle lights">Cacher les lumières</Item>
-		<Item Name="Toggle walls">Cacher les murs</Item>
-		<Item Name="Move camera forward">Direction HAUT</Item>
-		<Item Name="Move camera backward">Direction BAS</Item>
-		<Item Name="Move camera left">Direction GAUCHE</Item>
-		<Item Name="Move camera right">Direction DROITE</Item>
+		<Item Name="Toggle lights">Afficher/Cacher les lumières</Item>
+		<Item Name="Toggle walls">Afficher/Cacher les murs</Item>
+		<Item Name="Move camera forward">Se déplacer vers l'avant</Item>
+		<Item Name="Move camera backward">Se déplacer vers l'arrière</Item>
+		<Item Name="Move camera left">Se déplacer à gauche</Item>
+		<Item Name="Move camera right">Se déplacer à droite</Item>
 		<Item Name="Rotate camera up">Rotation de caméra HAUT</Item>
 		<Item Name="Rotate camera down">Rotation de caméra BAS</Item>
 		<Item Name="Rotate camera left">Rotation de caméra GAUCHE</Item>
@@ -438,12 +435,12 @@
 		<Item Name="Move up one floor">Monter d'un étage</Item>
 		<Item Name="Move down one floor">Descendre d'un étage</Item>
 		<Item Name="Pause game">Pause</Item>
-		<Item Name="Normal game speed">Vitesse normal</Item>
+		<Item Name="Normal game speed">Vitesse normale</Item>
 		<Item Name="Faster game speed">Vitesse rapide</Item>
 		<Item Name="Fastest game speed">Vitesse très rapide</Item>
 		<Item Name="Toggle camera mode">Changer le mode Caméra</Item>
 		<Item Name="Hide HUD">Cacher l'Interface</Item>
-		<Item Name="Go to employee">Voir les salariés</Item>
+		<Item Name="Go to employee">Atteindre le salarié</Item>
 		<Item Name="Destroy selected">Vendre/Virer/Détruire la sélection</Item>
 		<Item Name="Toggle Build Mode">Basculer vers le mode construction</Item>
 	</OptionsWindow>
