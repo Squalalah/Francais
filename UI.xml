@@ -14,10 +14,10 @@
 		<Item Name="December">Decembre</Item>
 	</Months>
 	<MainMenu>
-		<Item Name="New Game">Nouvelle Partie</Item>
+		<Item Name="New Game">Nouvelle partie</Item>
 		<Item Name="Options">Options</Item>
 		<Item Name="Continue">Continuer</Item>
-		<Item Name="Load Game">Charger une Partie</Item>
+		<Item Name="Load Game">Charger une partie</Item>
 		<Item Name="Quit">Quitter</Item>
 		<Item Name="Credits">Crédits</Item>
 	</MainMenu>
@@ -157,7 +157,7 @@
 		<Item Name="Count">Nombre</Item>
 		<Item Name="Compatibility">Compatibilité</Item>
 		<Item Name="Work">Travail</Item>
-		<Item Name="Employees">Employés</Item>
+		<Item Name="Employees">salariés</Item>
 		<Item Name="Arrival">Arrivée</Item>
 		<Item Name="+">+</Item>
 		<Item Name="-">-</Item>
@@ -179,11 +179,11 @@
 		<Item Name="Score">Score</Item>
 		<Item Name="Salary">Salaire</Item>
 		<Item Name="Hire">Embaucher</Item>
-		<Item Name="Game date">Date du Jeu</Item>
+		<Item Name="Game date">Date du jeu</Item>
 		<Item Name="Date">Date</Item>
-		<Item Name="Money">Capital</Item>
+		<Item Name="Money">Argent</Item>
 		<Item Name="Products">Produits</Item>
-		<Item Name="Employees">Employés</Item>
+		<Item Name="Employees">salariés</Item>
 		<Item Name="Enabled">Activé</Item>
 		<Item Name="Toggle">Charge</Item>
 		<Item Name="Active">Actif</Item>
@@ -317,7 +317,7 @@
 		<Item Name="StoreName">Nom du magasin...</Item>
 	</DistributionWindow>
 	<WageWindow>
-		<Item Name="Employee request">Demande de(s) Employé(es)</Item>
+		<Item Name="Employee request">Demande de(s) salarié(es)</Item>
 		<Item Name="Accept">Accepter</Item>
 		<Item Name="Close">Fermer</Item>
 	</WageWindow>
@@ -335,7 +335,7 @@
 		<Item Name="HealthInsurance">Assurance Santé:(Attire les salariés junior)</Item>
 		<Item Name="LifeInsurance">Assurance Vie:(Attire les salariés confirmés)</Item>
 		<Item Name="PensionDesc">Pension:(Attire les salariés séniors)</Item>
-		<Item Name="PerEmployee">par Employé</Item>
+		<Item Name="PerEmployee">par salarié</Item>
 	</InsuranceWindow>
 	<StockWindow>
 		<Item Name="SharesIn">Parts de l'Entreprise:</Item>
@@ -502,29 +502,29 @@
 		<Item Name="SalaryCutComplaint">Mon salaire a été réduit</Item>
 	</Thoughts>
 	<Warnings>
-		<Item Name="UnsatisfiedEmployeesWarning">Certains employés ne sont pas heureux avec leur travail.</Item>
-		<Item Name="StarvingWarning">Un employé a faim et a des problèmes pour travailler.</Item>
-		<Item Name="HasToPeeWarning">Un employé doit aller aux toilettes et a des problèmes pour travailler.</Item>
-		<Item Name="WornOutWarning">Un employé est fatigué et ne veut pas travailler.</Item>
-		<Item Name="FreezingWarning">Un employé a très froid.</Item>
-		<Item Name="BurningWarning">Un employé a trop chaud.</Item>
-		<Item Name="NoSeeWarning">Un employé est coincé dans le noir. Construisez plus de lampes et fenêtres.</Item>
-		<Item Name="RoomDirtyWarning">Un employé est choqué par la vue de son bureau.</Item>
+		<Item Name="UnsatisfiedEmployeesWarning">Certains salariés ne sont pas heureux avec leur travail.</Item>
+		<Item Name="StarvingWarning">Un salarié a faim et a des problèmes pour travailler.</Item>
+		<Item Name="HasToPeeWarning">Un salarié doit aller aux toilettes et a des problèmes pour travailler.</Item>
+		<Item Name="WornOutWarning">Un salarié est fatigué et ne veut pas travailler.</Item>
+		<Item Name="FreezingWarning">Un salarié a très froid.</Item>
+		<Item Name="BurningWarning">Un salarié a trop chaud.</Item>
+		<Item Name="NoSeeWarning">Un salarié est coincé dans le noir. Construisez plus de lampes et fenêtres.</Item>
+		<Item Name="RoomDirtyWarning">Un salarié est choqué par la vue de son bureau.</Item>
 		<Item Name="RoomDirtyWarning2">Une pièce est sale et a besoin d'être nettoyée.</Item>
-		<Item Name="ComputerBadWarning">Un employé se plaint d'un PC lent. Gardez les PC en bon état en employant un technicien</Item>
-		<Item Name="NoiseWarning">Un employé a un problème de concentration à cause du bruit. Réduisez les sources de nuisance ou installez des cloisons</Item>
+		<Item Name="ComputerBadWarning">Un salarié se plaint d'un PC lent. Gardez les PC en bon état en employant un technicien</Item>
+		<Item Name="NoiseWarning">Un salarié a un problème de concentration à cause du bruit. Réduisez les sources de nuisance ou installez des cloisons</Item>
 		<Item Name="OtherTeamWarning">Il y a trop d'équipes dans une seule pièce. Créez des séparations ou installez des cloisons</Item>
 		<Item Name="CannotAfford">Vous n'avez pas les moyens de faire cela.</Item>
 		<Item Name="BusFullWarning">Les bus sont pleins, pensez à construire un parking.</Item>
 		<Item Name="Click and drag">Cliquer et Glisser</Item>
 		<Item Name="RoomClosedOff">Il n'y a aucun moyen d'aller dans cette salle.
 Installez une porte ou un ascenseur.</Item>
-		<Item Name="PublicToiletWarning">Les employés n'utilisent pas les toilettes en public.
+		<Item Name="PublicToiletWarning">Les salariés n'utilisent pas les toilettes en public.
 séparez les en plusieurs pièces.</Item>
 		<Item Name="RoomTempratureWarning">La température varie beaucoup dans cette pièce.
 Ajoutez plus de ventilateurs ou de climatisations.</Item>
 		<Item Name="RoomOvercrowdWarning">Il y a beaucoup d'ordinateurs dans cette pièce.
-Trop d'employés dans une même salle nuit à leur concentration.</Item>
+Trop de salariés dans une même salle nuit à leur concentration.</Item>
 		<Item Name="RoomLighingWaning">Il n'y a pas assez de lumière ici, ajoutez des fenêtres ou des lampes.</Item>
 		<Item Name="FurnitureBrokeWarning">Certains équipements sont cassés et doivent être réparés.</Item>
 		<Item Name="UnsupportedStructure">Cette structure n'est pas supportée</Item>
@@ -566,8 +566,8 @@ Si vous voulez séparer une salle, vous devez construire mur par mur</Item>
 		<Item Name="OverwriteConfirmMsg">Etes vous sur de vouloir écraser la sauvegarde ?</Item>
 		<Item Name="OverwriteConfirmTitle">Confirmation</Item>
 		<Item Name="DismissTitle">OK</Item>
-		<Item Name="DismissMsg">Etes-vous sûr de congédier {0} employés ?</Item>
-		<Item Name="DismissMsg2">Vous avez congédié {0} employés</Item>
+		<Item Name="DismissMsg">Etes-vous sûr de congédier {0} salariés ?</Item>
+		<Item Name="DismissMsg2">Vous avez congédié {0} salariés</Item>
 		<Item Name="SellTitle">Vendre</Item>
 		<Item Name="SellMsg">Etes-vous sûr de vouloir vendre ces {0} équipements</Item>
 		<Item Name="SellMsg2">Vous avez vendu {0} équipements</Item>
@@ -596,7 +596,7 @@ Veuillez affecter au moins une pièce pour cette équipe</Item>
 		<Item Name="DesignProductNameHint">Vous n'avez pas choisi de nom pour votre produit, êtes-vous sûr de vouloir continuer ?</Item>
 		<Item Name="DesignProductTeamSizeHint">La taille de votre équipe est un peu petite pour un projet de cette envergure,
 Etes-vous sûr de vouloir continuer ?</Item>
-		<Item Name="DesignProductFeatureHint">Vous avez choisi des fonctionnalités pour lesquelles aucun employé de votre équipe n'est compétent.
+		<Item Name="DesignProductFeatureHint">Vous avez choisi des fonctionnalités pour lesquelles aucun salarié de votre équipe n'est compétent.
 Etes-vous sûr de vouloir continuer ?</Item>
 		<Item Name="ProductLicenseError">Vous ne pouvez pas payer ces frais de license</Item>
 		<Item Name="DistributionNameError">Ce nom est déjà pris</Item>
@@ -670,24 +670,24 @@ Voulez-vous recourir à un prêt de {1} pour essayer d'éviter la banqueroute ?<
 		<Item Name="ActionUnify Style">Unifier le style des élements sélectionnés</Item>
 		<Item Name="ActionRoom Color">Changer la couleur</Item>
 		<Item Name="ActionMaterial">Motifs de la pièce</Item>
-		<Item Name="ActionEducate">Former l'employé</Item>
-		<Item Name="ActionDismiss">Congédier l'employé</Item>
+		<Item Name="ActionEducate">Former le salarié</Item>
+		<Item Name="ActionDismiss">Congédier le salarié</Item>
 		<Item Name="ActionSell">Vendre le meuble</Item>
 		<Item Name="ActionDestroy">Détruire la pièce</Item>
 		<Item Name="ActionChange Team">Changer d'équipe</Item>
 		<Item Name="ActionLimit Use">Limiter l'utilisation de la pièce</Item>
 		<Item Name="ActionSelect Building">Sélectionner le batîment entier</Item>
-		<Item Name="ActionChange Role">Changer le rôle de l'employé</Item>
-		<Item Name="ActionSend home">Renvoyer l'employé chez lui</Item>
+		<Item Name="ActionChange Role">Changer le rôle du salarié</Item>
+		<Item Name="ActionSend home">Renvoyer le salarié chez lui</Item>
 		<Item Name="ActionFurniture color">Couleur des meubles</Item>
 		<Item Name="ActionTypes in Room">Sélectionner le type de meuble dans les pièces choisies</Item>
-		<Item Name="ActionDetails">Détail de l'employé</Item>
-		<Item Name="ActionChange Salary">Changer le salaire de l'employé</Item>
+		<Item Name="ActionDetails">Détail du salarié</Item>
+		<Item Name="ActionChange Salary">Changer le salaire du salarié</Item>
 		<Item Name="ActionSelect Team">Sélectionner l'équipe entière</Item>
-		<Item Name="ActionSelect Owned">Sélectionner les meubles assignés à l'employé</Item>
-		<Item Name="ActionSelect Staff">Sélectionner les employés dans la pièce</Item>
+		<Item Name="ActionSelect Owned">Sélectionner les meubles assignés au salarié</Item>
+		<Item Name="ActionSelect Staff">Sélectionner les salariés dans la pièce</Item>
 		<Item Name="ActionUnpair">Désassigner le(s) meuble(s)</Item>
-		<Item Name="ActionPair Use">Assigner le meuble utilisé à l'employé</Item>
+		<Item Name="ActionPair Use">Assigner le meuble utilisé au salarié</Item>
 		<Item Name="ActionUpgrade">Améliorer le meuble au niveau supérieur</Item>
 		<Item Name="ActionMove">Déplacer le meuble</Item>
 	</RightClick>
@@ -955,7 +955,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="LowerHealthInsurance">J'ai besoin d'une assurance santé si j'ai un accident</Item>
 		<Item Name="LowerLifeInsurance">Je pourrais mourir n'importe quand, j'ai besoin d'une assurance vie</Item>
 		<Item Name="LowerPension">Les pensions sont diminuées alors que je vais bientôt prendre ma retraite</Item>
-		<Item Name="MissingToiletWarning">Un employé a un problème pour trouver les toilettes</Item>
+		<Item Name="MissingToiletWarning">Un salarié a un problème pour trouver les toilettes</Item>
 		<Item Name="ServerLoadWarning">Vos serveurs ne peuvent pas faire face à la charge de la distribution</Item>
 		<Item Name="ServerItemLoadWarning">Vos serveurs ne peuvent pas faire face à la charge de {0}</Item>
 		<Item Name="BoughtOutProducts">Vous avez reçu les droits de {0} produits</Item>
@@ -1001,7 +1001,7 @@ Pénalité: -{6}
 Coût par bugs: -{7}</Item>
 		<Item Name="ActionRoomUnpair">Désassigner la pièce</Item>
 		<Item Name="ActionRoomPair">Assigner la pièce</Item>
-		<Item Name="Hire IT-support">Embaucher un technicien</Item>
+		<Item Name="Hire IT-support">Technicien IT</Item>
 		<Item Name="ComplaintDialogInfo">Nom: {0}
 Age: {1}
 Rôle: {2}
@@ -1011,7 +1011,7 @@ Ancienneté: {4}</Item>
 		<Item Name="Current salary">Salaire actuel</Item>
 		<Item Name="Demanded salary">Salaire demandé</Item>
 		<Item Name="Accept demand">Accepter la demande</Item>
-		<Item Name="Fire employee">Virer l'employé</Item>
+		<Item Name="Fire employee">Virer le salarié</Item>
 		<Item Name="PrematureDelayWarning">Etes-vous sûr de vouloir arrêter la phase de développement ?
 Arrêter la phase de développement prématurément augmentera le temps de la phase de Beta à cause d'un surplus de bugs.</Item>
 	</Alpha4.6>
@@ -1020,7 +1020,7 @@ Arrêter la phase de développement prématurément augmentera le temps de la ph
 Etes-vous sûr de vouloir continuer?</Item>
 			<Item Name="CloneComplexityWarning">Vous êtes en train de cloner un important nombre de meubles, cela peut provoquer des ralentissements.
 Etes-vous sûr de vouloir continuer?</Item>
-			<Item Name="UnreachableFurniture">Les employés ne peuvent pas atteindre {0}
+			<Item Name="UnreachableFurniture">Les salariés ne peuvent pas atteindre {0}
 Assurez-vous qu'il n'y ait rien sur le chemin</Item>
 			<Item Name="UnreachableParking">Cet emplacement de parking ne peut pas être atteint
 Assurez-vous qu'il soit connecté à la route principale</Item>
@@ -1064,9 +1064,9 @@ Vous avez besoin d'une reception pour recevoir des offres</Item>
 		<Item Name="IPDealActionFail">Personne n'est interessé par l'achat de votre license</Item>
 		<Item Name="Trade IP">Vendre</Item>
 		<Item Name="SheetDeals">Offres</Item>
-		<Item Name="Receptionist">Receptioniste</Item>
+		<Item Name="Receptionist">Réceptioniste</Item>
 		<Item Name="Guest">Visiteur</Item>
-		<Item Name="Hire Receptionist">Embaucher un(e) réceptionniste</Item>
+		<Item Name="Hire Receptionist">Réceptionniste</Item>
 		<Item Name="CompanyNameWarning">Vous n'avez pas choisi de nom d'entreprise.
 Etes-vous sûr de vouloir continuer ?</Item>
 		<Item Name="ActionConnectServers">Connecter des serveurs</Item>
@@ -1074,48 +1074,48 @@ Etes-vous sûr de vouloir continuer ?</Item>
 		<Item Name="GuestCompany">{0} au nom de {1}</Item>
 	</Alpha5.1>
 	<Alpha5.2>
-		<Item Name="SupportWorkSlowWarning">Vos salariées n'arrivent pas à suivre le support de {0}</Item>
-		<Item Name="SupportWorkCancelWarning">Arrêter le support d'un produit empêchera la résolution des bugs et rendra votre clientèle furieuse.
-Etes vous sûr de vouloir continuer?</Item>
+		<Item Name="SupportWorkSlowWarning">Vos salariés n'arrivent pas à suivre le support de {0}</Item>
+		<Item Name="SupportWorkCancelWarning">Arrêter le support d'un produit empêchera la résolution des bugs et déplaira fortement à vos clients.
+Etes-vous sûr de vouloir continuer ?</Item>
 	</Alpha5.2>
 	<Alpha5.3>
 		<Item Name="AcceptAllWages">Accepter tout et fermer la fenêtre</Item>
-		<Item Name="AcceptAllWagesWarning">Etes vous sur de vouloir accepter tout les demandes?
-Cela fera une augmentation de {0}, ce qui correspond à un coût de {1} par mois</Item>
-		<Item Name="FurnitureQueue">{0} salariées patientent pour utiliser ce meuble</Item>
+		<Item Name="AcceptAllWagesWarning">Etes-vous sûr de vouloir accepter toutes les demandes?
+Cela fera une augmentation moyenne de {0}, ce qui correspond à un coût de {1} par mois</Item>
+		<Item Name="FurnitureQueue">{0} salariés patientent pour utiliser ce meuble</Item>
 		<Item Name="Upcoming events">Evènements à venir</Item>
 		<Item Name="UpcomingEvDesc">Cliquez ici pour voir la liste des évènements à venir le mois prochain. L'icone deviendra rouge si des évènements importants se produisent</Item>
-		<Item Name="RetireEventMsg">{0} de l'équipe {1} va demissioner le mois d'après, après avoir travaillé chez {2} pour {3} years.</Item>
+		<Item Name="RetireEventMsg">{0} de l'équipe {1} va prendre sa retraite le mois prochain, après avoir travaillé chez {2} pendant {3} ans.</Item>
 		<Item Name="VacationEventMsg1">{0} a prévu des vacances pour le mois prochain et {1} salariés ont prévus d'avoir des vacances.</Item>
-		<Item Name="VacationEventMsg2">Aucune équipe a prévu des vacances le mois prochain mais {0} salariés ont prévus d'avoir des vacances.</Item>
-		<Item Name="ReleaseEventMsg">{0} ont prévut de sortir un(e) {1} appelé(e) "{2}" le mois prochain.</Item>
-		<Item Name="ExceptionNotificationTip">Une erreur s'est produite!</Item>
+		<Item Name="VacationEventMsg2">Aucune équipe n'a prévu de vacances le mois prochain mais {0} salariés ont prévu d'avoir des vacances.</Item>
+		<Item Name="ReleaseEventMsg">{0} ont prévu de sortir un(e) {1} appelé(e) "{2}" le mois prochain.</Item>
+		<Item Name="ExceptionNotificationTip">Une erreur s'est produite !</Item>
 		<Item Name="ExceptionNotificationTip2">Cliquez ici pour voir les détails</Item>
-		<Item Name="ExceptionNotificationMsg">Je suis désolé de vous informer qu'une erreur est survenue tout à l'heure, ce qui peut provoquer des erreurs et une instabilité du jeu (Early access, pas vrai?).
-Si vous avez une sauvegarde récente, Je vous suggère de redemarrer le jeu et de recharger votre sauvegarde, Si vous n'êtes pas en mesure de sauvegarder actuellement.
-Si vous avez une idée de ce qui est arrivé par rapport au message d'erreur (cliquez sur "Voir l'erreur" pour vérifier) et que vous pouvez le reproduire, Je vous en serais très reconnaissant si vous pouviez m'envoyer un e-mail à SoftwareInc@Coredumping.com avec la description de l'erreur, et je la corrigerais.
+		<Item Name="ExceptionNotificationMsg">Je suis désolé de vous informer qu'une erreur vient d'apparaitre, ce qui peut provoquer la fermeture du programme ou une instabilité du jeu (Early access, pas vrai?).
+Si vous avez une sauvegarde récente, je vous suggère de redémarrer le jeu et de recharger votre sauvegarde, car il est possible que vous ne puissiez pas sauvegarder actuellement.
+Si vous avez une idée de ce qui est arrivé grâce au rapport au message d'erreur (cliquez sur "Voir l'erreur" pour vérifier) et que vous pouvez le reproduire, je vous en serais très reconnaissant si vous pouviez m'envoyer un e-mail à SoftwareInc@Coredumping.com avec la description de l'erreur, pour que puisse la corriger.
 Je suis sincèrement désolé du dérangement.</Item>
-		<Item Name="UI size">Taille d'interface</Item>
-		<Item Name="NoCompanyName">Merci d'entrer un nom d'entreprise</Item>
-		<Item Name="Save picture">Sauver l'image</Item>
-		<Item Name="Tweet picture">Twetter une image</Item>
-		<Item Name="TwitterDesc">Que voulez vous dire à l'internet?</Item>
+		<Item Name="UI size">Taille de l'interface</Item>
+		<Item Name="NoCompanyName">Veuillez entrer un nom d'entreprise</Item>
+		<Item Name="Save picture">Enregistrer l'image</Item>
+		<Item Name="Tweet picture">Tweeter une image</Item>
+		<Item Name="TwitterDesc">Que voulez vous dire à l'internet ?</Item>
 		<Item Name="DefaultTweet">Contemplez mon empire ! #SoftwareInc</Item>
 		<Item Name="Enter pin">Entrer le pin</Item>
-		<Item Name="TweetError">Une erreur est survenu lorsque vous avez essayé de poster une photo sur tweeter</Item>
-		<Item Name="SteamImgQ">Voulez vous enregistrer cette capture d'ecran sur votre compte Steam</Item>
+		<Item Name="TweetError">Une erreur est survenue lorsque vous avez essayé de poster une photo sur Twirter</Item>
+		<Item Name="SteamImgQ">Voulez-vous enregistrer cette capture d'écran sur votre compte Steam ?</Item>
 	</Alpha5.3>
 	<Alpha5.4>
-		<Item Name="WindowPref">Préferences de Fenêtres</Item>
+		<Item Name="WindowPref">Préferences des fenêtres</Item>
 		<Item Name="Reset">Reset</Item>
 		<Item Name="Upcoming releases">Sorties à venir</Item>
-		<Item Name="UpcomingRelDesc">Liste des logiciels annoncés par la concurence</Item>
+		<Item Name="UpcomingRelDesc">Liste des logiciels annoncés par la concurrence</Item>
 		<Item Name="Close all windows">Fermer toutes les fenêtres</Item>
-		<Item Name="CloseAllWindowWarning">Etes vous sur de vouloir fermer toutes les fenêtres ?</Item>
-		<Item Name="Only sequels">Que les Suites</Item>
-		<Item Name="Select fallback">Serveur Secours</Item>
+		<Item Name="CloseAllWindowWarning">Etes-vous sûr de vouloir fermer toutes les fenêtres ?</Item>
+		<Item Name="Only sequels">Que les suites</Item>
+		<Item Name="Select fallback">Serveur de secours</Item>
 		<Item Name="Fallback">Secours</Item>
-		<Item Name="AutoDevProjDetails">Projet en cours:
+		<Item Name="AutoDevProjDetails">Projet en cours :
 Nom: {0}
 Type: {1}
 Visée: {2}</Item>
@@ -1124,29 +1124,29 @@ Visée: {2}</Item>
 Logiciel: {1}
 Par jour: {2}
 Expiration: {3}</Item>
-		<Item Name="Desert">Desert</Item>
+		<Item Name="Desert">Désert</Item>
 		<Item Name="Tundra">Toundra</Item>
 		<Item Name="Paused">En Pause</Item>
 	</Alpha5.4>
 	<Alpha6>
 		<Item Name="ActionDismantle">Démonter</Item>
 		<Item Name="Dismantle">Démontage</Item>
-		<Item Name="DismantleMsg">Etes vous sûr de vouloir démonter ces {0} segments de mur ?</Item>
-		<Item Name="DismantleMsg2">Demonter ses {0} segments de mur</Item>
+		<Item Name="DismantleMsg">Etes-vous sûr de vouloir démonter ces {0} segments de mur ?</Item>
+		<Item Name="DismantleMsg2">Démonter {0} segments de mur</Item>
 		<Item Name="WallSegments">Segments de mur</Item>
 		<Item Name="AngleSnapDesc">Changer l'angle du meuble</Item>
-		<Item Name="DoubleGridSize">Grille doublé de taille</Item>
-		<Item Name="HalveGridSize">Grille divisé de taille</Item>
-		<Item Name="ChangeGridAnchor">Ancrer la grille à un objet de la carte</Item>
-		<Item Name="ResetGrid">Reset la Grille</Item>
-		<Item Name="ActionMergeRooms">Fusionner Salles</Item>
-		<Item Name="Turn furniture clockwise">Tourner le Meuble à droite</Item>
+		<Item Name="DoubleGridSize">Doubler la grille</Item>
+		<Item Name="HalveGridSize">Diviser de moitié la grille</Item>
+		<Item Name="ChangeGridAnchor">Attacher la grille à un objet de la carte</Item>
+		<Item Name="ResetGrid">Reset la grille</Item>
+		<Item Name="ActionMergeRooms">Fusionner les salles</Item>
+		<Item Name="Turn furniture clockwise">Tourner le meuble vers la droite</Item>
 		<Item Name="Turn furniture counter clockwise">Tourner le meuble à gauche</Item>
 		<Item Name="Grid">Grille</Item>
-		<Item Name="ActionSelectWall">Selectionner tout les segments du mur</Item>
+		<Item Name="ActionSelectWall">Sélectionner tous les segments du mur</Item>
 		<Item Name="ActionDuplicate">Dupliquer</Item>
 		<Item Name="RoomAngleError">Les angles de mur ne doivent pas être supérieur à 30°</Item>
-		<Item Name="RoomNarrowError">Les murs de la pièce doivent être decalés</Item>
+		<Item Name="RoomNarrowError">Les murs de la pièce doivent être décalés</Item>
 		<Item Name="RoomIntersectError">Les murs ne peuvent pas se croiser</Item>
 		<Item Name="RoomInsideError">Vous ne pouvez pas construire une pièce autour d'une pièce</Item>
 		<Item Name="FurnitureSnapError">Ceci doit être placé aux points indiqués</Item>
@@ -1154,69 +1154,69 @@ Expiration: {3}</Item>
 		<Item Name="Construct rectangle room">Construire une pièce rectangulaire</Item>
 		<Item Name="CorruptSaveFile">
 Ce fichier de sauvegarde est corrompu.
-Peut-être car le fichier a été crée sous une ancienne version de Software Inc, et qui n'est pas supporté.</Item>
+Cela peut arriver si le fichier a été crée sous une ancienne version de Software Inc qui n'est plus supportée.</Item>
 	</Alpha6>
 	<Alpha6.4>
-		<Item Name="DynamicSegmentHint">Cliquer et Glisser ce segment à l'echelle</Item>
+		<Item Name="DynamicSegmentHint">Cliquer et glisser ce segment pour changer l'échelle</Item>
 	</Alpha6.4>
 	<Alpha6.5>
-		<Item Name="RotateFurnHint2">Cliquer et glisser le meuble furniture pour le tourner
+		<Item Name="RotateFurnHint2">Cliquer et glisser le meuble pour le tourner
 ou pressez {0} ou {1}</Item>
 		<Item Name="Delete">Supprimer</Item>
-		<Item Name="DeleteSaveConf">Etes vous sûr de vouloir supprimer cette sauvegarde ?
-Vous ne pourrez plus la récuperer par la suite!</Item>
-		<Item Name="DeleteFail">Une erreur est survenu pendant la suppression de la sauvegarde,
-Soyez sûr que vous ayez les permissions permettant de la supprimer.</Item>
-		<Item Name="AskMarketingOption">Se renseigner sur le marketing après une sortie</Item>
+		<Item Name="DeleteSaveConf">Etes-vous sûr de vouloir supprimer cette sauvegarde ?
+Vous ne pourrez plus la récuperer par la suite !</Item>
+		<Item Name="DeleteFail">Une erreur est survenue pendant la suppression de la sauvegarde,
+Vérifiez que vous avez les permissions permettant de la supprimer.</Item>
+		<Item Name="AskMarketingOption">Proposer le marketing après une sortie</Item>
 	</Alpha6.5>
 	<Alpha6.11>
-		<Item Name="Overall skill">Comp. Générales</Item>
+		<Item Name="Overall skill">Compétences générales</Item>
 		<Item Name="Skill interview">Entretien - Compétences</Item>
 		<Item Name="Specialization interview">Entretien - Spécialisation</Item>
 		<Item Name="Personality interview">Entretien - Personnalité</Item>
 		<Item Name="SSAA">SSAA</Item>
-		<Item Name="SSAAHint">Le "Super-sampling antialiasing" rend le jeu en double résolution afin de lisser les bords le mieux possible.</Item>
-		<Item Name="Event">Event</Item>
+		<Item Name="SSAAHint">Le "Super-sampling antialiasing" double la résolution du jeu afin de lisser les bords le mieux possible.</Item>
+		<Item Name="Event">Evènement</Item>
 		<Item Name="InsuranceDescription">Assurance Vie par salarié: {0}
 		Assurance Santé par salarié: {1}
 		Retraite par salarié: {2}</Item>
 		<Item Name="Payments">Paiements</Item>
-		<Item Name="Employee">Salariés</Item>
+		<Item Name="Employee">Salarié</Item>
 	</Alpha6.11>
 	<Alpha6.12>
 		<Item Name="Loans">Prêts</Item>
 	</Alpha6.12>
 	<Alpha6.13>
-		<Item Name="KeyBindingHint">Presse une touche...</Item>
-		<Item Name="Context menu">Menu Contextuel</Item>
-		<Item Name="Rotate camera">Pivoter la Caméra</Item>
+		<Item Name="KeyBindingHint">Pressez une touche...</Item>
+		<Item Name="Context menu">Menu contextuel</Item>
+		<Item Name="Rotate camera">Pivoter la caméra</Item>
 	</Alpha6.13>
 	<Alpha6.14>
 		<Item Name="Segment">Segment</Item>
 	</Alpha6.14>
 	<Alpha6.18>
-		<Item Name="SaveDeletedError">Cette sauvegarde n'existera plus et sera supprimé.</Item>
+		<Item Name="SaveDeletedError">Cette sauvegarde n'existera plus et sera supprimée.</Item>
 		<Item Name="ExteriorWallFurn">Vous devez placer ceci sur un mur extérieur.</Item>
 		<Item Name="BasementFurnError">Ceci ne peut être placé dans le sous-sol.</Item>
 		<Item Name="RoomTempratureWarning2">La température va beaucoup varier dans cette pièce,
-ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
-		<Item Name="TemperatureOveruse">Une unité de thermostat est surchargé. Merci d'ajouter plus de thermostat dans le batîment.</Item>
+ajoutez des chauffages/ventilations et pensez aux pertes dues aux fenêtres.</Item>
+		<Item Name="TemperatureOveruse">Un thermostat est surchargé. Veuillez ajouter plus de thermostats dans le bâtiment.</Item>
 	</Alpha6.18>
 	<Alpha6.21>
-		<Item Name="Selection">Selection</Item>
-		<Item Name="Select multiple">Selection multiples</Item>
+		<Item Name="Selection">Sélection</Item>
+		<Item Name="Select multiple">Sélection multiples</Item>
 	</Alpha6.21>
 	<Alpha6.22>
-		<Item Name="FurnitureInLimitRoomWarning">Un salarié a été assigné à un(e) {0} dans une pièce où le salarié n'est pas autorisé à entrer.</Item>
-		<Item Name="EmployeeArtWorkWarning">{0} travaille sur l'artistique de {1} mais il n'est pas compétent en art et risque de retarder la sortie tout en ruinant la partie artistique.</Item>
+		<Item Name="FurnitureInLimitRoomWarning">Un salarié a été assigné à un(e) {0} dans une pièce où il n'est pas autorisé à entrer.</Item>
+		<Item Name="EmployeeArtWorkWarning">{0} travaille sur les créations artistiques de {1} mais il n'est pas compétent en art et risque de retarder la sortie tout en ruinant la partie artistique.</Item>
 		<Item Name="EmployeeProgrammingWorkWarning">{0} développe sur {1} mais il n'est pas compétent en code et risque de retarder la sortie tout en ajoutant des bugs.</Item>
 		<Item Name="EmployeeDesignWorkWarning">{0} conçoit le design de {1} mais il n'est pas compétent en design et risque de retarder la sortie tout en créant des erreurs.</Item>
-		<Item Name="RoadBusSignError">Tu ne peux construire une route en face d'un arrêt de bus !</Item>
+		<Item Name="RoadBusSignError">Vous ne pouvez pas construire une route en face d'un arrêt de bus !</Item>
 	</Alpha6.22>
 	<Alpha7.1>
 		<Item Name="Units">Unités</Item>
 		<Item Name="Perception">Perception</Item>
-		<Item Name="License cost">Coût de Licence</Item>
+		<Item Name="License cost">Coût de licence</Item>
 		<Item Name="Gross">Brut</Item>
 		<Item Name="Price">Prix</Item>
 		<Item Name="Active users">Utilisateurs</Item>
@@ -1225,26 +1225,26 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="Artists needed">Besoin d'artistes</Item>
 		<Item Name="Expected interest">Interêt prévu</Item>
 		<Item Name="Consumer reach">Consommateurs</Item>
-		<Item Name="License costs">Coûts de Licence</Item>
-		<Item Name="Recommended team size">Taille d'équipe recommandé</Item>
+		<Item Name="License costs">Coûts de licence</Item>
+		<Item Name="Recommended team size">Taille d'équipe recommandée</Item>
 		<Item Name="Traded">Négocié</Item>
 		<Item Name="Fans">Fans</Item>
-		<Item Name="FansInfo">Les fans n'ont pas d'impact direct sur nos ventes, mais en avoir plus nous permettrait de nous faire reconnaitre sur le marché.</Item>
-		<Item Name="Business reputation">Reputation de l'entreprise</Item>
-		<Item Name="BusinessRepInfo">C'est votre réputation dans le secteur logiciel. Chaque étoile aura une incidence sur la qualité des salariés, les contrats, offres et la distribution</Item>
+		<Item Name="FansInfo">Les fans n'ont pas d'impact direct sur vos ventes, mais en avoir plus améliorerait votre visibilité sur le marché.</Item>
+		<Item Name="Business reputation">Réputation de l'entreprise</Item>
+		<Item Name="BusinessRepInfo">C'est votre réputation dans le secteur logiciel. Chaque étoile aura une incidence sur la qualité des salariés, des contrats, des offres et sur la distribution</Item>
 		<Item Name="PricingButtonTip">Cliquez ici pour utiliser le prix suggéré pour ce logiciel</Item>
-		<Item Name="Market recognition">Reconnaissance du Marché</Item>
-		<Item Name="MarketRecognitionInfo">Votre Reconnaissance du Marché contrôle votre popularité sur chaque marché et la façon dont se vendent vos produits pour chaque catégorie</Item>
-		<Item Name="Bandwidth">Bande Passante</Item>
-		<Item Name="Reflections">Reflexions</Item>
-		<Item Name="ActionChange Room Team">Switcher d'Equipe</Item>
-		<Item Name="Screen Space Reflections">Reflexions d'espace de l'écran</Item>
-		<Item Name="SSRHint">Cela rend la plupart des surfaces brillantes et reflèteront leur environnement (Requiert une carte graphique haut de gamme)</Item>
+		<Item Name="Market recognition">Reconnaissance du marché</Item>
+		<Item Name="MarketRecognitionInfo">Votre reconnaissance du marché contrôle votre popularité sur chaque marché et la façon dont se vendent vos produits pour chaque catégorie</Item>
+		<Item Name="Bandwidth">Bande passante</Item>
+		<Item Name="Reflections">Réflexions</Item>
+		<Item Name="ActionChange Room Team">Changer d'équipe</Item>
+		<Item Name="Screen Space Reflections">Réflexions sur les écrans</Item>
+		<Item Name="SSRHint">Cela provoque le reflet de l'environnement sur la plupart des surfaces brillantes (Requiert une carte graphique haut de gamme)</Item>
 		<Item Name="Please wait">Veuillez patienter</Item>
-		<Item Name="PicTakingError">Erreur. Merci de choisir une plus petite résolution.</Item>
-		<Item Name="Performance tip">Conseils Performance</Item>
+		<Item Name="PicTakingError">Erreur pendant la capture d'écran. Merci de choisir une plus petite résolution.</Item>
+		<Item Name="Performance tip">Conseils de performance</Item>
 		<Item Name="Hover for details">Passer la souris pour les détails</Item>
-		<Item Name="PerformanceTipDetail">La performance de la plupart des effets dépend de votre résolution d'écran et non de la complexité des objets sur l'écran. SSAA va doubler les impacts de performances sur la plupart des effets.</Item>
+		<Item Name="PerformanceTipDetail">La performance de la plupart des effets dépend de votre résolution d'écran et non de la complexité des objets sur l'écran. SSAA va doubler les impacts de performance sur la plupart des effets.</Item>
 		<Item Name="Impact">Impact</Item>
 		<Item Name="Very high">Très haut</Item>
 		<Item Name="High">Haut</Item>
@@ -1254,7 +1254,7 @@ ajoutez des thermostats et pensez aux fuites des fenêtres.</Item>
 		<Item Name="MarketingError">Il y a déjà une campagne marketing pour ce produit.</Item>
 		<Item Name="KeyBindingWarning">"{0}" est déjà lié à "{1}", êtes vous sûr de vouloir faire cela ?</Item>
 		<Item Name="Request">Requête</Item>
-		<Item Name="Retail price">Prix au détail</Item>
+		<Item Name="Retail price">Prix de vente</Item>
 		<Item Name="Priority">Priorité</Item>
 		<Item Name="Change software name">Changer le nom du logiciel</Item>
 		<Item Name="MarketingProduct">Marketing {0}</Item>
@@ -1521,7 +1521,7 @@ Cliquez pour continuer.</Item>
 	<Alpha8.9>
 		<Item Name="Noise reduction">Insonorisation</Item>
 		<Item Name="Stressed">Je suis stressé.</Item>
-		<Item Name="StressWarning">Un employé est stressé. Assurez-vous de ne pas les surmener avec trop de tâches et de les renvoyer chez eux lorsqu'ils sont vraiment stressés.</Item>
+		<Item Name="StressWarning">Un salarié est stressé. Assurez-vous de ne pas les surmener avec trop de tâches et de les renvoyer chez eux lorsqu'ils sont vraiment stressés.</Item>
 		<Item Name="SocialProblem">Je me sens isolé.</Item>
 		<Item Name="SocialWarning">Un salarié a des problèmes socials. Un environnement de travail ouvert, des réunions ou du matériel social peuvent aider.</Item>
 		<Item Name="Stress">Stress</Item>
@@ -1531,8 +1531,8 @@ Cliquez pour continuer.</Item>
 		<Item Name="Fast learner">Apprend vite</Item>
 		<Item Name="Lazy">Paresseux</Item>
 		<Item Name="Stressed">Stressé</Item>
-		<Item Name="IndependantVsSocial">Un bon leader doit être social, à noter qu'un employé indépendant est heureux de travailler toute la journée dans une cabine.</Item>
-		<Item Name="LazyVsStressed">Un employé paresseux va essayer, le plus souvent possible, de ne pas travailler, tandis qu'un employé stressé va vite se sentir surchargé de travail.</Item>
+		<Item Name="IndependantVsSocial">Un bon leader doit être social, à noter qu'un salarié indépendant est heureux de travailler toute la journée dans une cabine.</Item>
+		<Item Name="LazyVsStressed">Un salarié paresseux va essayer, le plus souvent possible, de ne pas travailler, tandis qu'un salarié stressé va vite se sentir surchargé de travail.</Item>
 		<Item Name="HardWorkVsFastLearn">Un travailleur acharché donnera toujours 110% de lui-même, mais quelqu'un qui apprend vite va acquérir de nouvelles compétences plus rapidement.</Item>
 		<Item Name="InHouseWarning">Vous êtes sur le point de développer un produit pour vous, ce qui signifie que vous ne serez pas en mesure de le vendre ou de mettre un prix sur une licence.
 		Etes-vous sûr de continuer ?</Item>
