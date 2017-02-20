@@ -1792,7 +1792,7 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="Guests">Invités</Item>
 		<Item Name="Deliveries">Livraisons</Item>
 		<Item Name="Cooks">Cuisiniers</Item>
-		<Item Name="ActionAssignParking">Assigner une place de parkinge</Item>
+		<Item Name="ActionAssignParking">Assigner une place de parking</Item>
 		<Item Name="ActionSelectParkedPeople">Sélectionner la personne garée ici</Item>
 		<Item Name="ActionSelectNearParking">Sélectionner les places de parking adjacentes</Item>
 		<Item Name="Digital distribution">Distribution digitale</Item>
