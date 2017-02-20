@@ -165,7 +165,7 @@
 		<Item Name="Disband">Dissoudre</Item>
 		<Item Name="Automation">Management</Item>
 		<Item Name="Type">Type</Item>
-		<Item Name="Dismiss">Ok</Item> <!-- a vérifier ?-->
+		<Item Name="Dismiss">Renvoyer</Item>
 		<Item Name="Tier">Echelon</Item>
 		<Item Name="Progress">Progression</Item>
 		<Item Name="Contract">Contrat</Item>
@@ -565,9 +565,9 @@ Si vous voulez séparer une salle, vous devez construire mur par mur</Item>
 		<Item Name="DemoFloorWarning">Vous ne pouvez construire que dans les 2 premiers étages dans la démo</Item>
 		<Item Name="OverwriteConfirmMsg">Etes vous sur de vouloir écraser la sauvegarde ?</Item>
 		<Item Name="OverwriteConfirmTitle">Confirmation</Item>
-		<Item Name="DismissTitle">OK</Item>
-		<Item Name="DismissMsg">Etes-vous sûr de congédier {0} salariés ?</Item>
-		<Item Name="DismissMsg2">Vous avez congédié {0} salariés</Item>
+		<Item Name="DismissTitle">Renvoyer</Item>
+		<Item Name="DismissMsg">Etes-vous sûr de renvoyer {0} salariés ?</Item>
+		<Item Name="DismissMsg2">Vous avez renvoyé {0} salariés</Item>
 		<Item Name="SellTitle">Vendre</Item>
 		<Item Name="SellMsg">Etes-vous sûr de vouloir vendre ces {0} équipements</Item>
 		<Item Name="SellMsg2">Vous avez vendu {0} équipements</Item>
@@ -671,7 +671,7 @@ Voulez-vous recourir à un prêt de {1} pour essayer d'éviter la banqueroute ?<
 		<Item Name="ActionRoom Color">Changer la couleur</Item>
 		<Item Name="ActionMaterial">Motifs de la pièce</Item>
 		<Item Name="ActionEducate">Former le salarié</Item>
-		<Item Name="ActionDismiss">Congédier le salarié</Item>
+		<Item Name="ActionDismiss">Renvoyer le salarié</Item>
 		<Item Name="ActionSell">Vendre le meuble</Item>
 		<Item Name="ActionDestroy">Détruire la pièce</Item>
 		<Item Name="ActionChange Team">Changer d'équipe</Item>
@@ -793,7 +793,7 @@ Faites un clic gauche n'importe ou un double clic pour désactiver le serveur.
 Clic droit pour désélectionner et annuler.</Item>
 	<Item Name="Noisiness">Nuissances sonores</Item>
 	<Item Name="State">Etat</Item>
-	<Item Name="YearsPostfix"> années</Item>
+	<Item Name="YearsPostfix"> ans</Item>
 	<Item Name="MonthsPostfix"> mois</Item>
 	<Item Name="Assign">Assigner</Item>
 	<Item Name="Unassigned">Non assigné</Item>
@@ -1113,7 +1113,7 @@ Je suis sincèrement désolé du dérangement.</Item>
 		<Item Name="Close all windows">Fermer toutes les fenêtres</Item>
 		<Item Name="CloseAllWindowWarning">Etes-vous sûr de vouloir fermer toutes les fenêtres ?</Item>
 		<Item Name="Only sequels">Que les suites</Item>
-		<Item Name="Select fallback">Serveur de secours</Item>
+		<Item Name="Select fallback">Choisir secours</Item>
 		<Item Name="Fallback">Secours</Item>
 		<Item Name="AutoDevProjDetails">Projet en cours :
 Nom: {0}
@@ -1748,7 +1748,7 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="ProjectManagementDefaultName">Nom du projet</Item>
 		<Item Name="Design teams">Equipes de design</Item>
 		<Item Name="Development teams">Equipes de développement</Item>
-		<Item Name="Secondary dev teams">Deuxième équipes de dev.</Item>
+		<Item Name="Secondary dev teams">Equipes secondaires de dev.</Item>
 		<Item Name="Support teams">Equipes de support</Item>
 		<Item Name="Pre-marketing teams">Equipes de pre-marketing</Item>
 		<Item Name="Post-marketing teams">Equipes de post-marketing</Item>
@@ -1768,12 +1768,12 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="Designing">En cours de design</Item>
 		<Item Name="Developing">En cours de développement</Item>
 		<Item Name="Handle marketing">S'occuper du marketing</Item>
-		<Item Name="HandleMarketingTip">Let the project manager handle post marketing and setting the budget</Item>
+		<Item Name="HandleMarketingTip">Laissez le responsable s'occuper du post-marketing et établir le budget</Item>
 		<Item Name="Takeover">Prendre le relai</Item>
 		<Item Name="Action points">Points d'action</Item>
 		<Item Name="ActionPointTip">Each managerial decision requires action points, which the leader will work to acquire. Leader skill determines how many can be acquired and role specific skills determine the speed.</Item>
 		<Item Name="OwnLicenseTip">Whether leader should try solely sticking to in-house licenses when creating new projects</Item>
-		<Item Name="Single IP">Single IP</Item>
+		<Item Name="Single IP">Licence unique</Item>
 		<Item Name="SingleIPTip">Whether leader should stick to one IP, forcing them to wait if a sequel is already being developed</Item>
 		<Item Name="Temporarily unavailable">Temporarily unavailable</Item>
 		<Item Name="AutoDevMissingLeader">You need to pick a leader before you can continue</Item>
@@ -1792,20 +1792,20 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="Guests">Invités</Item>
 		<Item Name="Deliveries">Livraisons</Item>
 		<Item Name="Cooks">Cuisiniers</Item>
-		<Item Name="ActionAssignParking">Assign parking space</Item>
-		<Item Name="ActionSelectParkedPeople">Select people parked here</Item>
-		<Item Name="ActionSelectNearParking">Select adjacent parking spots</Item>
-		<Item Name="Digital distribution">Digital distribution</Item>
-		<Item Name="DistributionFailCancel">{0} has cancelled their distribution deal with you because of your inability to provide a stable connection</Item>
-		<Item Name="DistributionDealPrompt">Please make {0} an offer on how big a revenue cut you will receive for digital sales in percent</Item>
-		<Item Name="DistributionOffer">Make an offer on digital distribution</Item>
-		<Item Name="DistributionOfferMade">You currently take {0}% revenue for digital sales</Item>
-		<Item Name="Digital market share">Digital market share</Item>
-		<Item Name="Open online store">Open online store</Item>
-		<Item Name="CancelDistribution">Are you sure you want to cancel your distribution deal with {0}?</Item>
-		<Item Name="DistributionDealDenied">{0} are not interested in your offer</Item>
-		<Item Name="DistributionDealCooldown">You have to wait at least a month before you can make another offer</Item>
-		<Item Name="InvalidAmount">Please enter a valid amount</Item>
+		<Item Name="ActionAssignParking">Assigner une place de parkinge</Item>
+		<Item Name="ActionSelectParkedPeople">Sélectionner la personne garée ici</Item>
+		<Item Name="ActionSelectNearParking">Sélectionner les places de parking adjacentes</Item>
+		<Item Name="Digital distribution">Distribution digitale</Item>
+		<Item Name="DistributionFailCancel">{0} vient de rompre son contrat de distribution avec vous à cause de votre incapacité à assurer une connexion stable</Item>
+		<Item Name="DistributionDealPrompt">Veuillez proposer à {0} votre pourcentage de retenu sur ses ventes digitales</Item>
+		<Item Name="DistributionOffer">Faire une offre de distribution digitale</Item>
+		<Item Name="DistributionOfferMade">Vous prenez actuellement {0}% des revenus des ventes digitales</Item>
+		<Item Name="Digital market share">Part de marché digitale</Item>
+		<Item Name="Open online store">Ouvrir une boutique en ligne</Item>
+		<Item Name="CancelDistribution">Êtes-vous sûr de vouloir annuler votre contrat de distribution avec {0} ?</Item>
+		<Item Name="DistributionDealDenied">{0} n'est pas intéressé par votre offre</Item>
+		<Item Name="DistributionDealCooldown">Vous devez attendre au moins un mois avant de pouvoir faire une nouvelle offre</Item>
+		<Item Name="InvalidAmount">Veuillez entrer un nombre valide</Item>
 		<Item Name="CopiesOf">Copies de {0}</Item>
 		<Item Name="Order copies">Commander des copies</Item>
 		<Item Name="Physical copies sold">Copies physiques vendues</Item>
