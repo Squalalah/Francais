@@ -1641,9 +1641,9 @@ Cette erreur a été enregistrée. Souhaitez-vous envoyer un rapport au dévelop
 Nous sommes désolés du désagrément.</Item>
 	</Alpha8.10>
 	<Alpha8.11>
-			<Item Name="FurnitureLoadError">A furniture named {0} was not present on your computer. The game will have to load your save file without this furniture, which might break the game.</Item>
-			<Item Name="StockLowBid">{0} is willing to offer {1}, do you want to take their offer?
-You bought the stock for {2} and it is currently worth {3}</Item>
+			<Item Name="FurnitureLoadError">Le meuble {0} n'a pas été trouvé sur votre ordinateur. Le jeu va devoir charger votre partie sans ce meuble, ce qui peut causer des problèmes.</Item>
+			<Item Name="StockLowBid">{0} est prêt à vous offrir {1}, acceptez-vous son offre ?
+Vous avez acheté ces actions {2} et elles valent désormais {3}</Item>
 			<Item Name="InaccessibleRoom">Cette pièce n'est pas accessible depuis l'extérieur.
 Veuillez la connecter avec des portes, ascensseurs ou escaliers</Item>
 			<Item Name="Column widths">Largeur colonne</Item>
@@ -1711,7 +1711,7 @@ Veuillez noter que l'évaluation externe coute {0} par évaluation.</Item>
 Un communiqué de presse aura plus d'impact si vous avez des choses à montrer, il vaut mieux attendre d'avoir un peu avancé dans le design ou le développement avant de publier un communiqué.
 Chaque communiqué de presse diminuera l'impact du suivant, il vaut donc mieux ne pas en sortir trop.</Item>
 		<Item Name="MarketingDescBuild">Vous pouvez envoyer une démo de votre produit à la presse pour intéresser des clients rapidement. Si la presse n'aime pas votre produit, vous pourriez perdre autant de potentiels clients, soyez prudent.
-The response to your demo will appear in the newspaper the day after it has been released.</Item>
+L'avis sur votre démo apparaitra dans le journal le lendemain de son envoi</Item>
 		<Item Name="MarketingDescHype">Il est conseillé de maintenir votre popularité une fois que des gens se sont montrés intéressés, pour qu'ils ne vous oublient pas.</Item>
 		<Item Name="MarketingDescPost">Vous devriez faire en sorte que votre produit soit diffusé autant que possible dans les médias à sa sortie.
 Le marketing peut vite couter très cher et vous devez vous battre pour rester visible face à vos concurrents.
@@ -1731,11 +1731,11 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="MockOSPortWait">En attente de publication</Item>
 		<Item Name="DesignSafetyCheck">Êtes-vous sûr de vouloir passer ce projet en phase de développement ? Un mauvais design peut amener à une mauvaise qualité du produit, des bugs et des retards</Item>
 		<Item Name="Project details">Détails du projet</Item>
-		<Item Name="Current designers">Designers</Item>
-		<Item Name="Current programmers">Current programmers</Item>
-		<Item Name="Current artists">Current artists</Item>
-		<Item Name="Current any role">Current any role</Item>
-		<Item Name="Release date">Release date</Item>
+		<Item Name="Current designers">Designers actuels</Item>
+		<Item Name="Current programmers">Développeurs actuels</Item>
+		<Item Name="Current artists">Artists actuels</Item>
+		<Item Name="Current any role">Sans affectation actuels</Item> <!-- bof -->
+		<Item Name="Release date">Date de sortie</Item>
 		<Item Name="Started development">Développement commencé</Item>
 		<Item Name="BugsFixed">{0} résolu(s)</Item>
 		<Item Name="BugsVerified">{0} vérifié(s)</Item>
@@ -1771,17 +1771,17 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="HandleMarketingTip">Laissez le responsable s'occuper du post-marketing et établir le budget</Item>
 		<Item Name="Takeover">Prendre le relai</Item>
 		<Item Name="Action points">Points d'action</Item>
-		<Item Name="ActionPointTip">Each managerial decision requires action points, which the leader will work to acquire. Leader skill determines how many can be acquired and role specific skills determine the speed.</Item>
-		<Item Name="OwnLicenseTip">Whether leader should try solely sticking to in-house licenses when creating new projects</Item>
+		<Item Name="ActionPointTip">Chaque décision de management demande des points d'action obtenus par le travail du responsable d'équipe. Sa compétence de gérance détermine combien il peut en acquérir et ses autres compétences déterminent la vitesse d'acquisition.</Item>
+		<Item Name="OwnLicenseTip">Définit si le responsable doit essayer de ne faire que des produits internes pour les nouveaux projets</Item>
 		<Item Name="Single IP">Licence unique</Item>
-		<Item Name="SingleIPTip">Whether leader should stick to one IP, forcing them to wait if a sequel is already being developed</Item>
-		<Item Name="Temporarily unavailable">Temporarily unavailable</Item>
-		<Item Name="AutoDevMissingLeader">You need to pick a leader before you can continue</Item>
-		<Item Name="AutoDevNoLeaders">There are no leaders to choose from. Please hire a leader or make one of your current employees a leader</Item>
-		<Item Name="LateProductRelease">{0} is overdue and losing followers</Item>
-		<Item Name="NewDebtLoss">Your company is in debt! You have until {0} to correct your financial situation or your company will be forced to declare bankruptcy</Item>
-		<Item Name="NewDebtLossPass">Congratulations! 24 hours have gone and your company has been cleared of debt</Item>
-		<Item Name="ReviewError">Peer reviews are only available during alpha</Item>
+		<Item Name="SingleIPTip">Définit si le responsable doit n'utiliser qu'une seule licence, forçant l'équipe à attendre si une suite est déjà en développement</Item>
+		<Item Name="Temporarily unavailable">Temporairement indisponible</Item>
+		<Item Name="AutoDevMissingLeader">Vous devez choisir un responsable avant de continuer</Item>
+		<Item Name="AutoDevNoLeaders">Il n'y a pas de responsables disponibes, veuillez en embaucher un ou changer le rôle d'un de vos salariés</Item>
+		<Item Name="LateProductRelease">{0} est en retard et les gens commencent à s'en désintéresser</Item>
+		<Item Name="NewDebtLoss">Votre entreprise est endettée ! Vous avez jusqu'au pour corriger votre situation financière ou votre entreprise sera en banqueroute</Item>
+		<Item Name="NewDebtLossPass">Félicitations ! 24 heures sont passées et votre entreprise a réglé ses dettes</Item>
+		<Item Name="ReviewError">L'évaluation n'est disponible que durant la phase d'alpha</Item>
 		<Item Name="Current floor">Etage actuel</Item>
 		<Item Name="Physical units">Copies physiques</Item>
 		<Item Name="Digital units">Copies digitales</Item>
@@ -1810,10 +1810,10 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="Order copies">Commander des copies</Item>
 		<Item Name="Physical copies sold">Copies physiques vendues</Item>
 		<Item Name="Physical market share">Part de marché physique</Item>
-		<Item Name="ReleasePrintingPrompt">In order to sell copies of your product you have to print physical copies. If you don't print any copies of your product, it will only be available digitally. Do you want to print copies now?
-You can always print new copies in the "Your Releases" window.</Item>
-		<Item Name="CourierParkError">There is nowhere for you courier to park. Please build parking spaces on your lot</Item>
-		<Item Name="Start printing">Commancer l'impression</Item>
+		<Item Name="ReleasePrintingPrompt">Pour pouvoir vendre votre produit il vous faut en imprimer des copies. Si vous n'en imprimez pas, votre produit ne sera disponible que numériquement. Voulez-vous imprimer des copies ?
+Vous pouvez toujours en imprimer de nouvelles copies via la fenêtre "Mes logiciels".</Item>
+		<Item Name="CourierParkError">Votre coursier n'a pas d'endroit où se garer. Veuillez construire de nouvelles places de parking</Item>
+		<Item Name="Start printing">Commencer l'impression</Item>
 		<Item Name="Print">Imprimer</Item>
 		<Item Name="Hire courier">Coursier</Item>
 		<Item Name="Courier">Coursier</Item>
@@ -1821,20 +1821,20 @@ You can always print new copies in the "Your Releases" window.</Item>
 		<Item Name="Per month">Par mois</Item>
 		<Item Name="Deadline">Limite de temps</Item>
 		<Item Name="Goal">Objectif</Item>
-		<Item Name="Product print orders">Product print orders</Item>
-		<Item Name="MainDistributionDesc2">Manage your product printers and your digital distribution platform</Item>
-		<Item Name="Mirror room horizontally">Mirror room horizontally</Item>
-		<Item Name="Mirror room vertically">Mirror room vertically</Item>
-		<Item Name="InStockStorage">In stock + in storage</Item>
-		<Item Name="MaintenanceDesc">Maintenance staff will ensure your building runs optimally by fixing your furniture. It's a good idea to keep them handy, as they will catch things beofre they break completely.</Item>
-		<Item Name="CleaningDesc">Cleaning staff will make sure the floors of your building are clean, thereby improving the work environment and keeping your employees happy</Item>
-		<Item Name="ITFixDesc">IT staff will fix everything your maintenance staff can't, such as computers, servers and printers</Item>
-		<Item Name="ReceptionDesc">Receptionists will greet guests who are visting your company to offer deals. You cannot receive deals without receptionists.</Item>
-		<Item Name="CourierDesc">Couriers will show up once a day and pick up any products you have printed in storage, so they can be delivered to stores, stocked and sold</Item>
-		<Item Name="CooksDesc">Cooks will cook and serve food in a canteen for your employees. You will need to have fridges, stoves and serving plates ready.</Item>
-		<Item Name="ITPayment2">{0} up front - Up to {0} per repair</Item>
-		<Item Name="PrintDealTitle">Print job for {0}</Item>
-		<Item Name="PrintDealDesc">Print job for {0}</Item>
+		<Item Name="Product print orders">Demandes d'impression</Item>
+		<Item Name="MainDistributionDesc2">Gérer vos impressions et votre plateforme de distribution digitale</Item>
+		<Item Name="Mirror room horizontally">Symétrie horizontale de la pièce</Item>
+		<Item Name="Mirror room vertically">Symétrie verticale de la pièce</Item>
+		<Item Name="InStockStorage">En stock + entreposé</Item>
+		<Item Name="MaintenanceDesc">Le personnel de maintenance s'assure que les équipements de votre bâtiment fonctionne bien. Il est conseillé d'y faire souvent appel et de ne pas attendre que les équipements soient cassés.</Item>
+		<Item Name="CleaningDesc">Le personnel d'entretien s'assure que les sols de votre bâtiment soient propres, ce qui améliore l'environnement de travail et garde vos salariés satisfaits</Item>
+		<Item Name="ITFixDesc">Le personnel technique répare tout ce que la maintenance ne peut pas, comme les ordinateurs, serveurs et imprimantes</Item>
+		<Item Name="ReceptionDesc">Les réceptionnistes accueillent les visiteurs qui viennent vous proposer des offres. Vous ne pouvez recevoir d'offres sans réceptionniste.</Item>
+		<Item Name="CourierDesc">Les coursiers viennent une fois par jour pour récupérer les copies entreposées pour qu'elles puissent être livrées dans les magasins puis vendues</Item>
+		<Item Name="CooksDesc">Les cuisiniers préparent et servent de la nourriture dans une cantine pour vos salariés. Vous devez pour cela avoir des frigos, fours et des plateaux.</Item>
+		<Item Name="ITPayment2">{0} à l'avance - Jusqu'à {0} par réparation</Item>
+		<Item Name="PrintDealTitle">Lancer l'impression pour {0}</Item>
+		<Item Name="PrintDealDesc">Lancer l'impression pour {0}</Item>
 		<Item Name="Income per Mbps per month">Revenus par Mbps par mois</Item>
 		<Item Name="Current bandwidth usage">Utilisation actuelle de la bande-passante</Item>
 		<Item Name="Maximum bandwidth usage">Utilisation maximum de la bande-passante</Item>
@@ -1842,10 +1842,10 @@ You can always print new copies in the "Your Releases" window.</Item>
 		<Item Name="Per copy">Par copie</Item>
 		<Item Name="Expires">Expire</Item>
 		<Item Name="NotEnoughPallets">Vos imprimantes sont surchargées, construisez plus de palettes pour les décharger</Item>
-		<Item Name="PrintDealFail">You failed to print the last {0} copies for {1} costing you a total of {2} at market value</Item>
-		<Item Name="OnlineStoreServerError">You need a server to open your own digital distribution platform</Item>
-		<Item Name="OnlineStoreConfirmation">Are you sure you want to open your own digital distribution platform? All digital copies of your products will be sold through your own platform and will require adequate server capacity</Item>
-		<Item Name="OnlineStoreCloseConfirmation">Are you sure you want to close your own digital distribution platform? All your distribution deals will be cancelled and will have to be renegotiated</Item>
+		<Item Name="PrintDealFail">L'impression des dernières {0} copies de {1} a échoué, cela vous coute un total {2} à la valeur du marché</Item>
+		<Item Name="OnlineStoreServerError">Vous avez besoin d'un serveur pour ouvrir votre propre plateforme de distribution digitale</Item>
+		<Item Name="OnlineStoreConfirmation">Êtes-vous sûr de vouloir ouvrir votre propre plateforme de distribution digitale ? Toutes les copies digitales de vos produits seront vendues par ce biais, cela requiert une puissance de serveur suffisante</Item>
+		<Item Name="OnlineStoreCloseConfirmation">Êtes-vous sûr de vouloir fermer votre plateforme de distribution digitale ? Tous vos contrats de distribution seront rompus et devront être renégociés</Item>
 		<Item Name="Open digital distribution platform">Ouvrir votre plateforme de distribution digitale</Item>
 		<Item Name="Close digital distribution platform">Fermer votre plateforme de distribution digitale</Item>
 		<Item Name="BetaPrintError">Vous ne pouvez imprimer des copies avant d'être entré en phase beta</Item>
