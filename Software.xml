@@ -1,17 +1,17 @@
 <Software>
 	<CategoryDefault>Défaut</CategoryDefault>
 	<Software Name="Operating System">
-		<Name>Système d'Exploitation</Name>
-		<Description>Le Système d'Exploitation est le plus grand type de logiciel dans Software Inc.
-La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner. Quand des personnes arrête d'acheter un Système d'Exploitation, ils vont également arrêter d'acheter les logiciels de celui-ci.</Description>
+		<Name>Système d'exploitation</Name>
+		<Description>Le Système d'E est le type de logiciel le plus important dans Software Inc.
+La plupart des logiciels nécessitent un Système d'Exploitation pour fonctionner. Quand des personnes arrêtent d'acheter un Système d'Exploitation, ils vont également arrêter d'acheter les logiciels qui tournent dessus.</Description>
 		<Features>
 			<Feature Name="Terminal">
 				<Name>Terminal</Name>
-				<Description>Le Terminal est un interface texte entre le Système d'Exploitation et l'utilisateur</Description>
+				<Description>Le Terminal est l'interface textuel de base entre le Système d'Exploitation et l'utilisateur</Description>
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
-				<Description>L'interface Graphique permet aux utilisateurs de visualier ce qu'ils font. Ils n'auront plus besoin d'écrire une ligne à la fois</Description>
+				<Description>L'interface graphique permet aux utilisateurs de visualier ce qu'ils font. Ils n'auront plus besoin d'écrire une ligne à la fois</Description>
 			</Feature>
 			<Feature Name="3D rendering">
 				<Name>Rendu 3D</Name>
@@ -20,9 +20,13 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Clavier</Name>
 				<Description>Cela a des lettres, des chiffres et d'autres choses importantes.</Description>
 			</Feature>
+			<Feature Name="Input system">
+				<Name>Périphétiques</Name>
+				<Description>Permet à l'utilisateur d'interagir avec le Système d'Exploitation.</Description>
+			</Feature>
 			<Feature Name="Plug'n'Play">
 				<Name>Plug'n'Play</Name>
-				<Description>Connectez ce que vous voulez sur l'ordinauter et laissez le Système d'Exploitation s'occuper du reste.</Description>
+				<Description>Connectez ce que vous voulez sur l'ordinateur et laissez le Système d'Exploitation s'occuper du reste.</Description>
 			</Feature>
 			<Feature Name="Touch">
 				<Name>Tactile</Name>
@@ -30,34 +34,34 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
-				<Description>Le Multithreading permet au Système d'Exploitation de lancer plusieurs threads en même temps tout en commutant entre eux intelligement, accélérant les applications et rend confus à vie les developpeurs.</Description>
+				<Description>Le Multithreading permet au Système d'Exploitation de lancer plusieurs threads <!-- calculs ?--> en même temps en alternant entre elles intelligement, ce qui accélère les applications et complique la vie des developpeurs.</Description>
 			</Feature>
 			<Feature Name="Multitasking">
 				<Name>Multi-Tâche</Name>
-				<Description>Laissez prétendre vos utilisateurs qu'ils peuvent gérer plusieurs tâches en même temps.</Description>
+				<Description>Laisse vos utilisateurs penser qu'ils peuvent gérer plusieurs tâches en même temps.</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Réseau</Name>
-				<Description>Comment des personnes anonymes peuvent trainer sur l'internet sans cette fonctionnalité?</Description>
+				<Description>Comment des personnes anonymes peuvent trainer sur l'internet sans cette fonctionnalité ?</Description>
 			</Feature>
 			<Feature Name="Auto-update">
 				<Name>Auto-Update</Name>
-				<Description>Garde les bugs et la malware en dehors du système, tandis que les utilisateurs s'ennuient avec leurs pilotes qui font crasher l'ordinateur.</Description>
+				<Description>Garde les bugs et les malwares en dehors du système tout en énervant les utilisateurs avec des pilotes incompatibles et des redémarrages soudain.</Description>
 			</Feature>
 			<Feature Name="64-bit">
 				<Name>64-bit</Name>
-				<Description>Double le nombre de bits par registre, permet de gérer plus de nombre, plus de mémoire, de plus gros fichiers, la réponse à la vie, etc.</Description>
+				<Description>Double le nombre de bits par registre, permet de gérer plus de nombres, plus de mémoire, de plus gros fichiers, le mystère à la vie, etc.</Description>
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>Haut-Parleur PC</Name>
-				<Description>Pour tout vos besoins de "BIP BIP"</Description>
+				<Description>Pour tous vos besoins de "BIP BIP"</Description>
 			</Feature>
 			<Feature Name="8-bit audio">
 				<Name>8-bit audio</Name>
 			</Feature>
 			<Feature Name="HD audio">
-				<Name>HD audio</Name>
-				<Description>Comme l'audio en 8 bit, mais avec un peu plus de bits (pas de sous entendu)</Description>
+				<Name>Audio HD</Name>
+				<Description>Comme l'audio en 8 bit, mais en mieux</Description>
 			</Feature>
 		</Features>
 		<Categories>
@@ -70,55 +74,55 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Description>Pour la télé</Description>
 			</Category>
 			<Category Name="Phone">
-				<Name>Telephone</Name>
+				<Name>Téléphone</Name>
 				<Description>Pour la poche</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="2D Editor">
 		<Name>Editeur 2d</Name>
-		<Description>Programme qui vous permet de gérer un tableau 2 dimensions en couleur</Description>
+		<Description>Programme qui vous permet de gérer des tableaux de couleurs en 2 dimensions</Description>
 		<Features>
 			<Feature Name="Image rendering">
 				<Name>Rendu d'image</Name>
-				<Description>Permet d'afficher une image à l'ecran</Description>
+				<Description>Permet d'afficher une image à l'écran</Description>
 			</Feature>
 			<Feature Name="Pixel manipulation">
 				<Name>Manipulation des pixels</Name>
 			</Feature>
 			<Feature Name="Advanced brushes">
-				<Name>brosses améliorés</Name>
+				<Name>Brosses améliorées</Name>
 			</Feature>
 			<Feature Name="Image effects">
 				<Name>Effets d'image</Name>
-				<Description>besoin de plus de tact</Description>
+				<Description>Besoin de plus de filtres</Description>
 			</Feature>
 			<Feature Name="Cinematic filter">
-				<Name>filtre cinématique</Name>
-				<Description>Professionnalisme instantanné</Description>
+				<Name>Filtre cinématique</Name>
+				<Description>Professionnalisme instantané</Description>
 			</Feature>
 			<Feature Name="Image compression">
 				<Name>Compression d'image</Name>
 			</Feature>
 			<Feature Name="Video editing">
-				<Name>Montage video</Name>
+				<Name>Montage vidéo</Name>
 			</Feature>
 			<Feature Name="Video codec">
 				<Name>Codec vidéo</Name>
 			</Feature>
 			<Feature Name="Stock library">
-				<Name>librairie</Name>
+				<Name>Bibliothèque d'image</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="3D Editor">
 		<Name>Editeur 3D</Name>
-		<Description>C'est le futur !</Description>
+		<Description>En bref, des points dans l'espace.</Description>
 		<Features>
 			<Feature Name="Vertex editing">
 				<Name>Edition de Vertex</Name>
-				<Description>Deplace des points sur l'écran</Description>
+				<Description>Déplace des points sur l'écran</Description>
 			</Feature>
 			<Feature Name="Rendering">
 				<Name>Rendu</Name>
@@ -134,11 +138,11 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Voxel sculpting">
 				<Name>Sculptage de Voxel</Name>
-				<Description>N'importe quoi est un point</Description>
+				<Description>Tout est un point</Description>
 			</Feature>
 			<Feature Name="Physics">
 				<Name>Physique</Name>
-				<Description>Fait intérragir les points entre eux.</Description>
+				<Description>Fait interragir les points entre eux.</Description>
 			</Feature>
 			<Feature Name="Realistic hair">
 				<Name>Cheveux réalistes</Name>
@@ -150,15 +154,15 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Liquid simulation">
 				<Name>Simulation de l'eau</Name>
-				<Description>Repend les points sur la surface</Description>
+				<Description>Répend les points sur la surface</Description>
 			</Feature>
 			<Feature Name="PBR">
 				<Name>PBR</Name>
-				<Description>Le "Rendu Physiquement Basé"  simule la réaction des photos avec les points</Description>
+				<Description>Le "Rendu Physiquement Réaliste" simule l'interaction des photons avec les points</Description>
 			</Feature>
 			<Feature Name="Distributed rendering">
 				<Name>Rendu distribué</Name>
-				<Description>Place les points sur une image sur plusieurs ordinateurs à la fois</Description>
+				<Description>Transforme les points en une image sur plusieurs ordinateurs à la fois</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -188,7 +192,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Autotune">
 				<Name>Autotune</Name>
-				<Description></Description>
+				<Description><!-- Difficile de traduire la blague : C'est quelque chose ?--></Description>
 			</Feature>
 			<Feature Name="Audio compression">
 				<Name>Compression audio</Name>
@@ -197,8 +201,8 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game Engine">
-		<Name>Moteur Jeu</Name>
-		<Description>Le moteur de jeu est la mère d'un jeu. Il contient toutes les fonctions necessaires pour un jeu, mais pas de créativité.</Description>
+		<Name>Moteur de jeu</Name>
+		<Description>Le moteur de jeu est la mère d'un jeu. Il contient toutes les fonctionnalités nécessaires pour un jeu, mais pas la créativité.</Description>
 		<Features>
 		<Feature Name="Text-based">
 				<Name>Text-based</Name>
@@ -208,26 +212,26 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Visual editor">
 				<Name>Editeur visuel</Name>
-				<Description>C'est trop bien le Cliquer/Déposer</Description>
+				<Description>Rien de mieux que le Cliquer/Déposer</Description>
 			</Feature>
 			<Feature Name="2D assets">
-				<Name>Fonctionnalités 2D</Name>
-				<Description>Pour aider les developpeurs avec des packages déjà faits.</Description>
+				<Name>Ressources 2D</Name>
+				<Description>Pour aider les développeurs avec des packages de ressources tout prêt.</Description>
 			</Feature>
 			<Feature Name="3D rendering">
 				<Name>Rendu 3D</Name>
 			</Feature>
 			<Feature Name="3D assets">
-				<Name>Fonctionnalités 3D</Name>
-				<Description>Comme celles en 2D mais en... 3 dimensions</Description>
+				<Name>Ressources 3D</Name>
+				<Description>Comme celles en 2D mais en... 3D</Description>
 			</Feature>
 			<Feature Name="VR">
 				<Name>VR</Name>
-				<Description>Réalité virtuel</Description>
+				<Description>Réalité virtuelle</Description>
 			</Feature>
 			<Feature Name="Advanced shaders">
 				<Name>Shaders avancés</Name>
-				<Description>Rien ne doit être plat !</Description>
+				<Description>Tout ne doit pas être plat !</Description>
 			</Feature>
 			<Feature Name="Shadows">
 				<Name>Ombres</Name>
@@ -240,10 +244,10 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>8-bit audio</Name>
 			</Feature>
 			<Feature Name="Audio assets">
-				<Name>Fonctionnalités audio</Name>
+				<Name>Ressources audio</Name>
 			</Feature>
 			<Feature Name="HD audio">
-				<Name>HD audio</Name>
+				<Name>Audio HD</Name>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Réseau</Name>
@@ -253,22 +257,22 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Scripting">
 				<Name>Codage</Name>
-				<Description>Separate la logique du jeu et la logique de la logique</Description>
+				<Description>Sépare la logique du jeu et la logique logique</Description>
 			</Feature>
 			<Feature Name="Visual scripting">
-				<Name>Codage Visuel</Name>
-				<Description>C'est comme la programmation, mais t'utilises juste + la souris.</Description>
+				<Name>Programmation Visuelle</Name>
+				<Description>C'est comme la programmation, mais en utilisant plus la souris.</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Game">
 		<Name>Jeu</Name>
-		<Description>De l'art... dans lequel on intéragie.</Description>
+		<Description>De l'art interactif.</Description>
 		<Features>
 			<Feature Name="Text-based">
 				<Name>Text-based</Name>
-				<Description>Tape un roman pour finir le jeu...</Description>
+				<Description>Oblige le joueur à taper un roman pour finir le jeu...</Description>
 			</Feature>
 			<Feature Name="2D graphics">
 				<Name>Graphismes 2D</Name>
@@ -278,17 +282,17 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="VR">
 				<Name>VR</Name>
-				<Description>Réalité virtuel</Description>
+				<Description>Réalité virtuelle</Description>
 			</Feature>
 			<Feature Name="Physics">
 				<Name>Physiques</Name>
-				<Description></Description>
+				<Description>Des trucs qui rebondissent</Description>
 			</Feature>
 			<Feature Name="Music">
 				<Name>Musique</Name>
 			</Feature>
 			<Feature Name="Dialog">
-				<Name>Dialogue</Name>
+				<Name>Dialogues</Name>
 			</Feature>
 			<Feature Name="Open world">
 				<Name>Monde ouvert</Name>
@@ -297,32 +301,32 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>IA</Name>
 			</Feature>
 			<Feature Name="Local multiplayer">
-				<Name>Mulitjoueur local</Name>
+				<Name>Multijoueur local</Name>
 			</Feature>
 			<Feature Name="Multiplayer">
 				<Name>Multijoueur</Name>
-				<Description>Permet aux jeunes de crier sans aucune raison sur leur Ordinateur</Description>
+				<Description>Permet aux jeunes du monde de s'insulter les uns les autres</Description>
 			</Feature>
 			<Feature Name="MMO">
 				<Name>MMO</Name>
 			</Feature>
 			<Feature Name="Mod support">
-				<Name>Support mods</Name>
-				<Description>Vous pouvez modder cette fonctionnalité en dehors du jeu si vous voulez</Description>
+				<Name>Support des mods</Name>
+				<Description>Vous pouvez enlever cette fonctionnalité du jeu si vous voulez, avec un mod</Description>
 			</Feature>
 			<Feature Name="Touch support">
 				<Name>Support tactile</Name>
 			</Feature>
 			<Feature Name="Advanced input">
 				<Name>Périphériques avancés</Name>
-				<Description>joysticks, volants etc...</Description>
+				<Description>Joysticks, volants etc...</Description>
 			</Feature>
 			<Feature Name="Cutscenes">
-				<Name>Scènes coupées</Name>
+				<Name>Cinématiques</Name>
 			</Feature>
 			<Feature Name="Advanced cutscenes">
-				<Name>Scènes coupées avancées</Name>
-				<Description>Reflete les choix du genre pendant sa partie dans des scènes coupés en temps réel</Description>
+				<Name>Cinématiques avancées</Name>
+				<Description>Reflètent les choix du joueur pendant sa partie en créant des cinématiques personnalisées</Description>
 			</Feature>
 			<Feature Name="Motion capture">
 				<Name>Motion capture</Name>
@@ -338,7 +342,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Category>
 			<Category Name="Simulation">
 				<Name>Simulation</Name>
-				<Description>Tu en joues un actuellement !</Description>
+				<Description>Tu en joues une actuellement !</Description>
 			</Category>
 			<Category Name="Sports">
 				<Name>Sport</Name>
@@ -362,15 +366,15 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="WYSIWYG">
 				<Name>WYSIWYG</Name>
-				<Description>Ce que tu vois est ce que tu as fais</Description>
+				<Description>Ce que tu vois est ce que tu obtiens</Description>
 			</Feature>
 			<Feature Name="Spellcheck">
-				<Name>Vérificateur d'Orthographe</Name>
+				<Name>Correcteur d'orthographe</Name>
 				<Description>Rend tout le monde un peu compétent</Description>
 			</Feature>
 			<Feature Name="Auto layout">
 				<Name>Mise en page auto</Name>
-				<Description>ex: perdre 30 min a placer une image où on le souhaite</Description>
+				<Description>Ex: perdre 30 min à placer une image là où on le souhaite</Description>
 			</Feature>
 			<Feature Name="Spreadsheet">
 				<Name>Tableur</Name>
@@ -380,18 +384,18 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Description>Un tableur peut toujours être plus compliqué.</Description>
 			</Feature>
 			<Feature Name="Charts">
-				<Name>Graphique</Name>
+				<Name>Graphiques</Name>
 			</Feature>
 			<Feature Name="Presentation">
 				<Name>Diaporama</Name>
 			</Feature>
 			<Feature Name="Vector graphics">
-				<Name>Vecteurs graphique</Name>
+				<Name>Images vectorielles</Name>
 				<Description>Lignes, boites et cercles, en gros.</Description>
 			</Feature>
 			<Feature Name="Animations">
 				<Name>Animations</Name>
-				<Description>Meileur moyen de rendre votre diaporama plus ringard.</Description>
+				<Description>Le meilleur moyen de rendre votre diaporama plus ringard.</Description>
 			</Feature>
 			<Feature Name="Sound effects">
 				<Name>Effets sonores</Name>
@@ -404,11 +408,11 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Clipart</Name>
 			</Feature>
 			<Feature Name="Scripting">
-				<Name>Codage</Name>
+				<Name>Macro</Name>
 				<Description>Car vous ne pouvez jamais satisfaire tout le monde.</Description>
 			</Feature>
 			<Feature Name="Online backup">
-				<Name>Restauration en ligne</Name>
+				<Name>Sauvegarde en ligne</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -418,7 +422,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 		<Description>Un système de gestion de contenu très souvent utilisé pour une tâche spécifique.</Description>
 		<Features>
 			<Feature Name="File management">
-				<Name>Gestion de fichier</Name>
+				<Name>Gestion de fichiers</Name>
 			</Feature>
 			<Feature Name="Visualization tools">
 				<Name>Outils de visualisation</Name>
@@ -433,62 +437,62 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Widgets">
 				<Name>Widgets</Name>
-				<Description></Description>
+				<Description>Aussi connu comme les boutons de réseaux sociaux</Description>
 			</Feature>
 			<Feature Name="Themes">
-				<Name>Themes</Name>
+				<Name>Thèmes</Name>
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
-				<Description>Interface Graphique</Description>
+				<Description>Interface graphique</Description>
 			</Feature>
 			<Feature Name="Bank integration">
 				<Name>Intégration de bibliothèques</Name>
 			</Feature>
 			<Feature Name="Document generation">
-				<Name>Génération de document</Name>
-				<Description></Description>
+				<Name>Génération de documents</Name>
+				<Description>Des factures pour tout le monde</Description>
 			</Feature>
 			<Feature Name="Statistics">
 				<Name>Statistiques</Name>
 			</Feature>
 			<Feature Name="User hierarchy">
-				<Name>Hierarchie des utilisateurs</Name>
+				<Name>Hiérarchie des utilisateurs</Name>
 			</Feature>
 			<Feature Name="Work delegation">
-				<Name>Delegation des tâches</Name>
-				<Description>Ou aussi, le fait de crier dans les bureaux des choses à faires aux salariés.</Description>
+				<Name>Délégation des tâches</Name>
+				<Description>Vous pouvez aussi crier dans les bureaux des choses à faire aux salariés.</Description>
 			</Feature>
 			<Feature Name="Synchronization">
 				<Name>Synchronisation</Name>
-				<Description>Ou lancez une disquette de temps en temps</Description>
+				<Description>Ou faites passer une disquette de temps en temps</Description>
 			</Feature>
 		</Features>
 		<Categories>
 			<Category Name="Web Publishing">
-				<Name>Publlication sur Web</Name>
-				<Description></Description>
+				<Name>Publication sur internet</Name>
+				<Description>Pour éviter aux bloggeurs de devoir faire de la programmation</Description>
 			</Category>
 			<Category Name="Financial">
 				<Name>Financement</Name>
-				<Description>Aider les entreprises à garder l'emprise sur leur argent.</Description>
+				<Description>Aide les entreprises à gérer leur argent.</Description>
 			</Category>
 			<Category Name="Workflow">
 				<Name>Gestion des tâches</Name>
-				<Description>le tableau blanc virtuel</Description>
+				<Description>Le tableau blanc virtuel</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="Antivirus">
 		<Name>Antivirus</Name>
-		<Description>Protège les ordinateurs contre les fauteurs de troubles numériques depuis que cela rapporte de l'argent d'installer des logiciels de pub.</Description>
+		<Description>Protège les ordinateurs contre les fauteurs de troubles numériques vu que ça semble rapporter de l'argent.</Description>
 		<Features>
 			<Feature Name="File scan">
 				<Name>Scan de Fichier</Name>
 			</Feature>
 			<Feature Name="User interface">
 				<Name>Interface utilisateur</Name>
-				<Description>Permet à l'utilisateur de simpler ces actions avec l'antivirus.</Description>
+				<Description>Simplifie l'utilisation du logiciel.</Description>
 			</Feature>
 			<Feature Name="Firewall">
 				<Name>Pare-Feu</Name>
@@ -503,7 +507,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 			</Feature>
 			<Feature Name="Virus database">
 				<Name>Base de donnée des Virus</Name>
-				<Description>Garde automatiquement la définition de virus de vos utilisateurs à jour.</Description>
+				<Description>Garde automagiquement la base virale de vos utilisateurs à jour.</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -519,7 +523,7 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>GUI</Name>
 			</Feature>
 			<Feature Name="Database">
-				<Name>Base de donnée</Name>
+				<Name>Base de données</Name>
 			</Feature>
 			<Feature Name="Third-party integration">
 				<Name>Intégration de tiers</Name>
@@ -532,19 +536,19 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 		<Description></Description>
 		<Features>
 			<Feature Name="Static pages">
-				<Name>Pages Statiques</Name>
+				<Name>Pages statiques</Name>
 			</Feature>
 			<Feature Name="Image gallery">
-				<Name>Galerie d'Images</Name>
+				<Name>Galerie d'images</Name>
 			</Feature>
 			<Feature Name="Dynamic pages">
-				<Name>Pages Dynamiques</Name>
+				<Name>Pages dynamiques</Name>
 			</Feature>
 			<Feature Name="Store">
 				<Name>Boutique</Name>
 			</Feature>
 			<Feature Name="Database">
-				<Name>Base de donnée</Name>
+				<Name>Base de données</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -557,10 +561,10 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 				<Name>Art 2D</Name>
 			</Feature>
 			<Feature Name="User interface graphics">
-				<Name>Interface Graphique</Name>
+				<Name>Interface graphique</Name>
 			</Feature>
 			<Feature Name="Sound effects">
-				<Name>Effets Sonores</Name>
+				<Name>Effets sonores</Name>
 			</Feature>
 			<Feature Name="Music">
 				<Name>Musique</Name>
@@ -600,8 +604,8 @@ La pluparts des logiciels necessite un Système d'Exploitation pour fonctionner.
 		<Categories></Categories>
 	</Software>
 	<Feature Name="QA">
-		<Name>AQ</Name>
-		<Description>L'assurance Qualité permet de sortir un produit plus stable et de reparer des bugs qui donneraient envie à vos clients de jeter leur ordinateur par la fenêtre.</Description>
+		<Name>QA</Name>
+		<Description>L'Assurance Qualité permet de sortir un produit plus stable et de réparer des bugs qui donneraient envie à vos clients de jeter leur ordinateur par la fenêtre.</Description>
 	</Feature>
 </Software>
 
