@@ -11,7 +11,7 @@
 		<Item Name="September">Septembre</Item>
 		<Item Name="October">Octobre</Item>
 		<Item Name="November">Novembre</Item>
-		<Item Name="December">Decembre</Item>
+		<Item Name="December">Décembre</Item>
 	</Months>
 	<MainMenu>
 		<Item Name="New Game">Nouvelle partie</Item>
@@ -137,7 +137,7 @@
 		<Item Name="Profit">Profit</Item>
 		<Item Name="Open source">Open source</Item>
 		<Item Name="Loss">Perte</Item>
-		<Item Name="Market">Marché</Item>
+		<Item Name="Market">Pub</Item>
 		<Item Name="Details">Détails</Item>
 		<Item Name="Worth">Valeur</Item>
 		<Item Name="Reputation">Réputation</Item>
@@ -212,14 +212,14 @@
 		<Item Name="Wage negotiations">Négociations Salariales</Item>
 		<Item Name="Stocks">Actions</Item>
 		<Item Name="Insurance">Assurance</Item>
-		<Item Name="Save games">Sauvegarder</Item>
+		<Item Name="Save games">Parties sauvegardées</Item>
 		<Item Name="Staff">Personnel</Item>
 		<Item Name="Marketing">Marketing</Item>
 		<Item Name="Servers">Serveurs</Item>
 		<Item Name="Education">Formation</Item>
 		<Item Name="Materials">Matériels</Item>
 		<Item Name="Marketing">Marketing</Item>
-		<Item Name="Save games">Sauvegarder</Item>
+		<Item Name="Save games">Parties sauvegardées</Item>
 		<Item Name="EULA">EULA</Item>
 	</WindowTitles>
 	<DesignWindow>
@@ -364,8 +364,8 @@
 		<Item Name="Save game">Sauvegarder</Item>
 		<Item Name="Save game as">Sauvegarder sous...</Item>
 		<Item Name="Load game">Charger</Item>
-		<Item Name="Quit to menu">Menu Principal</Item>
-		<Item Name="Quit to desktop">Retour au Bureau</Item>
+		<Item Name="Quit to menu">Menu principal</Item>
+		<Item Name="Quit to desktop">Retour au bureau</Item>
 	</Pause>
 	<Marketing>
 		<Item Name="Interwebs">Forums</Item>
@@ -375,30 +375,30 @@
 		<Item Name="Start campaign">Lancer une campagne</Item>
 	</Marketing>
 	<OptionsWindow>
-		<Item Name="Auto-skip day">Passer automatique la journée</Item>
+		<Item Name="Auto-skip day">Fin de journée automatique</Item>
 		<Item Name="AutoSkipHint">Passe le temps jusqu'à qu'un salarié arrive si personne n'est présent.</Item>
 		<Item Name="Currency">Devise</Item>
 		<Item Name="Difficulty">Difficulté</Item>
 		<Item Name="Run in background">Fonctionne en arrière plan</Item>
-		<Item Name="Auto-save">Sauvegarde Auto</Item>
+		<Item Name="Auto-save">Sauvegarde auto</Item>
 		<Item Name="AutoSaveHint">Sauvegarde une fois par mois sur "autosave"</Item>
 		<Item Name="Tutorials">Tutoriels</Item>
 		<Item Name="AM/PM">AM/PM</Item>
 		<Item Name="Celsius">Celsius</Item>
-		<Item Name="Mouse edge scrolling">Défilement de la Souris</Item>
+		<Item Name="Mouse edge scrolling">Défilement de la souris</Item>
 		<Item Name="MouseEdgeHint">Déplace la caméra lorsque la souris est au bord de l'écran</Item>
-		<Item Name="Scroll speed">Vitesse de Défilement</Item>
-		<Item Name="Zoom speed">Vitesse de Zoom</Item>
-		<Item Name="Rotation speed">Vitesse de Rotation</Item>
+		<Item Name="Scroll speed">Vitesse de défilement</Item>
+		<Item Name="Zoom speed">Vitesse de zoom</Item>
+		<Item Name="Rotation speed">Vitesse de rotation</Item>
 		<Item Name="Easy">Facile</Item>
 		<Item Name="Medium">Moyen</Item>
 		<Item Name="Hard">Difficile</Item>
 		<Item Name="Gameplay">Gameplay</Item>
-		<Item Name="Graphics">Graphismes</Item>
+		<Item Name="Graphics">Vidéo</Item>
 		<Item Name="Audio">Audio</Item>
 		<Item Name="Keys">Raccourcis</Item>
 		<Item Name="Resolution">Résolution</Item>
-		<Item Name="Fullscreen">Plein Ecran</Item>
+		<Item Name="Fullscreen">Plein écran</Item>
 		<Item Name="Antialias type">Anti-Aliasing</Item>
 		<Item Name="AntialiasHint">Adoucis les bords</Item>
 		<Item Name="VSync">VSync</Item>
@@ -419,17 +419,17 @@
 		<Item Name="FPS">Images/Secondes</Item>
 		<Item Name="Music">Musiques</Item>
 		<Item Name="SFX">SFX</Item>
-		<Item Name="User Interface">Interface Utilisateur</Item>
+		<Item Name="User Interface">Interface utilisateur</Item>
 		<Item Name="Toggle lights">Afficher/Cacher les lumières</Item>
 		<Item Name="Toggle walls">Afficher/Cacher les murs</Item>
-		<Item Name="Move camera forward">Se déplacer vers l'avant</Item>
-		<Item Name="Move camera backward">Se déplacer vers l'arrière</Item>
-		<Item Name="Move camera left">Se déplacer à gauche</Item>
-		<Item Name="Move camera right">Se déplacer à droite</Item>
-		<Item Name="Rotate camera up">Rotation de caméra HAUT</Item>
-		<Item Name="Rotate camera down">Rotation de caméra BAS</Item>
-		<Item Name="Rotate camera left">Rotation de caméra GAUCHE</Item>
-		<Item Name="Rotate camera right">Rotation de caméra DROITE</Item>
+		<Item Name="Move camera forward">Déplacement avant</Item>
+		<Item Name="Move camera backward">Déplacement arrière</Item>
+		<Item Name="Move camera left">Déplacement à gauche</Item>
+		<Item Name="Move camera right">Déplacement à droite</Item>
+		<Item Name="Rotate camera up">Rotation haut</Item>
+		<Item Name="Rotate camera down">Rotation bas</Item>
+		<Item Name="Rotate camera left">Rotation gauche</Item>
+		<Item Name="Rotate camera right">Rotation droite</Item>
 		<Item Name="Zoom in">Zoomer en avant</Item>
 		<Item Name="Zoom out">Zoomer en arrière</Item>
 		<Item Name="Move up one floor">Monter d'un étage</Item>
@@ -439,9 +439,9 @@
 		<Item Name="Faster game speed">Vitesse rapide</Item>
 		<Item Name="Fastest game speed">Vitesse très rapide</Item>
 		<Item Name="Toggle camera mode">Changer le mode Caméra</Item>
-		<Item Name="Hide HUD">Cacher l'Interface</Item>
+		<Item Name="Hide HUD">Cacher l'interface</Item>
 		<Item Name="Go to employee">Atteindre le salarié</Item>
-		<Item Name="Destroy selected">Vendre/Virer/Détruire la sélection</Item>
+		<Item Name="Destroy selected">Vendre / Virer / Détruire la sélection</Item>
 		<Item Name="Toggle Build Mode">Basculer vers le mode construction</Item>
 	</OptionsWindow>
 	<AI>
@@ -568,7 +568,7 @@ Si vous voulez séparer une salle, vous devez construire mur par mur</Item>
 		<Item Name="DismissTitle">Renvoyer</Item>
 		<Item Name="DismissMsg">Etes-vous sûr de renvoyer {0} salariés ?</Item>
 		<Item Name="DismissMsg2">Vous avez renvoyé {0} salariés</Item>
-		<Item Name="SellTitle">Vendre</Item>
+		<Item Name="SellTitle">Vendre licence</Item>
 		<Item Name="SellMsg">Etes-vous sûr de vouloir vendre ces {0} équipements</Item>
 		<Item Name="SellMsg2">Vous avez vendu {0} équipements</Item>
 		<Item Name="BulldozeTitle">Détruire</Item>
@@ -718,7 +718,7 @@ Voulez-vous recourir à un prêt de {1} pour essayer d'éviter la banqueroute ?<
 		<Item Name="ContractFinish">Vous avez fini ce contrat pour la somme de {0}</Item>
 		<Item Name="Alpha">Alpha</Item>
 		<Item Name="Beta">Beta</Item>
-		<Item Name="Promote">Beta</Item>
+		<Item Name="Promote">Valider</Item>
 		<Item Name="Release">Publier</Item>
 		<Item Name="Delay">Délai</Item>
 		<Item Name="NoBugs">Aucun bug à corriger</Item>
@@ -1254,7 +1254,7 @@ ajoutez des chauffages/ventilations et pensez aux pertes dues aux fenêtres.</It
 		<Item Name="MarketingError">Il y a déjà une campagne marketing pour ce produit.</Item>
 		<Item Name="KeyBindingWarning">"{0}" est déjà lié à "{1}", êtes vous sûr de vouloir faire cela ?</Item>
 		<Item Name="Request">Requête</Item>
-		<Item Name="Retail price">Prix de vente</Item>
+		<Item Name="Retail price">Prix</Item>
 		<Item Name="Priority">Priorité</Item>
 		<Item Name="Change software name">Changer le nom du logiciel</Item>
 		<Item Name="MarketingProduct">Marketing {0}</Item>
@@ -1276,7 +1276,7 @@ ajoutez des chauffages/ventilations et pensez aux pertes dues aux fenêtres.</It
 		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Augmente la résolution du jeu afin de lisser les bords au maximum (Requiert une carte graphique haut de gamme)</Item>
 		<Item Name="WorkItemCancelConf">Êtes-vous sûr de vouloir annuler {0} ?</Item>
 		<Item Name="Shadow quality">Qualité des ombres</Item>
-		<Item Name="Units sold">Unités vendues</Item>
+		<Item Name="Units sold">Ventes</Item>
 	</Alpha7.2>
 	<Alpha7.3>
 		<Item Name="Off">Off</Item>
@@ -1669,7 +1669,7 @@ Veuillez la connecter avec des portes, ascensseurs ou escaliers</Item>
 			<Item Name="WorkItemTeamFilter">Filtrer selon l'équipe sélectionnée</Item>
 			<Item Name="Replace furniture">Remplacer les meubles</Item>
 			<Item Name="ActionReplaceFurn">Remplacer les meubles</Item>
-			<Item Name="InstallMods">Mods installés</Item>
+			<Item Name="InstallMods">Mods installés </Item>
 			<Item Name="Idle employees">Salariés occupés</Item>
 			<Item Name="NotWorkingState">Pas de travail</Item>
 			<Item Name="NoWork">Aucune tâche assignée</Item>
@@ -1694,13 +1694,13 @@ Veuillez la connecter avec des portes, ascensseurs ou escaliers</Item>
 		<Item Name="OwnOffice">Son bureau</Item>
 		<Item Name="linesofcode">{0} lignes de code</Item>
 		<Item Name="MBArt">{0} art</Item>
-		<Item Name="Refunds">Remboursements</Item>
+		<Item Name="Refunds">Retournés</Item>
 		<Item Name="Bias">Préjugé</Item>
-		<Item Name="PositivePostfixBias">{0} préjugé positif</Item>
-		<Item Name="NegativePostfixBias">{0} préjugé négatif</Item>
+		<Item Name="PositivePostfixBias">Préjugé positif {0}</Item>
+		<Item Name="NegativePostfixBias">Préjugé négatif {0}</Item>
 		<Item Name="BiasNone">Aucun préjugé</Item>
-		<Item Name="Peer review">Evaluation par les pairs</Item>
-		<Item Name="Review">Evaluation</Item>
+		<Item Name="Peer review">Evaluation</Item>
+		<Item Name="Review">Eval.</Item>
 		<Item Name="Anonymous">Anonyme</Item>
 		<Item Name="ReviewOf">Evaluation de {0}</Item>
 		<Item Name="ReviewsWritten">{0} évaluations terminées</Item>
@@ -1736,7 +1736,7 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="Current artists">Artists actuels</Item>
 		<Item Name="Current any role">Sans affectation actuels</Item> <!-- bof -->
 		<Item Name="Release date">Date de sortie</Item>
-		<Item Name="Started development">Développement commencé</Item>
+		<Item Name="Started development">Début du dev.</Item>
 		<Item Name="BugsFixed">{0} résolu(s)</Item>
 		<Item Name="BugsVerified">{0} vérifié(s)</Item>
 		<Item Name="TicketsQueued">{0} en attente</Item>
@@ -1813,7 +1813,7 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="ReleasePrintingPrompt">Pour pouvoir vendre votre produit il vous faut en imprimer des copies. Si vous n'en imprimez pas, votre produit ne sera disponible que numériquement. Voulez-vous imprimer des copies ?
 Vous pouvez toujours en imprimer de nouvelles copies via la fenêtre "Mes logiciels".</Item>
 		<Item Name="CourierParkError">Votre coursier n'a pas d'endroit où se garer. Veuillez construire de nouvelles places de parking</Item>
-		<Item Name="Start printing">Commencer l'impression</Item>
+		<Item Name="Start printing">Impression</Item>
 		<Item Name="Print">Imprimer</Item>
 		<Item Name="Hire courier">Coursier</Item>
 		<Item Name="Courier">Coursier</Item>
@@ -1823,8 +1823,8 @@ Vous pouvez toujours en imprimer de nouvelles copies via la fenêtre "Mes logici
 		<Item Name="Goal">Objectif</Item>
 		<Item Name="Product print orders">Demandes d'impression</Item>
 		<Item Name="MainDistributionDesc2">Gérer vos impressions et votre plateforme de distribution digitale</Item>
-		<Item Name="Mirror room horizontally">Symétrie horizontale de la pièce</Item>
-		<Item Name="Mirror room vertically">Symétrie verticale de la pièce</Item>
+		<Item Name="Mirror room horizontally">Symétrie horizontale</Item>
+		<Item Name="Mirror room vertically">Symétrie verticale</Item>
 		<Item Name="InStockStorage">En stock + entreposé</Item>
 		<Item Name="MaintenanceDesc">Le personnel de maintenance s'assure que les équipements de votre bâtiment fonctionne bien. Il est conseillé d'y faire souvent appel et de ne pas attendre que les équipements soient cassés.</Item>
 		<Item Name="CleaningDesc">Le personnel d'entretien s'assure que les sols de votre bâtiment soient propres, ce qui améliore l'environnement de travail et garde vos salariés satisfaits</Item>
