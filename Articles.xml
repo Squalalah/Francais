@@ -12,7 +12,7 @@
 	<Item Name="SoftwareIntroStartAdd22">, on a le scoop !</Item>
 	<Item Name="SoftwareIntroStartAdd23">, cela ne semble pas bon</Item>
 	<Item Name="SoftwareIntroStartAdd24">, nous ne sommes pas excités</Item>
-	<Item Name="SoftwareIntroSequel0">{0} est une suite du flop {1}</Item>
+	<Item Name="SoftwareIntroSequel0">{0} est une suite du flop de {1}</Item>
 	<Item Name="SoftwareIntroSequel1">{0} est une suite de {1}</Item>
 	<Item Name="SoftwareIntroSequel2">{0} est une suite du très respecté {1}</Item>
 	<Item Name="SoftwareIntroSequelAdd0"> mais ce n'est pas aussi bien qu'espéré.</Item>
