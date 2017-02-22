@@ -1779,7 +1779,7 @@ Attribuez un budget pour éviter de dépenser tout votre argent ou laisser le à
 		<Item Name="AutoDevMissingLeader">Vous devez choisir un responsable avant de continuer</Item>
 		<Item Name="AutoDevNoLeaders">Il n'y a pas de responsables disponibes, veuillez en embaucher un ou changer le rôle d'un de vos salariés</Item>
 		<Item Name="LateProductRelease">{0} est en retard et les gens commencent à s'en désintéresser</Item>
-		<Item Name="NewDebtLoss">Votre entreprise est endettée ! Vous avez jusqu'au pour corriger votre situation financière ou votre entreprise sera en banqueroute</Item>
+		<Item Name="NewDebtLoss">Votre entreprise est endettée ! Vous avez jusqu'au {0} pour corriger votre situation financière ou votre entreprise sera en banqueroute</Item>
 		<Item Name="NewDebtLossPass">Félicitations ! 24 heures sont passées et votre entreprise a réglé ses dettes</Item>
 		<Item Name="ReviewError">L'évaluation n'est disponible que durant la phase d'alpha</Item>
 		<Item Name="Current floor">Etage actuel</Item>
