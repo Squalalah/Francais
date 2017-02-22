@@ -1233,8 +1233,8 @@ ajoutez des chauffages/ventilations et pensez aux pertes dues aux fenêtres.</It
 		<Item Name="Business reputation">Réputation de l'entreprise</Item>
 		<Item Name="BusinessRepInfo">C'est votre réputation dans le secteur logiciel. Chaque étoile aura une incidence sur la qualité des salariés, des contrats, des offres et sur la distribution</Item>
 		<Item Name="PricingButtonTip">Cliquez ici pour utiliser le prix suggéré pour ce logiciel</Item>
-		<Item Name="Market recognition">Reconnaissance du marché</Item>
-		<Item Name="MarketRecognitionInfo">Votre reconnaissance du marché contrôle votre popularité sur chaque marché et la façon dont se vendent vos produits pour chaque catégorie</Item>
+		<Item Name="Market recognition">Popularité</Item>
+		<Item Name="MarketRecognitionInfo">Cette indice vous permet de savoir à quel point votre entreprise est populaire dans le monde.</Item>
 		<Item Name="Bandwidth">Bande passante</Item>
 		<Item Name="Reflections">Réflexions</Item>
 		<Item Name="ActionChange Room Team">Changer d'équipe</Item>
