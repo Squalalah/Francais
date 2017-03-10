@@ -64,7 +64,7 @@
 	</Furniture>
 	<Furniture Name="Ceiling Fan">
 		<Name>Ventilateur plafonnier</Name>
-		<Description>Ventilateur par Nifty, il à l'air cool, il refroid aussi la pièce mais cause des nuissances sonores.</Description>
+		<Description>Ventilateur stylé, il à l'air cool, il refroid aussi la pièce mais cause des nuissances sonores.</Description>
 		<Color1>Base</Color1>
 		<Color2>Blades</Color2>
 	</Furniture>
@@ -92,37 +92,37 @@
 		<Name>Ventilation industriel</Name>
 		<Description>Ce ventilateur à été conçu pour un refroidissement optimal des serveurs, pas des salariés...</Description>
 		<Color1>Base</Color1>
-		<Color2>Blades</Color2>
+		<Color2>Pales</Color2>
 	</Furniture>
 	<Furniture Name="Old Computer">
 		<Name>Vieil Ordinateur</Name>
 		<Description>Plus de pixel que de doigts sur une main !</Description>
-		<Color1>Casing</Color1>
-		<Color2>Keys</Color2>
+		<Color1>Boitier</Color1>
+		<Color2>Touches</Color2>
 	</Furniture>
 	<Furniture Name="90s Computer">
 		<Name>Ordinateur des années 90</Name>
 		<Description>Encore plus de pixel ?</Description>
-		<Color1>Casing</Color1>
-		<Color2>Monitor</Color2>
-		<Color3>Keys</Color3>
+		<Color1>Boitier</Color1>
+		<Color2>Ecran</Color2>
+		<Color3>Touches</Color3>
 	</Furniture>
 	<Furniture Name="Laptop">
 		<Name>Ordinateur portable</Name>
 		<Description>Simple et pratique.</Description>
-		<Color1>Casing</Color1>
-		<Color2>Keys</Color2>
+		<Color1>Boitier</Color1>
+		<Color2>Touches</Color2>
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>Ordinateur Moderne</Name>
 		<Description>Un ordinateur moderne pour tous vos besoins d'informatiques ... modernes.</Description>
 		<Color1>Base</Color1>
-		<Color2>Keys</Color2>
+		<Color2>Touches</Color2>
 	</Furniture>
 	<Furniture Name="HoloComputer">
 		<Name>HoloPC</Name>
 		<Description>Bienvenue dans le futur! Oû tout est vraiment moins pratique.</Description>
-		<Color1>Hologram</Color1>
+		<Color1>Hologramme</Color1>
 	</Furniture>
 	<Furniture Name="Cubicle wall">
 		<Name>Mur de séparation</Name>
@@ -131,36 +131,36 @@
 	<Furniture Name="Lamp">
 		<Name>Lampe</Name>
 		<Description>Assurez-vous que vos salariés peuvent voir quand ils travaillent de nuit ou si nous n'avez pas envie d'être observé avec des fenêtres.</Description>
-		<Color1>Shade</Color1>
-		<Color3>Lightning</Color3>
+		<Color1>Nuance</Color1>
+		<Color3>Eclairage</Color3>
 	</Furniture>
 	<Furniture Name="Wall Lamp">
 		<Name>Lampe murale</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
-		<Name>Lampe de Table</Name>
+		<Name>Lampe de Bureau</Name>
 		<Description>Un éclairage pour le bureau (sérieusement).</Description>
 		<Color1>Base</Color1>
-		<Color3>Lightning</Color3>
+		<Color3>Eclairage</Color3>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
-		<Name>Lampe de Salle</Name>
-		<Description>Créer de la lumière, mais dans une salle toute entière</Description>
-		<Color1>Shade</Color1>
+		<Name>Lampadaire</Name>
+		<Description>Fait de la lumière, mais est aussi dans le passage</Description>
+		<Color1>Teinte</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Fluorescent lamp">
 		<Name>Lampe fluorescente</Name>
 		<Description>Parfait pour l'éclairage des sous-sols, ne demande que peu d'entretien, l'idéal non ?</Description>
-		<Color1>Shade</Color1>
-		<Color3>Lighting</Color3>
+		<Color1>Nuance</Color1>
+		<Color3>Eclairage</Color3>
 	</Furniture>
 	<Furniture Name="Outdoor Lamp">
 		<Name>Lampe d'extérieur</Name>
 		<Description></Description>
 		<Color1>Base</Color1>
-		<Color3>Lighting</Color3>
+		<Color3>Eclairage</Color3>
 	</Furniture>
 	<Furniture Name="Vending Machine">
 		<Name>Distributeur automatique</Name>
@@ -168,20 +168,20 @@
 	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Réfrigérateur</Name>
-		<Description>Générateur de bouffe à incandescence.</Description>
+		<Description>Génère de la nourriture pour que les cuisiniers cuisinent.</Description>
 	</Furniture>
 	<Furniture Name="Stove">
 		<Name>Gazinière</Name>
-		<Description>Le cuisinier utilise les gazinières pour faire cuire des aliments. Nécessite une poêle par cuisinier.</Description>
+		<Description>Le cuisinier utilise les gazinières pour faire cuire des aliments. Nécessite une gazinière par cuisinier.</Description>
 		<Color1>Base</Color1>
-		<Color2>Top</Color2>
+		<Color2>Haut</Color2>
 	</Furniture>
 	<Furniture Name="Serving Tray">
 		<Name>Plateau</Name>
 		<Description>Les cuisiniers vont remplir les plateaux avec de la nourriture qu'ils ont cuisinés pour que les salariés puissent manger.</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Café moulu</Name>
+		<Name>Café instantané</Name>
 		<Description>Trempez un peu de poudre dans de l'eau, et selon certaines légendes, cela donne du café.</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
@@ -204,18 +204,18 @@
 	<Furniture Name="Watercooler">
 		<Name>Distributeur d'eau</Name>
 		<Description>Une petite pause pour discuter et se rafraîchir. Parfait pour se sociabiliser.</Description>
-		<Color1>Shade</Color1>
+		<Color1>Teinte</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Painting">
 		<Name>Peinture</Name>
-		<Description>Une soi disante peinture pour décorer votre pièce.</Description>
-		<Color1>Frame</Color1>
+		<Description>Une soi-disante peinture pour décorer votre pièce.</Description>
+		<Color1>Cadre</Color1>
 	</Furniture>
 	<Furniture Name="TV">
 		<Name>Télévision</Name>
 		<Description>Il y a quoi à la télé ?</Description>
-		<Color1>Frame</Color1>
+		<Color1>Contour</Color1>
 	</Furniture>
 	<Furniture Name="Bookshelf">
 		<Name>Bibliothèque</Name>
@@ -228,7 +228,7 @@
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Floor Plant">
-		<Name>Plante de Salle</Name>
+		<Name>Plante de Sol</Name>
 		<Description>Une adorable plante.</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
@@ -260,36 +260,36 @@
 	<Furniture Name="Clock">
 		<Name>Horloge</Name>
 		<Description>Une machine temporel!(non, ce n'est pas un TARIDS..)</Description>
-		<Color1>Background</Color1>
-		<Color2>Frame</Color2>
+		<Color1>Fond</Color1>
+		<Color2>Cadre</Color2>
 	</Furniture>
 	<Furniture Name="Small Server">
 		<Name>Petit Serveur</Name>
 		<Description>Un ordinateur, mais avec un peu plus d'internet.</Description>
-		<Color1>Casing</Color1>
+		<Color1>Boitier</Color1>
 	</Furniture>
 	<Furniture Name="Medium Server">
 		<Name>Serveur</Name>
 		<Description>Comme le petit serveur, mais en un peu plus gros.</Description>
-		<Color1>Casing</Color1>
+		<Color1>Boitier</Color1>
 	</Furniture>
 	<Furniture Name="Tower Server">
 		<Name>Grand Serveur</Name>
 		<Description>Une tour très porformante(Ce n'est pas vraiment une tour).</Description>
-		<Color1>Casing</Color1>
-		<Color2>Lighting</Color2>
+		<Color1>Boitier</Color1>
+		<Color2>Eclairage</Color2>
 	</Furniture>
 	<Furniture Name="Server Rack">
 		<Name>Baie de Serveur</Name>
 		<Description>Si un ordinateur n'est pas suffisant.</Description>
-		<Color1>Casing</Color1>
+		<Color1>Boitier</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Phone">
 		<Name>Téléphone</Name>
 		<Description>Qui allez-vous appeler ?</Description>
 		<Color1>Base</Color1>
-		<Color2>Handle</Color2>
+		<Color2>Combiné</Color2>
 	</Furniture>
 	<Furniture Name="Drawing Tablet">
 		<Name>Tablette Graphique</Name>
@@ -301,12 +301,12 @@
 		<Name>Calculatrice</Name>
 		<Description>La calculatrice est le meilleur ami d'un programmeur !</Description>
 		<Color1>Base</Color1>
-		<Color2>Keys</Color2>
+		<Color2>Touches</Color2>
 	</Furniture>
 	<Furniture Name="Inbox">
-		<Name>Boite de réception</Name>
+		<Name>Trieur</Name>
 		<Description>Aide à garder vos employés organisés, particulièrement utile pour les personnes n'ayant jamais entendu parler d'un mail.</Description>
-		<Color1>Box</Color1>
+		<Color1>Boite</Color1>
 	</Furniture>
 	<Segment Name="Standard door">
 		<Name>Porte Standard</Name>
@@ -314,7 +314,7 @@
 	</Segment>
 	<Segment Name="Sliding glass door">
 		<Name>Porte en verre coulissante</Name>
-		<Description>une porte fenêtré !</Description>
+		<Description>Une porte fenêtré !</Description>
 	</Segment>
 	<Segment Name="Double doors">
 		<Name>Double porte</Name>
@@ -330,18 +330,18 @@
 	</Segment>
 	<Segment Name="Large window">
 		<Name>Grande Fenêtre</Name>
-		<Description>Si vous voulez plus qu'une fenêtre</Description>
+		<Description>Si vous voulez plus de fenêtre</Description>
 	</Segment>
 	<Segment Name="Wide window">
 		<Name>Fenêtre large</Name>
 		<Description>Pour l'experience sur ecran large</Description>
 	</Segment>
 	<Segment Name="Arched gate">
-		<Name>Porte arquée</Name>
+		<Name>Portail Voùté</Name>
 		<Description></Description>
 	</Segment>
 	<Segment Name="Open gate">
-		<Name>Porte ouverte</Name>
+		<Name>Portail ouvert</Name>
 		<Description></Description>
 	</Segment>
 </Furniture>
